@@ -195,6 +195,64 @@ One the other hand, even if knowledge of Meno or the road to Larissa is not syst
 
 What about the point that the road to Larissa example shows that knowledge and belief have a common object. It is less tempting to say here again that the examples are only imperfect illustrations of the sort of knowledge Plato is really concerned with, because other examples could be adduced, such as the case where Socrates says (at 85c–d) that the slave could come to know what he now only believes.[^86] But experience with the earlier dialogues offers us a fine response.[^87] Plato just isn’t fastidious about, if cognizant at all of, the difference between knowledge of the *techne* as a whole and knowledge about aspects of the *techne* or about applications of the *techne*. In the latter cases, knowledge may very well be constituted by belief, and that’s enough to account for the fact that the same objects are sometimes spoken of as objects of both belief and knowledge.
 
+## Bibliography
+
+J. Allen. Failure and Expertise in the Ancient Conception of an Art. *Scientific Failure*, 1994.
+
+R. E. Allen. The Socratic Paradox. *Journal of the History of Ideas*, 21(2): 256--265, 1960.
+
+R. E. Allen. *The Dialogues of Plato, vol. 1: Euthyphro, Apology, Crito, Meno, Gorgias, Menexenus*. Yale University Press, 1989.
+
+R. E. Allen. *The Dialogues of Plato, vol. 3: Ion, Hippias Minor, Laches, Protagoras*. Yale University Press, 1996.
+
+Hugh Benson. *Socratic Wisdom: The Model of Knowledge in Platos Early Dialogues*. Oxford University Press, 2000.
+
+T. C. Brickhouse and N. D. Smith. *Platos Socrates*. Oxford University Press, 1994.
+
+E. R. Dodds. *Plato Gorgias*. Clarendon Press Oxford, England, 1959.
+
+A.I. Goldman. Experts: which ones should you trust? *Philosophy and Phenomenological Research*, pages 85--110, 2001.
+
+J. Gosling. *Platos Moral Theory*. Philosophical Books, 19:97--102, 1978.
+
+F. Heinimann. Eine vorplatonische Theorie der . *Museum Helveticum*, 18:105--130, 1961.
+
+T. Irwin. *Platos Moral Theory: the Early and Middle Dialogues*. Oxford University Press, 1977.
+
+T. Irwin. *Plato: Gorgias*. Oxford, 1979.
+
+T. Irwin. *Platos Ethics*. Oxford University Press, 1995.
+
+C. H. Kahn. *Plato and the Socratic Dialogue*. Cambridge University Press, 1996.
+
+Richard Kraut. *Socrates and the State*. Princeton University Press, 1984.
+
+John Lyons. *Structural Semantics*. Blackwell, 1972.
+
+Jessica Moss. Pleasure and Illusion in Plato. *Philosophy and Phenomenological Research*, 72(3):503--535, 2006.
+
+Alexander Nehamas. Menos Paradox and Socrates as a Teacher. *Virtues of Authenticity*, 1999.
+
+Terry Penner. Socrates on the Strength of Knowledge: Protagoras 351b- 357e. *Archiv für Geschichte der Philosophie*, 79:117--149, 1997.
+
+C. D. C. Reeve. *Socrates in the Apology*. Hackett, 1989.
+
+David Roochnik. Socratess Use of the Techne-Analogy. *Journal of the History of Philosophy*, 24(3):295--310, 1986.
+
+David Roochnik. Counting on Number: Plato on the Goodness of Arithmos. *American Journal of Philology*, 115(4):543--563, 1994.
+
+David Roochnik. *Of Art and Wisdom*. Pennsylvania State University Press, 1996.
+
+Mark Schiefsky. *Hippocrates: On Ancient Medicine*. Brill, 2005.
+
+Angela Smith. Knowledge and Expertise in the Early Platonic Dialogues. *Archiv für Geschichte Der Philosophie*, 80(2), 1998.
+
+Gregory Vlastos. Ethics and Physics in Democritus. Part II. *The Philosopical Review*, 55:53--64, 1946.
+
+Paul Woodruff. Platos Early Theory of Knowledge. *Epistemology*, 1990.
+
+## Notes
+
 [^1]: @huemer2002ecr, p. 1.
 
 [^2]: By “earlier dialogues,” I mean the *Apology, Charmides, Crito, Euthydemus, Euthyphro, Gorgias, Hippias Major, Hippias Minor, Ion, Laches, Lysis,* and *Protagoras*; I also draw on the *Meno* and *Republic* I. (But similar examples are also prominent in later dialogues.)
@@ -368,4 +426,3 @@ What about the point that the road to Larissa example shows that knowledge and b
 [^86]: Fine does indeed mention this example too.
 
 [^87]: Annas and Fine are looking ahead to disputes about the nature of Plato’s middle-period metaphysics and epistemology. They want to resist too firm a distinction between the intelligible objects of knowledge on the one hand and the sensible objects of belief on the other.
-
