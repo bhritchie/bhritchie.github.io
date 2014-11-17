@@ -9,9 +9,9 @@ It doesn’t take much acquaintance with Plato’s earlier dialogues to know tha
 
 Modern readers do not exactly miss these examples, but the *significance* of *techne* in the early dialogues is often ill-appreciated. It is not always seen that Socrates’ scattered reflections on *techne*—which constitute a very significant part of the dialogues—constitute, in fact, reflections on knowledge. Thus so great and sympathetic an interpreter as Gregory Vlastos was able to say that Socrates was “exclusively a moral philosopher.”[^4]
 
-On occasion Socratic epistemology *is* taken up in its own right, but then *techne* generally gets too little emphasis. Hugh Benson is by no means alone in saying that for Socrates, knowledge is more like understanding than like the (for us) more familiar justified true belief.[^5] He offers some “paradigmatic examples of the kind of understanding [he has] in mind”:
+On occasion Socratic epistemology *is* taken up in its own right, but even then *techne* generally gets too little emphasis. Hugh Benson is by no means alone in saying that for Socrates, knowledge is more like *understanding* than like the (for us) more familiar *justified true belief*.[^5] He offers some “paradigmatic examples of the kind of understanding [he has] in mind”:
 
-> We say things like Einstein understands gravity, Richard Feynmann > understands quantum mechanics, R. G. Collingwood understands history, > or James Boswell understands Samuel Johnson.[^6]
+> We say things like Einstein understands gravity, Richard Feynmann understands quantum mechanics, R. G. Collingwood understands history, or James Boswell understands Samuel Johnson.[^6]
 
 But Callicles does not complain that Socrates never leaves off talking about cosmological theories; the tyrants do not warn Socrates that he should stop talking about historical figures or battles. To talk only of “understanding” leaves us in the dark as to why this should be. We would do better to put more emphasis on *techne* in particular.
 
@@ -21,7 +21,7 @@ Scholarly interest in *techne* has instead mainly been due to interest in the so
 
 But Socrates certainly says enough about *techne* to distinguish his conception thereof from Aristotle’s, and it is a mistake to suppose that two conceptions are close enough for interpretative purposes.
 
-We moderns do talk about knowledge of non-propositional varieties all the time. And Socrates talks about propositional varieties of knowledge. But, generally, once we start thinking *about* knowledge, we start thinking about knowledge in propositional form. And Socrates, when he starts to think about knowledge, thinks about *techne*. It is not too much to say that, for Socrates, knowledge just *is* *techne*. And so in this essay I describe the Socratic conception of knowledge, and argue that it *is* the Socratic conception of knowledge that I’m describing. In other words, I describe the Socratic conception of *techne*, explaining how it is different from other conceptions of *techne* (in §1), and I explain why that is tantamount to describing the Socratic conception of knowledge altogether (in §§2–4).
+We moderns do talk about knowledge of non-propositional varieties all the time. And Socrates talks about propositional varieties of knowledge. But, generally, once we start *thinking about* knowledge, we start thinking about knowledge in propositional form. And Socrates, when he starts to think about knowledge, thinks about *techne*. It is not too much to say that, for Socrates, knowledge just *is* *techne*. And so in this essay I describe the Socratic conception of knowledge, and argue that it *is* the Socratic conception of knowledge that I’m describing. In other words, I describe the Socratic conception of *techne*, explaining how it is different from other conceptions of *techne* (in §1), and I explain why that is tantamount to describing the Socratic conception of knowledge altogether (in §§2–4).
 
 ## Techne in Plato’s Early Dialogues
 
