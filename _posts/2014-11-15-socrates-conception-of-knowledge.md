@@ -3,9 +3,9 @@ layout: post
 title: Socrates&rsquo; Conception of Knowledge
 ---
 
-Unscientific polling on my part has revealed that, when asked for examples of things they know, modern English speakers always give examples in (or appropriate to) propositional form: “I know that Addis Ababa is the capital of Ethiopia” or “God loves me”—that sort of thing. Nobody has ever said anything like “carpentry” or “how to play the piano.” That is the situation in contemporary philosophy as well, where epistemologists emphasize knowledge of particular facts; Thus Robert Audi, in a recent introduction to epistemology, can say flatly that “knowledge is constituted by belief (of a certain kind).”[^1]
+Unscientific polling on my part has revealed that, when asked for examples of things they know, modern English speakers will always give examples in (or appropriate to) propositional form: “I know that Addis Ababa is the capital of Ethiopia,” "two plus two equals four," “God loves me”—that sort of thing. Nobody has ever said “carpentry” or “how to play the piano,” or anything like that. That is the situation in contemporary philosophy as well, where epistemologists emphasize knowledge of particular facts; Thus Robert Audi, in a recent introduction to epistemology, can say flatly that “knowledge is constituted by belief (of a certain kind).”[^1]
 
-But it doesn’t take much acquaintance with Plato’s earlier dialogues to know that Socrates *loves* examples of the other sort. In particular, examples of practices of the skilled, often professional variety which were called “*technai*.”[^2] Socrates’ contemporaries certainly noticed this: Callicles complains that Socrates never lets up with his “continual talk of shoemakers and cleaners, cooks and doctors”; Xenophon even records the Athenian tyrants warning Socrates that he had better lay off discussing carpenters and herdsmen and blacksmiths and the like.[^3]
+It doesn’t take much acquaintance with Plato’s earlier dialogues to know that Socrates *loves* examples of the other sort—in particular, examples of practices of the skilled, often professional variety which were called “*technai*.”[^2] Socrates’ contemporaries certainly noticed this: Callicles complains that Socrates never lets up with his “continual talk of shoemakers and cleaners, cooks and doctors”; Xenophon even records the Athenian tyrants warning Socrates that he had better lay off discussing carpenters and herdsmen and blacksmiths and the like.[^3]
 
 Modern readers do not exactly miss these examples, but the *significance* of *techne* in the early dialogues is often ill-appreciated. It is not always seen that Socrates’ scattered reflections on *techne*—which constitute a very significant part of the dialogues—constitute, in fact, reflections on knowledge. Thus so great and sympathetic an interpreter as Gregory Vlastos was able to say that Socrates was “exclusively a moral philosopher.”[^4]
 
@@ -163,9 +163,9 @@ But the really pressing case is *virtue*. Besides the general problem about inqu
 
 ## Appendix: Two Examples in the *Meno*
 
-Again the *Meno* will make it clear that stability is a mark of knowledge in general, as opposed to just moral knowledge (98a).\
+Again the *Meno* will make it clear that stability is a mark of knowledge in general, as opposed to just moral knowledge (98a).
 
-The earlier dialogues generally have the moral life particularly in view, but the *Meno* makes it clear that belief in general is changeable, by contrast with knowledge: on its own, whether true or false, belief is unstable and flighty, and Socrates likens beliefs to runaway slaves, or the unsecured statues of Daedelus (97c–98b).[^79]\
+The earlier dialogues generally have the moral life particularly in view, but the *Meno* makes it clear that belief in general is changeable, by contrast with knowledge: on its own, whether true or false, belief is unstable and flighty, and Socrates likens beliefs to runaway slaves, or the unsecured statues of Daedelus (97c–98b).[^79]
 
 Twice above I appealed to a passage in the *Meno* which I take to indicate that features of beliefs and [*technai*] which I identified as holding in at least some specific cases are indeed features of belief and knowledge generally. In that passage, at 98a, it is said that beliefs become knowledge when tied down with “an account of the reason why.”[^80] This statement will naturally seem to treat primarily of atomic knowledge, to suggest that it is analyzable partly in terms of belief, and to concern itself with what is added to belief to get knowledge. And it is not obvious that there is anything to do with [techne] lurking here. So one could fairly wonder whether knowledge here in this passage has anything to do with the form of knowledge I’ve been discussing, and whether this passage doesn’t offer (or at least suggest) a different account of atomic knowledge than the one I just proposed.
 
@@ -173,7 +173,7 @@ If at 98a Plato is primarily concerned with an analysis of knowledge in terms of
 
 That very tentative conclusion may be supported by the observation that although “account of the reason why” ([*aitias logismos*]) is not very perspicuous on its own, it is suggestive of the discussions of [techne] in the *Gorgias.* At 465a we have Socrates saying that “cookery”
 
-> is not a craft, but a knack, because it has no rational account > (*logos*) by which it applies the things it applies, to say what they > are by nature, so that it cannot say what is the explanation (*aitia*) > of each thing . . . (Irwin trans.)
+> is not a craft, but a knack, because it has no rational account (*logos*) by which it applies the things it applies, to say what they are by nature, so that it cannot say what is the explanation (*aitia*) of each thing. (Irwin trans.)
 
 The point is reiterated at 501a with the example of medicine:
 
