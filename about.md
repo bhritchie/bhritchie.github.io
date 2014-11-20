@@ -7,12 +7,17 @@ I was a PhD student in philosophy at Harvard, but then I dropped out. Now I work
 
 ## Philosophy
 
-I was fairly pleased with some of the work I did at Harvard. Hopefully I'll get around to properly publishing some of it eventually, in the meantime I'm putting up some highlights here.
+I was fairly pleased with some of the work I did at Harvard. Hopefully I’ll get around to properly publishing a bit of it, but here are some of the highlights in the meantime. More to come.
 
-- [Kumarila on Epistemic Entitlement](/2014/11/19/kumarila-on-epistemic-entitlement/)
+Forgive formatting errors. I converted these papers from LaTeX to Markdown automatically, and I’m still cleaning them up.
+
 - [Socrates’ Conception of Knowledge](/2014/11/15/socrates-conception-of-knowledge/)
 
-Note: I converted these papers from LaTeX to Markdown with Pandoc, so although I'm trying to clean them up, there will be some formatting issues, especially with citations.
+> I articulate the Socratic understanding of *techne*---expertise---and argue that, for Socrates, *techne* is knowledge. This sheds light on various other aspects of Socrates’ philosophy.
+
+- [Svataḥ Prāmāṇya in Kumārila Bhaṭṭa](/2014/11/19/svatah-pramanya-in-kumarila-bhatta/)
+
+> I provide an interpretation of [Kumārila Bhaṭṭa](http://plato.stanford.edu/entries/kumaarila/)’s claim that beliefs are *svataḥ prāmāṇya* (approximately: ‘presumptively justified’).
 
 ## Elsewhere
 
