@@ -1,5 +1,44 @@
 /* custom.css */
 
+.sidebar {
+  /*text-align: right*/
+  color: rgba(255,255,255,.7);
+}
+
+.sidebar-about h1 {
+  margin-bottom: 0px;
+}
+
+.sidebar .lead {
+  font-size: 1rem;
+}
+
+.sidebar-nav {
+  text-align: center;
+}
+
 .sidebar-logo img {
   margin: 20px auto;
+}
+
+ul.social {
+  list-style-type: none;
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+  margin: 0px auto;
+  padding: 0px;
+}
+
+ul.social li {
+  display: inline;
+  padding: 0px 5px;
+}
+
+ul.social li a {
+  color: rgba(255,255,255,.7);
+}
+
+ul.social li a:hover {
+  color: rgba(255,255,255,1);
 }
