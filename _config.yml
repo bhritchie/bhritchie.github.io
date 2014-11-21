@@ -10,7 +10,7 @@ relative_permalinks: true
 # Setup
 title:            Brendan Ritchie
 tagline:          ''
-description:      'Sometime philosopher. Software developer. Amateur humourist. Aspiring Christian.'
+description:      'Software developer, sometime philosopher.'
 url:              https://bhritchie.github.pages
 baseurl:          /
 

@@ -3,6 +3,8 @@ layout: post
 title: Socrates&rsquo; Conception of Knowledge
 ---
 
+> I articulate the Socratic understanding of *techne*---expertise---and argue that, for Socrates, *techne* is knowledge. This sheds light on various other aspects of Socrates’ philosophy.
+
 Unscientific polling on my part has revealed that, when asked for examples of things they know, modern English speakers will always give examples in (or appropriate to) propositional form: “I know that Addis Ababa is the capital of Ethiopia,” "two plus two equals four," “God loves me”—that sort of thing. Nobody has ever said “carpentry” or “how to play the piano,” or anything like that. That is the situation in contemporary philosophy as well, where epistemologists emphasize knowledge of particular facts; Thus Robert Audi, in a recent introduction to epistemology, can say flatly that “knowledge is constituted by belief (of a certain kind).”[^1]
 
 It doesn’t take much acquaintance with Plato’s earlier dialogues to know that Socrates *loves* examples of the other sort—in particular, examples of practices of the skilled, often professional variety which were called “*technai*.”[^2] Socrates’ contemporaries certainly noticed this: Callicles complains that Socrates never lets up with his “continual talk of shoemakers and cleaners, cooks and doctors”; Xenophon even records the Athenian tyrants warning Socrates that he had better lay off discussing carpenters and herdsmen and blacksmiths and the like.[^3]

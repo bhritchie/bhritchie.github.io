@@ -3,6 +3,8 @@ layout: post
 title: Svataḥ Prāmāṇya in Kumārila Bhaṭṭa
 ---
 
+> Abstract. I provide a sympathetic interpretation of [Kumārila Bhaṭṭa](http://plato.stanford.edu/entries/kumaarila/)’s claim that beliefs are *svataḥ prāmāṇya* (approximately: ‘presumptively justified’).
+
 ## Introduction: The Mīmāmsā Inquiry into Dharma
 
 The Pūrva Mīmāmsā was first of all a school of exegesis. The great bulk of their founding text—the *Mīmāmsā Sūtra*, set down in the 1st or 2nd century AD and credited to one Jaiminī—treats interpretative difficulties in the Vedas, discusses their study, and details rules for settling procedural questions regarding sacrificial ritual. But by the first century, the heyday of ritual was already long past, and there was much skepticism as to whether Mīmāmsā’s constitutive aim—according to *MS* I.i.1 the inquiry into *dharma*—was best pursued in the Mīmāmsā fashion. There were rival religious traditions: Buddhists and Jains, as well as the plainly nihilistic Cārvākas. And there were rival schools of Vedic exegesis, and many Hindus who, though acknowledging the authority of the Vedas, attributed them to gods—unlike the atheistic Mīmāmsākas, who claimed that the scriptures had simply always existed.
@@ -67,7 +69,7 @@ That would indeed seem to settle the matter. But this is an uncharitable interpr
 
 John Taber has defended another interpretation, the basic lines of which he attributes to Pārthasārathimiśra, another Mīmāmsā commentator.[^26] According to Taber, validity is not truth but rather as it were *commitment:* “every cognition is accompanied by an initial sense of conviction; one is initially inclined to believe of every cognition that it is true.”[^27] But Taber rightly allows that Kumārila is concerned not only with psychology but also with what is *reasonable*. Verse 60 tells us that when a cognition is not undermined, then “there is no reasonable ground for doubt.”[^28] So we are supposed to be *right* in accepting our beliefs as a guide to how things actually are. Taber incorporates this point into his interpretation as follows.
 
-One continues to be so inclined as long as the cognition is not called into question. Almost certainly, however, if the cognition is never overturned, it *is* true. Falsehood cannot conceal itself forever. If, over the long run, the cognition is not shown to be false, then on the basis of its initial, intrinsic validity one is certainly *justified* in believing that it is not false, that it is really true.[^29]
+> One continues to be so inclined as long as the cognition is not called into question. Almost certainly, however, if the cognition is never overturned, it *is* true. Falsehood cannot conceal itself forever. If, over the long run, the cognition is not shown to be false, then on the basis of its initial, intrinsic validity one is certainly *justified* in believing that it is not false, that it is really true.[^29]
 
 This, for Taber, shows Kumārila adopting a kind of hard-headed empiricism: one may believe only that for which one has evidence; but, in addition, to have *no* evidence for something (to have no evidence that your view is wrong, for example) is to be warranted in thinking that no such evidence exists.[^30] To ask for more is in any case futile, since the demand only leads to regress.
 
@@ -157,37 +159,37 @@ Again, Kumārila’s view is that reasonable belief does not *require* inquiry i
 
 As noted, the *CS* is a commentary on *MS* I.i.2, which says that “duty is a purpose having injunction for its sole authority.” A number of the initial verses of the *CS* are concerned with minor clarifications of that thesis, but vv. 5–6 are close to a statement of the chapter’s main theses:
 
-5. Inasmuch as authoritative character [regarding duty] is possible only to the Word, [Śābara] has also pointed out the incapacity, with regard to such objects [necessary for knowledge of duty], of Sense-Perception and the rest, which is to be described hereafter.
-
-6. Even with regard to purely non-existing objects, the Word brings about some conception. And consequently, in the absence of any discrepancy, authoritative character must be accepted to belong to it by its very nature.[^59]
+> 5. Inasmuch as authoritative character [regarding duty] is possible only to the Word, [Śābara] has also pointed out the incapacity, with regard to such objects [necessary for knowledge of duty], of Sense-Perception and the rest, which is to be described hereafter.
+> 
+> 6. Even with regard to purely non-existing objects, the Word brings about some conception. And consequently, in the absence of any discrepancy, authoritative character must be accepted to belong to it by its very nature.[^59]
 
 The later parts of the *CS* are concerned more with the role and value of testimony as opposed to the other sources of knowledge alluded to here in v. 5, and the earlier portions (up to around v. 102) focus on the general epistemological theses (of interest to us) indicated in v. 6.
 
 The latter verse picks up on a common Mīmāmsā theme, namely the independence of testimony as a source of knowledge:[^60] testimony produces cognitions, including of things non-existent, hence which could not have been produced by sense perception or any other *pramāna*—and thus is a *primitive* producer of cognitions, i.e. a *pramāna* in its own right. Now this seems rather problematic. On the one hand Kumārila will not want to count just anything as a *pramāna* merely because it leads us to think things. But if the point is rather (as I think it is) that testimony can (at least in the case of Vedic testimony regarding duty) provide us with a window on things that other *pramānas* cannot, then the claim will be question-begging. But this is only a preliminary statement of the view (and fortunately we are not concerned with the case of testimony specifically), so we may simply note that a primitive cognition-producing mechanism is *eo ipso* a producer of *valid* cognitions. The starting-point for the discussion of *svatah prāmānya* is an objection to the Mīmāmsās doctrine that an authorless text is our authority on *dharma*, the nub of which objection Kumārila presents himself:
 
-22. It is always an object perceived by other means of knowledge that is got at by the Word [testimony]; and, like memory, no authority can belong to it by itself.
+> 22. It is always an object perceived by other means of knowledge that is got at by the Word [testimony]; and, like memory, no authority can belong to it by itself.
 
 When one accepts testimony, it is because “it is an assertion of a person who is believed to have perceived the object.”[^61] In other words, testimony is not a primitive source of knowledge like perception or inference are. The objector adds that we sometimes disregard testimony when we *don’t* judge the source reliable—and how could that be, if a reliable source isn’t in fact essential to testimony as a source of knowledge?[^62] The opponent also makes the objection I worried about a moment ago:
 
-25. “Thus then, as even when producing a conception, Fancy, &c., are no authorities by themselves, so we may apply the same rule to the case of Veda also.”
+> 25. “Thus then, as even when producing a conception, Fancy, &c., are no authorities by themselves, so we may apply the same rule to the case of Veda also.”
 
 So, again, we do not want to say that just any psychological mechanism which produces some judgment is therefore to be accorded authority.
 
 Kumārila responds by broadening the inquiry, turning away from the specific case of testimony:
 
-33. With regard to all conceptions, you must consider the following question: “Is the authoritativeness or unauthoritativeness due to itself or to something else?”
+> 33. With regard to all conceptions, you must consider the following question: “Is the authoritativeness or unauthoritativeness due to itself or to something else?”
 
 There are three possible positions besides Kumārila’s own:
 
-34. Because those that are by themselves false cannot by any means be proved to be true. Some people attribute both (authoritativeness and its contrary) to (the conception) itself. Others attribute them to the proved excellences or discrepancies of its origin.
+> 34. Because those that are by themselves false cannot by any means be proved to be true. Some people attribute both (authoritativeness and its contrary) to (the conception) itself. Others attribute them to the proved excellences or discrepancies of its origin.
 
 In the first sentence Kumārila briefly hints at his reason for rejecting the view which will prove to be the principle rival to its own, namely that invalidity is intrinsic and validity extrinsic (he will return to it at v. 38ff, and we return to it on p.  below). The remaining possibilities are, first, that both validity and invalidity might be intrinsic to cognitions, and, second, that both might be extrinsic to cognitions. Verses 35–7 are devoted to rejecting these two possibilities. Regarding the first, Kumārila says that
 
-35. Both cannot be due to itself, because the two are mutually contradictory*$\ldotp\ldotp\ldotp\ldotp$ *
-
-36. How can it be possible that any one thing, independent of all extraneous agency, should have contradictory characters? …
-
-37. If “non-contradictoriness” were possible with regard to different conceptions—even then, if nothing else is taken into consideration, it cannot be ascertained which is which, and where.
+> 35. Both cannot be due to itself, because the two are mutually contradictory*$\ldotp\ldotp\ldotp\ldotp$ *
+> 
+> 36. How can it be possible that any one thing, independent of all extraneous agency, should have contradictory characters? …
+> 
+> 37. If “non-contradictoriness” were possible with regard to different conceptions—even then, if nothing else is taken into consideration, it cannot be ascertained which is which, and where.
 
 We might, uncharitably, see the argument of vv. 35–6 as turning on a confusion of type and token—after all, why shouldn’t some cognitions have the one character and other cognitions the other? Verse 37 would then acknowledge the confusion and offer a better argument. But that would be an unhelpful procedure, and v. 36 offers some textual basis for rejecting this reading. Verse 36 asks not just how cognitions could have contradictory characters, but specifically how anything could have contradictory characters *independently of all extraneous agency.* If we were talking about a single cognition it would not matter whether or not extraneous agencies were implicated—a single thing could not be valid and invalid at the same time regardless. That suggests that even in vv. 35–6 Kumārila has in mind cognitions in general rather than particular cognitions—some cognitions will be valid and some invalid, but the difference has to be explained by further, external factors.
 
@@ -197,33 +199,33 @@ In v. 37 Kumārila sets aside the inquiry into cognitions in general. Now he co
 
 In the latter halves of vv. 35–6, Kumārila argues that validity and invalidity cannot both be *extrinsic* to cognitions either.
 
-35. … Nor can both be due to something else, because in this latter case, there would be no definiteness in the conception.
-
-36. … And when devoid of both these characters, of what form could the conception be?
+> 35. … Nor can both be due to something else, because in this latter case, there would be no definiteness in the conception.
+> 
+> 36. … And when devoid of both these characters, of what form could the conception be?
 
 Here Kumārila restricts his attention to individual cognitions, so if ‘being devoid of both characters’ would mean that a cognition is neither presentative nor representative, neither warranted nor unwarranted, then it’s unsurprising that Kumārila would dismiss this possibility. This seems to be confirmed when we look at what Kumārila means by saying that these cognitions would lack ‘form’ or ‘definiteness.’ Consider v. 168, which comes in the course of a discussion of sentence meaning and the importance of reliable speakers:
 
-168. Though the meaning [of a sentence] may have been comprehended beforehand, yet it depends for its definiteness upon the fact of its originating directly from the [trustworthy] speaker’s cognition; hence such a fact can only be comprehensible through the comprehension of the meaning. But in the matter of authenticity, it takes the first place.
+> 168. Though the meaning [of a sentence] may have been comprehended beforehand, yet it depends for its definiteness upon the fact of its originating directly from the [trustworthy] speaker’s cognition; hence such a fact can only be comprehensible through the comprehension of the meaning. But in the matter of authenticity, it takes the first place.
 
 This seems to say that while *understanding* a sentence is simply a matter of sentence meaning, definiteness and authenticity (ie. validity) are a matter of the source of the belief in question. In any case the “definiteness” of a cognition seems to depend somehow on the causal origin of that cognition. What would that mean? It seems plausible to suppose that Kumārila is gesturing at the difference between merely entertaining a thought and having a thought that is delivered by some belief-producing mechanism which lends it weight (the latter corresponding to Kumārila’s cognition-producing mechanisms).[^66] For example, no one considering my hypothetical example of the beautiful Hirut is going to see something to actually believe in that—the example doesn’t assert that some Hirut is a beauty. But if one *read* that some Hirut is beautiful, the text would effectively present Hirut to you as beautiful. In the latter case the thought would be “definite.”
 
 Considered from the perspective of warrant, the proposal in v. 168 may be urged against the idea that a cognition is warranted only if you can buttress it with some other cognition and that a cognition is also unwarranted only if it is undermined by some other cognition. For suppose that were true. Now you are reading a newspaper, and you read that a certain Hirut is beautiful. And suppose you have no particular reason for doubting this or for distrusting the newspaper. But you can only rationally adopt the belief that Hirut is beautiful if you can ground it in some other cognition. But also you can only reject it if you can oppose it with some other cognition. But then in what sense could this report be offering itself to you for acceptance, if you could accept it only by checking somewhere else for support first, but at the same time can’t rationally reject it either? Of course we could say that the newspaper is just offering you some things for consideration, but this would be exactly Kumārila’s point: you may as well have spent your morning daydreaming, if that’s all reading the newspaper gets you.[^67] [rival] The big question is whether validity is intrinsic and invalidity extrinsic, as Kumārila thinks, or the other way round. Verses 38–46 set out the position of Kumārila’s opponent, and some of the opponent’ reasons for saying that invalidity is intrinsic and validity extrinsic. One objection to Kumārila’s view is offered in v. 40:
 
-40. “If authoritativeness were inherent or natural and its absence artificial, then dream-cognitions would be authoritative, self-supported; for what is there to refute this?”
+> 40. “If authoritativeness were inherent or natural and its absence artificial, then dream-cognitions would be authoritative, self-supported; for what is there to refute this?”
 
 This is nearly a restatement of the objection of v. 25 within the new dialectical context: attention has shifted from modes of knowledge to cognitions. (There Kumārila had claimed that testimony—and thus Vedic testimony—is a source of knowledge since it produces cognitions, and the opponent had objected that cognitions are also produced by plainly problematic mechanisms.) Certainly from the perspective of warrant, the opponent’s view is intuitive: the thought is that, given all the defective ways cognitions can be formed, one can be warranted in thinking something only if one can recognize that one came by that thought in some sound way. My confidence in what I think should be affected, for example, by whether I read it in the *National Enquirer* or on Wikipedia or in the *New York Review of Books*, and that requires that I should have some appreciation of how my views originated.
 
 But Kumārila’s response is also intuitive:
 
-49–51. If even on the birth of conception, the object thereof be not comprehended until the purity of its cause has been ascertained by other means, then in all cases we should have to wait for the production of another conception from a new source; for until its purity has been ascertained, the conception would be equal to nothing. And this second conception too, would be true only on the ascertainment of the purity of its cause; and so on and on, there would be no limit.
+> 49–51. If even on the birth of conception, the object thereof be not comprehended until the purity of its cause has been ascertained by other means, then in all cases we should have to wait for the production of another conception from a new source; for until its purity has been ascertained, the conception would be equal to nothing. And this second conception too, would be true only on the ascertainment of the purity of its cause; and so on and on, there would be no limit.
 
 The opponent thinks that the soundness of your view should turn on your appreciation of the soundness of the origins of your view—but to this sort of verification there is no end, for how can you trust that you have indeed properly assessed the origins of your original view? Your assessment itself might be wrong, and indeed according the opponent the assessment itself should be in doubt until verified. At that rate we will never be entitled to any beliefs.[^68]
 
 Though warrant is important here, Kumārila is more directly making a psychological point, as is especially evident from the two preceding verses.
 
-47. You must understand that authoritativeness is inherent in all Means of Right Notion. For a faculty, by itself non-existing, cannot possibly be brought into existence by any other agency;
-
-48. since it is only for the sake of its birth that a positive entity requires a cause. And when it has once been born, it’s application to its various effects proceeds naturally out of itself.
+> 47. You must understand that authoritativeness is inherent in all Means of Right Notion. For a faculty, by itself non-existing, cannot possibly be brought into existence by any other agency;
+> 
+> 48. since it is only for the sake of its birth that a positive entity requires a cause. And when it has once been born, it’s application to its various effects proceeds naturally out of itself.
 
 A valid cognition must of course have some causal basis, but once produced it provides comprehension of its object—that is what I take the reference to ‘faculty’ and ‘application’ to mean. Kumārila thinks that if the validity of a cognition—that, say, Hirut is beautiful—depends on some other cognition, then we would not after all have a comprehension of Hirut being beautiful until the further cognition were available. I understand the point here as follows. Suppose you pick up a copy of the *New York Times.* In it you read a story about Ethiopia. The story is about a singer named Hirut and it reports that she is beautiful. Now suppose you know essentially nothing about the *Times*, but also have no particular reason to doubt it or to doubt its reliability in this area. (Compare asking someone on the street for the time.) And in fact you come to believe, as a result of reading the story, that there is a beautiful Ethiopian singer named Hirut. Then assuming that the reporter is an honest and careful one, with sound aesthetic sensibilities, hasn’t the *Times* opened up a bit of the world for you? Doesn’t your new belief constitute a window on a little part of Ethiopia? This is what Kumārila claims is the case: a valid cognition is a window on the world, and nothing more than what has been described is required to open up that window.[^69]
 
@@ -233,33 +235,33 @@ Here we must remember that Kumarila’s cognitions are not beliefs as we underst
 
 So, if the validity of a cognition depends on other cognitions, then we’ll have a regress, while Kumārila’s view avoids that difficulty:
 
-52. In case, however, authoritativeness be accepted to be due to (the conception) itself, nothing else is wanted (for its cognition). Because in the absence of any cognition of discrepancies, falsity (unauthoritativeness) becomes precluded by itself (i.e. without the help of any extraneous Means).[^70]
+> 52. In case, however, authoritativeness be accepted to be due to (the conception) itself, nothing else is wanted (for its cognition). Because in the absence of any cognition of discrepancies, falsity (unauthoritativeness) becomes precluded by itself (i.e. without the help of any extraneous Means).[^70]
 
 (Note that Jhā—rightly—glosses ‘falsity’ here as ‘unauthoritativeness’—i.e. as invalidity. We return to ‘falsity’ in connection with v. 54 below.)
 
 Verse 47 above said that validity is intrinsic to all *valid* cognitions. But v. 53 has been cited by Taber to support the reading according to which *all* cognitions are intrinsically valid, and this pair of verses has also been adduced by Tara Chatterjea to show that Kumārila’s work contains “contradictory suggestions” concerning the scope of the *svatah prāmānya* thesis.[^71]
 
-53\. Therefore the authoritative character of a conception, cognised through the mere fact of its having the character of “cognition,” can be set aside only by the contrary nature of its object, or by the recognition of discrepancies in its cause.
+> 53. Therefore the authoritative character of a conception, cognised through the mere fact of its having the character of “cognition,” can be set aside only by the contrary nature of its object, or by the recognition of discrepancies in its cause.
 
 But while the discussion (both mine and Kumārila’s) has thus far primarily concerned the first-order cognition, verses 52–3 connect up the first- and second-order elements of the intrinsic validity thesis. We remember that, for Kumārila, a cognition is not itself an object *in* consciousness, though it manifests some other object *to* consciousness. If you are aware of a cognition as opposed to its object, that is because this cognition has itself become the object of a *further* cognition. The *svatah prāmānya* thesis in this connection concerns the relationship between cognizing a cognition and cognizing that cognition as being (i.e. cognizing it as though it were) valid.[^72] Verse 53 is asserting that the two are the same thing.
 
 Why are cognitions apprehended as valid? Because to reflect upon a cognition just is to reflect upon the world which that cognition reveals. Such reflection presupposes that the initial cognition constitutes your view of the world. For suppose instead that, upon recognizing and attending to the belief that Hirut is beautiful, you were not to apprehend it as valid—whether actually as invalid or somehow as neither valid nor invalid. Then that very second-order cognition would undermine the first-order cognition. Even granting that the initial cognition were valid up to that point, there would now be a new cognition to the effect that the first cognition is invalid or false or doubtful or whatever the case may be. Of course this new cognition might itself be invalid, but that will not always be so, even when it is false. So reflection will be a way of undermining your cognitions, except to the extent that you are able to identify some support for them. But, thinks Kumārila, reflection should not undermine our beliefs in that way. So the two forms of the *svatah prāmānya* thesis mesh nicely, and both are supported by the appeal to the threat of infinite regress. In v. 54 Kumarila identifies several varieties of invalidity:
 
-54. Unauthoritativeness is three-fold: as being due to falsity, non-perception, and doubt. From among these, two (falsity and doubt) being positive entities, are brought about by discrepancies in the cause.
+> 54. Unauthoritativeness is three-fold: as being due to falsity, non-perception, and doubt. From among these, two (falsity and doubt) being positive entities, are brought about by discrepancies in the cause.
 
 With the reference to ‘positive entities,’ Kumārila responds to ontological qualms of a pan-Indian variety concerning explanation; that need not detain us.[^73] The reference to ‘discrepancies’ is more important for our purposes: the proponent of intrinsic invalidity will claim that a cognition is rendered valid when the mechanisms which produced it are seen to have been sound, whereas Kumārila claims that a cognition is shown invalid when the mechanism is shown to have been defective, i.e. to have had ‘discrepancies.’ In v. 54 Kumārila is thus cataloguing the ways in which a cognition can be rendered invalid and saying that two of these ways are indeed reducible to the the identification of discrepancies.[^74] (The third, non-perception, will be a special case.)
 
 By ‘falsity,’ Kumarila means not the actual falsity or inaccuracy of the initial cognition; rather he is addressing the case in which some such inaccuracy is turned up, or in which some defect in the mechanism behind the cognition is turned up, so that the initial cognition is altogether overturned. The case of doubt requires not so much an overturning as an unsettling; thus in a stock Indian example you might be unsure whether you’re looking at (or saw) a piece of silver or rather a bit of shell. Kumārila is considering these two cases in vv. 57–61:
 
-57. Unauthoritativeness (falsity) is got at directly through the “Cognition (of its contradictory).” For, so long as the former is not set aside, the subsequent cognition (of its contradictory) cannot be produced.
-
-58. Though the cognition of the discrepancy of the cause is known to refer to a different object (*i.e.*, not the object which is the effect of tlie cause), yet we have co-objectivity (of the two cognitions) as being implied thereby; and hence we have the preclusion of the former,—as in the case of the “milking-pot.”[^75]
-
-59. But this rule applies only to those cases in which (with regard to the second conception) there is neither cognition of any discrepancy, nor any contradictory conception. In those cases, however, in which we have any of these two factors, the second conception becoming false, the first comes to be true.
-
-60. But in that case too, the authoritativeness is due to the conception itself, in the absence of any cognition of discrepancies. And in a case where there is no such cognition of discrepancies, there is no reasonable ground for doubt.
-
-61. Thus (in this manner) we do not stand in need of postulating more than three or four conceptions. And it is for this reason that we hold to the doctrine of “Self-evidence” [i.e. *svatah prāmānya*].
+> 57. Unauthoritativeness (falsity) is got at directly through the “Cognition (of its contradictory).” For, so long as the former is not set aside, the subsequent cognition (of its contradictory) cannot be produced.
+> 
+> 58. Though the cognition of the discrepancy of the cause is known to refer to a different object (*i.e.*, not the object which is the effect of tlie cause), yet we have co-objectivity (of the two cognitions) as being implied thereby; and hence we have the preclusion of the former,—as in the case of the “milking-pot.”[^75]
+> 
+> 59. But this rule applies only to those cases in which (with regard to the second conception) there is neither cognition of any discrepancy, nor any contradictory conception. In those cases, however, in which we have any of these two factors, the second conception becoming false, the first comes to be true.
+> 
+> 60. But in that case too, the authoritativeness is due to the conception itself, in the absence of any cognition of discrepancies. And in a case where there is no such cognition of discrepancies, there is no reasonable ground for doubt.
+> 
+> 61. Thus (in this manner) we do not stand in need of postulating more than three or four conceptions. And it is for this reason that we hold to the doctrine of “Self-evidence” [i.e. *svatah prāmānya*].
 
 The ‘falsity’ case well illustrates one form of the extrinsic nature of invalidity. It is in having the new cognition that the earlier one is set aside and rendered invalid. And should the new cognition itself prove faulty, the original cognition is valid again not because it has gained new support but because the objections have been lifted—thus the validity of a valid cognition is intrinsic even if it loses and regains that status.[^76]
 
@@ -267,61 +269,61 @@ This is not just a psychological point. It may be that, as a psychological matte
 
 When in the case of ‘falsity’ a cognition is set aside, it is, in a sense, not really even apt for validity any more, since it no longer constitutes one’s view of the world anyway. Likewise with the case of doubt; the view has been suspended in a way that would make it inappropriate to ask, for example, whether the subject is justified in holding it.[^77] The same point holds doubly for the case of non-perception, the case in which you were simply not in contact with the world at all, as might be the case in dreams, or the aforementioned case of ‘fancy,’ or wishful thinking:
 
-55\. In the case of non-perception, however, we do not admit the action of such discrepancies. Because for us all non-perception is due to the *absence* of cause,—just as you have asserted.
+> 55. In the case of non-perception, however, we do not admit the action of such discrepancies. Because for us all non-perception is due to the *absence* of cause,—just as you have asserted.
 
 This case is important because it illustrates a claim I’ve made a couple of times, namely that cognition must have a certain causal origin if it was ever to have validity in the first place. ‘Fancy’ and wishful thinking, for example, are not sources of valid cognition,[^78] but only special cases of non-perception. We remember that v. 48 had said that it was only for its birth that a positive entity required a cause—here there is no (sound) cause in the first place, and no positive entity (i.e. no valid cognition). This implicitly offers a response to the dream objection of v. 40.
 
 The non-perception case also allows us to appreciate more clearly that validity cannot be anything like *truth.* If I daydream the beautiful Hirut into existence, and later forget it was a daydream and come actually to believe that there was a beautiful Ethiopian singer named Hirut, the belief may or may not in fact be *true*; Ethiopia has its singers, Hirut is a reasonably common name there, and it is a land of beautiful women; some woman may very well be all of these things. But there is no question or possibility of *validity* here. Validity requires a causal basis (such as testimony or perception) that can (though may not always) mediate some kind of contact between you and the word. If there’s no actual chain between the world and your thoughts about it, you can’t have valid cognitions about it. Kumārila applies his conclusions to the case of testimony:
 
-64. In (truthful) human (speech) we find two (factors)—*absence of discrepancies,* and (*presence of*) *excellence*; and we have already explained that authoritativeness cannot be due to *excellence*.
-
-65–6. Therefore excellences must be held to help only in the removal of discrepancies; and from the absence of these latter (discrepancies), proceeds the absence of the two kinds of unauthoritativeness; and thus the fact of (authoritativeness) being inherent in Words remains untouched. And inasmuch as the word gives rise to a conception, its authoritativeness is secured.
+> 64. In (truthful) human (speech) we find two (factors)—*absence of discrepancies,* and (*presence of*) *excellence*; and we have already explained that authoritativeness cannot be due to *excellence*.
+> 
+> 65–6. Therefore excellences must be held to help only in the removal of discrepancies; and from the absence of these latter (discrepancies), proceeds the absence of the two kinds of unauthoritativeness; and thus the fact of (authoritativeness) being inherent in Words remains untouched. And inasmuch as the word gives rise to a conception, its authoritativeness is secured.
 
 When Kumārila says it has already been explained that validity cannot be due to the excellences of testimony, he must mean that a cognition is not valid in virtue of *recognizing* that the source of knowledge—in this case testimony—was free of fault. He exploits this point to respond to the objection that his own view does face a regress despite his earlier protestations:
 
-66\. “If the absence of discrepancies be held to result from excellences, then there is the same *regressus ad infinitum* (that you urged against us.”
-
-67. (Not so): because at that time (ie. at the time of the conception of the absence of discrepancies), we do not admit of any active functioning of the excellences, though they continue to be recognised all the same;—because in the conception of the absence of discrepancies they help by their mere presence.
+> 66. “If the absence of discrepancies be held to result from excellences, then there is the same *regressus ad infinitum* (that you urged against us.”
+> 
+> 67. (Not so): because at that time (ie. at the time of the conception of the absence of discrepancies), we do not admit of any active functioning of the excellences, though they continue to be recognised all the same;—because in the conception of the absence of discrepancies they help by their mere presence.
 
 As we have seen before, one need not actually have an appreciation of the soundness of the basis of a conception for it to be valid.
 
 There is also a slight puzzle here, though, because v. 67 seems to suggest that in fact a valid cognition *must* have a *sound* basis—i.e. a source without discrepancies. But that cannot be right, because it would mean that testimonial cognitions are not after all valid just as such, and, as we can see even here (from the the last sentence of vv. 65–6), validity *does not* depend on the actual faultlessness of the testimony in question: testimony just as such *is* a source of valid cognitions. I therefore take v. 67 to mean that the *presumed* excellences of the source of a cognition suffice (so far as the source is of an approved variety: testimony, perception, etc.). This is further confirmed by the next verses, as we turn to the case of the Vedas, where Kumārila claims that the very testimonial nature of Vedic-derived cognitions imbues them with validity:
 
-70. Hence the mere fact of the Veda not having been composed by an authoritative author, ceases to be a discrepancy*$\ldotp\ldotp\ldotp\ldotp$ *
-
-71. It is only human speech that depends for its authority upon another Mean of Right Knowlede; and hence in the absence of the latter, the former becomes faulty; but the other (ie. Vedic sentences) can never be so (on that ground).
+> 70. Hence the mere fact of the Veda not having been composed by an authoritative author, ceases to be a discrepancy*$\ldotp\ldotp\ldotp\ldotp$ *
+> 
+> 71. It is only human speech that depends for its authority upon another Mean of Right Knowlede; and hence in the absence of the latter, the former becomes faulty; but the other (ie. Vedic sentences) can never be so (on that ground).
 
 We have returned here to the second-order case: testimonial cognitions may be presumed sound just on the basis of being testimonial cognitions, though in the typical or human case, where testimonial knowledge is parasitic on other sources of knowledge, that presumption would be overruled by the observation that the testifier had no way of coming by his supposed knowledge. In the case of the Vedas, no such difficulty can arrive, and the presumption stands.
 
 Verse 72 returns us to the matter of independence:
 
-72\. Thus then, the very fact of the incompatibility of the Veda with other Means of Right Notion, constitutes its authoritativeness; for if it were not so incompatible, it would only be subsidiary (to other such means).
+> 72. Thus then, the very fact of the incompatibility of the Veda with other Means of Right Notion, constitutes its authoritativeness; for if it were not so incompatible, it would only be subsidiary (to other such means).
 
 The point here is that since Vedic testimony produces cognitions which could never be called into question by any other source of knowledge, the Vedas are an authority: they produce cognitions which must be trusted. This may seem to reopen our question about dreams and fancies. Perhaps you have dreams about the future, and come to have beliefs about the future in that way, and these beliefs cannot be undermined by perception or inference. Does that make dreaming authoritative concerning the future? Kumārila does not think so, but not, I think, for deep reasons of epistemological theory proper. It is just that dreaming and Vedic testimony are different cases. On Kumārila’s view, dreams and fancies just take the matter of perception and mix it up in arbitrary ways; they are not new sources of information. One could, of course, say the same about the Vedas—but then you wouldn’t be a *Mīmāmsāka*. Kumārila thinks that language and meaning are deep and primitive aspects of the cosmos, that the cosmos is eternal, that it’s reasonable to suppose that the Vedas were never written, and that they tap into eternal meanings somehow. Those are matters separate from epistemology, nor does Kumārila suppose himself to have defended any of those claims at this stage.[^79] We pass over vv. 73–81, which continue discussing the independence of Vedas, and arrive at an objection in v. 82:
 
-82. (Objection): “But Sense-Perception and the rest are not comprehended as that ‘these are authoritative’; nor is it possible to carry on any business by means of such perceptions, when they are not comprehended as such.”
+> 82. (Objection): “But Sense-Perception and the rest are not comprehended as that ‘these are authoritative’; nor is it possible to carry on any business by means of such perceptions, when they are not comprehended as such.”
 
 The opponent objects that since in forming cognitions we do not yet have any confidence in those cognitions, they cannot be a basis for action or further inference. In responding, Kumārila provides a helpful recapitulation of his view.
 
-83\. (Reply): Even prior to comprehension, the Means of Right Notion had an independent existence of their own and they come to be comprehended subsequently (as such), through other cognitions.
+> 83. (Reply): Even prior to comprehension, the Means of Right Notion had an independent existence of their own and they come to be comprehended subsequently (as such), through other cognitions.
 
 A cognition is valid and serves as a basis for action and inference even without any recognition of its existence; when its existence is recognized, this is in a new cognition.
 
-84. Therefore the fact of its being comprehended as such, does not in any way help the authoritativeness (of the Means of Right Notion); because the idea of the object is got at through the former alone.
+> 84. Therefore the fact of its being comprehended as such, does not in any way help the authoritativeness (of the Means of Right Notion); because the idea of the object is got at through the former alone.
 
 The second-order recognition of a cognition as valid is not necessary for the validity of that first-prder cognition, nor can it confer validity upon it.
 
-85\. Even the unauthoritative Means would, by itself, lead to the conception of its object; and its function would not cease unless its falsity were ascertained by other means.
+> 85. Even the unauthoritative Means would, by itself, lead to the conception of its object; and its function would not cease unless its falsity were ascertained by other means.
 
 Even an invalid cognition manifests the world, though it may do so wrongly (it may for example ‘reveal’ a real shell to be a piece of silver[^80]), but until it is revealed as misleading it is accepted, and forms a basis for further inference. Notice here that a cognition can be invalid but still manifest the world. We should also see here a connection to action: so far as v. 85 itself goes, we might think that the ‘function’ of a cognitions was restricted to manifestation, and that may indeed be the primary meaning, but in the context of the objection of the objection at v. 82, Kumārila evidently means that, in virtue of the exercising its function, a cognition (even an invalid one) functions as a basis for action.
 
 Finally we end with a reiteration of the intrinsicality of validity and the extrinsicality of invalidity:
 
-86. The falsity of an object is not, like its truthfulness, perceived by its very first conception. For the recognition of unauthoritativeness, the only cause is one’s consciousness of the falsity of its subject itself, or of he faultiness of the cause thereof.
-
-87. Thereby alone is falsity (of a conception) established; and by no other means. And the truthfulness (or authoritativeness of a conception) is proved to *belong to the state of its birth* (*i.e.*, is natural or inherent in it).
-
-88. Therefore even in cases where falsity is proved by other means, these two (causes of falsity) should be noted, and not only certain points of similarity (with another false idea).
+> 86. The falsity of an object is not, like its truthfulness, perceived by its very first conception. For the recognition of unauthoritativeness, the only cause is one’s consciousness of the falsity of its subject itself, or of he faultiness of the cause thereof.
+> 
+> 87. Thereby alone is falsity (of a conception) established; and by no other means. And the truthfulness (or authoritativeness of a conception) is proved to *belong to the state of its birth* (*i.e.*, is natural or inherent in it).
+> 
+> 88. Therefore even in cases where falsity is proved by other means, these two (causes of falsity) should be noted, and not only certain points of similarity (with another false idea).
 
 We have clarified a number of puzzles about the text that remained in other interpretations, and found confirmation for the approach I laid out in the previous section. We have reaped these rewards primarily by simply attending carefully to the difference between the first- and second-order aspects of the *svatah prāmāya* thesis.
 

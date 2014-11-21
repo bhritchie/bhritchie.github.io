@@ -17,10 +17,4 @@ Forgive formatting errors. I converted these papers from LaTeX to Markdown autom
 
 - [Svataḥ Prāmāṇya in Kumārila Bhaṭṭa](/2014/11/19/svatah-pramanya-in-kumarila-bhatta/)
 
-> I provide an interpretation of [Kumārila Bhaṭṭa](http://plato.stanford.edu/entries/kumaarila/)’s claim that beliefs are *svataḥ prāmāṇya* (approximately: ‘presumptively justified’).
-
-## Elsewhere
-
-- [GitHub](https://github.com/bhritchie)
-- [Twitter](https://twitter.com/bhritchie)
-- [LinkedIn](http://ca.linkedin.com/in/brendanhughritchie/)
+> I provide a sympathetic interpretation of [Kumārila Bhaṭṭa](http://plato.stanford.edu/entries/kumaarila/)’s claim that beliefs are *svataḥ prāmāṇya* (approximately: ‘presumptively justified’).
