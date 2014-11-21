@@ -7,14 +7,16 @@
 
 .sidebar-about h1 {
   margin-bottom: 0px;
+  line-height: 1;
 }
 
 .sidebar .lead {
   font-size: 1rem;
+  line-height: 1.2;
 }
 
 .sidebar-nav {
-  text-align: center;
+  text-align: right;
 }
 
 .sidebar-logo img {

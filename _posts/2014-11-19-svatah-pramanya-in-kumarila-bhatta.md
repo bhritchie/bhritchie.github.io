@@ -5,6 +5,20 @@ title: Svataḥ Prāmāṇya in Kumārila Bhaṭṭa
 
 > Abstract. I provide a sympathetic interpretation of [Kumārila Bhaṭṭa](http://plato.stanford.edu/entries/kumaarila/)’s claim that beliefs are *svataḥ prāmāṇya* (approximately: ‘presumptively justified’).
 
+<!---
+
+A FULLER ABSTRACT
+
+Kum\=arila Bha\d t\d tha, an influential Indian philosopher of the 8th century, argues that beliefs are ``\emph{svatah pramanya}.'' This thesis has been glossed as saying (roughly) that beliefs are all true, or alternatively that all beliefs are justified, and also in a variety of other ways. The proper interpretation of the thesis, and also its merit, has been much contested both classically and among contemporary scholars, in part because, to all appearances, Kum\=arila gives up the connection between `knowledge' on the one hand and both truth and certainty on the other, a connection that was generally taken for granted by realists in the Indian tradition, of which Kum\=arila himself was one. Here I defend an interpretation according to which Kum\=arila claims that beliefs are presumptively justified, the grounds for this claim being that other understandings of epistemic justification entail vicious justificatory regress.
+
+A major goal of Kum\=arila's epistemological theory is to establish the legitimacy of testimony (as opposed to only perception, inference, etc.) as a primitive source of knowledge. This is in turn part of a project of showing that the Hindu Vedas are an authoritative source of \emph{moral} knowledge; Kum\=arila also argues that moral knowledge cannot be attained in any other way. There are various ancillary theses about language and motivation, each of which receives extensive discussion, but the upshot is that Kum\=arila's view of epistemic norms, though independently motivated, is tailored to make room for the rationality of \emph{moral} knowledge as he understands it.
+
+
+-->
+
+
+
+
 ## Introduction: The Mīmāmsā Inquiry into Dharma
 
 The Pūrva Mīmāmsā was first of all a school of exegesis. The great bulk of their founding text—the *Mīmāmsā Sūtra*, set down in the 1st or 2nd century AD and credited to one Jaiminī—treats interpretative difficulties in the Vedas, discusses their study, and details rules for settling procedural questions regarding sacrificial ritual. But by the first century, the heyday of ritual was already long past, and there was much skepticism as to whether Mīmāmsā’s constitutive aim—according to *MS* I.i.1 the inquiry into *dharma*—was best pursued in the Mīmāmsā fashion. There were rival religious traditions: Buddhists and Jains, as well as the plainly nihilistic Cārvākas. And there were rival schools of Vedic exegesis, and many Hindus who, though acknowledging the authority of the Vedas, attributed them to gods—unlike the atheistic Mīmāmsākas, who claimed that the scriptures had simply always existed.
@@ -357,6 +371,10 @@ Kumārila likewise reinvents the notion of knowledge to allow for the demands o
 
 *TS* *Tattvasangraha* of Śāntaraksita (quotes Kumārila’s lost *Brhattīkā*)
 
+
+
+<!---
+
 ## Bibliography
 
 Alston, W. (1980). Level-confusions in epistemology. Midwest Studies in Philosophy, 5(1):135–150. Arnold, D. (2001a).
@@ -421,11 +439,11 @@ Taber, J. (2005). A Hindu Critique of Buddhist Epistemology: Kumārila on Perce
 
 Taber, J. (MS). Mīmāṃsā and the Eternality of Language. In Kapstein, M., editor, The Columbia Guide to Classical Indian Philosophy (forthcoming). Columbia University Press.
 
-## Notes
+---->
 
 [^1]: Trans. @jaimini1923mimamsa. For style, clarity, or to remove or add glosses, I’ve lightly altered most of the older translations I’ve quoted. Meaning has not (I hope) been affected.
 
-[^2]: For a survey of the school see e.g. @keith1921karma.
+[^2]: For a survey of the school see e.g. @keith1921karma {% cite keith1921karma %}.
 
 [^3]: Credited with the *Brahma* (or *Vedānta*) *Sūtras*.
 
@@ -588,3 +606,10 @@ Taber, J. (MS). Mīmāṃsā and the Eternality of Language. In Kapstein, M.,
 [^82]: @mohanty1989gangesa [p. 22], his emphasis.
 
 [^83]: @frede1987sceptic, @barnes1989antiochus, @striker1997academics, @brittain2001philo; see @sep-philo-larissa for a survey.
+
+
+## Bibliography
+
+{% bibliography --cited %}
+
+## Notes

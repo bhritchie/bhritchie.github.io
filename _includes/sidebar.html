@@ -1,4 +1,25 @@
 <div class="sidebar">
+
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
+
+    {% comment %}
+      The code below dynamically generates a sidebar nav of pages with
+      `layout: page` in the front-matter. See readme for usage.
+    {% endcomment %}
+
+    {% assign pages_list = site.pages %}
+    {% for node in pages_list %}
+      {% if node.title != null %}
+        {% if node.layout == "page" %}
+          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+
+  </nav>
+
+
   <div class="container sidebar-sticky">
     <div class="sidebar-logo">
       <img alt="Brendan at work" src="{{ site.baseurl }}public/logo-inverted.png">
@@ -13,29 +34,11 @@
       <p class="lead">{{ site.description }}</p>
     </div>
 
-    <nav class="sidebar-nav">
-      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
-
-      {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
-      {% endcomment %}
-
-      {% assign pages_list = site.pages %}
-      {% for node in pages_list %}
-        {% if node.title != null %}
-          {% if node.layout == "page" %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
-          {% endif %}
-        {% endif %}
-      {% endfor %}
-
-    </nav>
-
     <ul class="social">
       <li><a href="https://github.com/bhritchie"><i class="fa fa-github"></i></a></li>
       <li><a href="https://twitter.com/bhritchie"><i class="fa fa-twitter"></i></a></li>
       <li><a href="http://ca.linkedin.com/in/brendanhughritchie/"><i class="fa fa-linkedin"></i></a></li>
+      <!-- Note could use fa-graduation-cap for academia.edu -->
     </ul>
 
     <!-- <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p> -->
