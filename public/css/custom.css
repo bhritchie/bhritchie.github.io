@@ -1,5 +1,9 @@
 /* custom.css */
 
+.abstract-label {
+  font-variant: small-caps;
+}
+
 .sidebar {
   /*text-align: right*/
   color: rgba(255,255,255,.7);
