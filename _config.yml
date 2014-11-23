@@ -29,7 +29,7 @@ github:
   repo:           https://github.com/bhritchie/bhritchie.github.io
 
 scholar:
-  style: apa
+  style: apa-modified
   locale: en
 
   sort_by: none

@@ -3,21 +3,7 @@ layout: post
 title: Svataḥ Prāmāṇya in Kumārila Bhaṭṭa
 ---
 
-> Abstract. I provide a sympathetic interpretation of [Kumārila Bhaṭṭa](http://plato.stanford.edu/entries/kumaarila/)’s claim that beliefs are *svataḥ prāmāṇya* (approximately: ‘presumptively justified’).
-
-<!---
-
-A FULLER ABSTRACT
-
-Kum\=arila Bha\d t\d tha, an influential Indian philosopher of the 8th century, argues that beliefs are ``\emph{svatah pramanya}.'' This thesis has been glossed as saying (roughly) that beliefs are all true, or alternatively that all beliefs are justified, and also in a variety of other ways. The proper interpretation of the thesis, and also its merit, has been much contested both classically and among contemporary scholars, in part because, to all appearances, Kum\=arila gives up the connection between `knowledge' on the one hand and both truth and certainty on the other, a connection that was generally taken for granted by realists in the Indian tradition, of which Kum\=arila himself was one. Here I defend an interpretation according to which Kum\=arila claims that beliefs are presumptively justified, the grounds for this claim being that other understandings of epistemic justification entail vicious justificatory regress.
-
-A major goal of Kum\=arila's epistemological theory is to establish the legitimacy of testimony (as opposed to only perception, inference, etc.) as a primitive source of knowledge. This is in turn part of a project of showing that the Hindu Vedas are an authoritative source of \emph{moral} knowledge; Kum\=arila also argues that moral knowledge cannot be attained in any other way. There are various ancillary theses about language and motivation, each of which receives extensive discussion, but the upshot is that Kum\=arila's view of epistemic norms, though independently motivated, is tailored to make room for the rationality of \emph{moral} knowledge as he understands it.
-
-
--->
-
-
-
+> <span class="abstract-label">Abstract</span>. [Kumārila Bhaṭṭa](http://plato.stanford.edu/entries/kumaarila/), an influential Indian philosopher of the 8th century, argues that beliefs are *svataḥ prāmāṇya* (generally glossed as &lsquo;intrinsically valid’). This has often been understood to mean, both clasically and by contemporary writers, to amount to the unpromising view that all beliefs are true, or alternatively that all beliefs are justified. I defend a more sympathetic interpretation according to which Kum\=arila claims that beliefs are presumptively justified, the grounds for this claim being that other understandings of epistemic justification entail vicious justificatory regress.
 
 ## Introduction: The Mīmāmsā Inquiry into Dharma
 
@@ -372,78 +358,9 @@ Kumārila likewise reinvents the notion of knowledge to allow for the demands o
 *TS* *Tattvasangraha* of Śāntaraksita (quotes Kumārila’s lost *Brhattīkā*)
 
 
+[^1]: Trans. {% cite jaimini1923mimamsa %}. For style, clarity, or to remove or add glosses, I’ve lightly altered most of the older translations I’ve quoted. Meaning has not (I hope) been affected.
 
-<!---
-
-## Bibliography
-
-Alston, W. (1980). Level-confusions in epistemology. Midwest Studies in Philosophy, 5(1):135–150. Arnold, D. (2001a).
-
-Intrinsic Validity Reconsidered: A Sympathetic Study of the Mimamsaka Inversion of Buddhist Epistemology. Journal of Indian Philosophy, 29(5–6):589–675.
-
-Arnold, D. (2001b). Of Intrinsic Validity: A Study on the Relevance of Purva Mimamsa. Philosophy East and West, 51(1):26–53.
-
-Arnold, D. (2010). Kumārila. In Zalta, E. N., editor, The Stanford Encyclopedia of Philosophy. Center for the Study of Language and Information, Stanford University.
-
-Austin, J. L. (1979 [1946]). Other Minds. In Philosophical Papers, 3rd ed. Oxford University Press.
-
-Barnes, J. (1989). Antiochus of ascalon. Philosophia Togata, pages 51–96.
-
-Bhatt, G. P. (1962). Epistemology of the Bhāṭṭa school of Pūrva Mīmānsā. Chowkhamba Sanskrit Series Office.
-
-Brittain, C. (2001). Philo of Larissa: the Last of the Academic Sceptics. Oxford University Press.
-
-Brittain, C. (2008). Philo of larissa. In Zalta, E. N., editor, The Stanford Encyclopedia of Philosophy. Fall 2008 edition.
-
-Chatterjea, T. (2003). Svataḥ-Prāmāṇyavādah in Mīmāṃsā. In Knowledge and Freedom in Indian Philosophy. Lexington Books.
-
-Dasgupta, S. (1957). A History of Indian Philosophy, volume 1. Cambridge University Press.
-
-Dixit, K. K. (1983). Ślokavārttika: A Study. L.D. Institute of Indology, Ahmedabad.
-
-Frede, M. (1987). The sceptic’s two kinds of assent. Essays in Ancient Philosophy. Hiriyanna, M. (1932). Outlines of Indian Philosophy. Routledge.
-
-Jhā, G. (1907). C̣lokavārttika. Asiatic Society of Bengal.
-
-Kataoka, K. (2002). Validity of Cognition and Authority of Scripture. Journal of Indian and Buddhist Studies, pages 1022–1026.
-
-Keith, A. B. (1921). The Karma-Mīmāṁsā. Association Press.
-
-Kripke, S. A. (1972). Naming and Necessity.
-
-Lal, M. L. (1923). The Mîmâmsâ sûtras of Jaiminī. Sudhindra Nath Vasu.
-
-Matilal, B. K. (1986). Perception: An Essay on Classical Indian Theories of Knowledge. Oxford University Press, USA.
-
-Mohanty, J. N. (1984). Prāmāṇya and Workability—Response to Potter. Journal of Indian Philosophy, 12(4):329–338.
-
-Mohanty, J. N. (1989). Gaṅgeśa’s Theory of Truth. Motilal Banarsidass.
-
-Pollock, S. (1989). Mīmāṃsā and the Problem of History in Traditional India. Journal of the American Oriental Society, 109(4):603–610.
-
-Potter, K. H. (1984). Does Indian Epistemology Concern Justified True Belief? Journal of Indian Philosophy, 12(4):307–327.
-
-Potter, K. H. (1992). Presuppositions of India’s Philosophies. Motilal Banarsidass.
-
-Radhakrishnan, S. (1927). Indian Philosophy. Macmillan.
-
-Sen, D. (1984). The Concept of Knowledge: Indian Theories. K P Bagchi.
-
-Striker, G. (1997). Academics fighting academics. Assent and Argument, pages 257–76.
-
-Taber, J. (1992). What did Kumārila Bhaṭṭha Mean by Svataḥ Prāmāṇya? Journal of the American Oriental Society, 112(2):204–221.
-
-Taber, J. (2002). Mohanty on Śabdapramāṇa. Journal of Indian Philosophy, 30:161–190.
-
-Taber, J. (2005). A Hindu Critique of Buddhist Epistemology: Kumārila on Perception. Routledge.
-
-Taber, J. (MS). Mīmāṃsā and the Eternality of Language. In Kapstein, M., editor, The Columbia Guide to Classical Indian Philosophy (forthcoming). Columbia University Press.
-
----->
-
-[^1]: Trans. @jaimini1923mimamsa. For style, clarity, or to remove or add glosses, I’ve lightly altered most of the older translations I’ve quoted. Meaning has not (I hope) been affected.
-
-[^2]: For a survey of the school see e.g. @keith1921karma {% cite keith1921karma %}.
+[^2]: For a survey of the school see e.g. {% cite keith1921karma %}.
 
 [^3]: Credited with the *Brahma* (or *Vedānta*) *Sūtras*.
 
@@ -451,49 +368,49 @@ Taber, J. (MS). Mīmāṃsā and the Eternality of Language. In Kapstein, M.,
 
 [^5]: The restriction to matters invisible was taken seriously by Mīmāmsā: what the Vedas said about anything other than *dharma* was reinterpreted or disregarded.[invisiblenote]
 
-[^6]: I leave aside the part about the eternal connection between words and meanings, which would take us too far afield. Suffice it to say that the Mīmāmsākas spilt a good deal of ink developing an ontology and a philosophy of language to make room for the idea of testimony that is authoritative but authorless. See @tabereternality.
+[^6]: I leave aside the part about the eternal connection between words and meanings, which would take us too far afield. Suffice it to say that the Mīmāmsākas spilt a good deal of ink developing an ontology and a philosophy of language to make room for the idea of testimony that is authoritative but authorless. See {% cite tabereternality %}.
 
-[^7]: Trans. @jha1907skb.
+[^7]: Trans. {% cite jha1907skb %}.
 
-[^8]: Thus @pollock1989mima [p. 606], who argues that Mīmāmsā itself encouraged the rejection of history. But there was already fertile soil, e.g. in the cyclical conception of the universe.
+[^8]: Thus {% cite pollock1989mima -l 606 %}, who argues that Mīmāmsā itself encouraged the rejection of history. But there was already fertile soil, e.g. in the cyclical conception of the universe.
 
-[^9]: @tabereternality.
+[^9]: {% cite tabereternality %}.
 
-[^10]: @matilal1986perception [p. 32]; see @arnold2001ivr [pp. 589–91] on the modern reception of the doctrine of *svatah prāmānya*.
+[^10]: {% cite matilal1986perception -l 32 %}; see {% cite arnold2001ivr -l 589–91 %} on the modern reception of the doctrine of *svatah prāmānya*.
 
 [^11]: Testimony (*śabda*) is sometimes treated under the heading of ‘injunction’ (*codanā*) because the Mīmāmsā school is concerned with Vedic testimony insofar as it offers prescriptions for living, whether in a grammatical form or not (see also n. [invisiblenote] above). In our passages, Kumārila is explicitly treating *śabda* in general (vv. 7–8).
 
-[^12]: Trans. @taber1992dkb [p. 207].
+[^12]: Trans. {% cite taber1992dkb -l 207 %}.
 
 [^13]: Thus v. 68: “Then, too, in the case of the Veda, the assertion of *freedom from reproach* is very easy to put forward, because there is no speaker in this case; and for this reason the unauthoritativeness of the Veda can never even be imagined.”
 
 [^14]: vv. 13–8.
 
-[^15]: @taber1992dkb [p. X].
+[^15]: {% cite taber1992dkb %} [p. X].
 
 [^16]: vv. 47–8; cf. e.g. vv. 6, 80.
 
-[^17]: Cf. @mohanty1989gangesa [p. 1].
+[^17]: Cf. {% cite mohanty1989gangesa -l 1 %}.
 
-[^18]: So for example Prabhākara before Kumārila, and Umbeka, Pārthasārathi, and Sucarita after him—see @chatterjea2003svatah and @taber1992dkb for brief accounts.
+[^18]: So for example Prabhākara before Kumārila, and Umbeka, Pārthasārathi, and Sucarita after him—see {% cite chatterjea2003svatah %} and {% cite taber1992dkb %} for brief accounts.
 
-[^19]: The usage goes back at least to @keith1921karma and @radhakrishnan1927indian, and is employed in the recent discussions of Kumārila offered by @taber1992dkb and @arnold2001ivr.
+[^19]: The usage goes back at least to {% cite keith1921karma %} and {% cite radhakrishnan1927indian %}, and is employed in the recent discussions of Kumārila offered by {% cite taber1992dkb %} and {% cite arnold2001ivr %}.
 
 [^20]: E.g. vv. 49–51.
 
 [^21]: E.g. vv. 52–3, 56, 86–7.
 
-[^22]: Even with Kumārila it’s not trivial to rule out a pragmatic understanding. Karl @potter1984die [@potter1992presuppositions] has argued that ‘knowledge’ has *always* more a pragmatic than a theoretical import in Indian philosophy—but see @mohanty1984pramanya. A pragmatic understanding of validity was read into the *SV* itself by Sucarita Miśra, a later Mīmāmsā commentator—see @chatterjea2003svatah [p. 52–3]. My own interpretation gives a role to pragmatic considerations; cf. also @bhatt1962epistemology [pp. XX].
+[^22]: Even with Kumārila it’s not trivial to rule out a pragmatic understanding. Karl {% cite potter1984die %} [{% cite potter1992presuppositions %}] has argued that ‘knowledge’ has *always* more a pragmatic than a theoretical import in Indian philosophy—but see {% cite mohanty1984pramanya %}. A pragmatic understanding of validity was read into the *SV* itself by Sucarita Miśra, a later Mīmāmsā commentator—see {% cite chatterjea2003svatah -l 52–3 %}. My own interpretation gives a role to pragmatic considerations; cf. also {% cite bhatt1962epistemology %} [pp. XX].
 
 [^23]: Assuming a correspondence understanding of truth. But scholars of Indian philosophy also often use ‘truth’ as a label of convenience, and thus may describe Kumārila’s thesis in these terms without subscribing to the interpretation now under consideration.
 
-[^24]: @dixit1983slokavarttika [p. 5]; for validity as truth see also e.g. @chatterjea2003svatah, and @hiriyanna1932outlines; among traditional authors see e.g. Gangeśa, *PV* [XX]. @bhatt1962epistemology interprets validity as truth-entailing, but understands intrinsicality in a way that would avoid Dixit’s complaint; classically, cf. Umbeka *SVVT* [XX].
+[^24]: {% cite dixit1983slokavarttika -l 5 %}; for validity as truth see also e.g. {% cite chatterjea2003svatah %}, and {% cite hiriyanna1932outlines %}; among traditional authors see e.g. Gangeśa, *PV* [XX]. {% cite bhatt1962epistemology %} interprets validity as truth-entailing, but understands intrinsicality in a way that would avoid Dixit’s complaint; classically, cf. Umbeka *SVVT* [XX].
 
 [^25]: Thus *CS* v. 6 (trans. Jhā): “Even the unauthoritative Means would, by itself, lead to the conception of its object, and its function could not cease unless its falsity were ascertained by other means.” Cf. e.g. vv. 85–6.
 
-[^26]: @taber1992dkb.
+[^26]: {% cite taber1992dkb %}.
 
-[^27]: p. 216; cf. @taber1987review [p. 203], @taber2002mo [p. 172], and @taber2005hindu [p. 2]. @arnold2001ivr [@arnold2001ivs] is broadly supportive of the Taber-Pārthasārathi interpretation. For other suggestions in terms of presumptive or *prima facie* truth see @keith1921karma [p. 18], @dasgupta1957history [pp. 372–5], who offers a coherentist spin, and @bhatt1962epistemology [pp. 131ff.]. @chatterjea2003svatah [p. 52] and @mohanty1989gangesa [p. 8] also suggest that—at least in Pārthasārathi’s case—the claim is a psychological one. On Pārthasārathi’s interpretation cf. @chatterjea2003svatah [pp. 50–5] and @bhatt1962epistemology [pp. 129–45].
+[^27]: p. 216; cf. {% cite taber1987review -l 203 %}, {% cite taber2002mo -l 172 %}, and {% cite taber2005hindu -l 2 %}. {% cite arnold2001ivr %} [{% cite arnold2001ivs %}] is broadly supportive of the Taber-Pārthasārathi interpretation. For other suggestions in terms of presumptive or *prima facie* truth see {% cite keith1921karma -l 18 %}, {% cite dasgupta1957history -l 372–5 %}, who offers a coherentist spin, and {% cite bhatt1962epistemology %} [pp. 131ff.]. {% cite chatterjea2003svatah -l 52 %} and {% cite mohanty1989gangesa -l 8 %} also suggest that—at least in Pārthasārathi’s case—the claim is a psychological one. On Pārthasārathi’s interpretation cf. {% cite chatterjea2003svatah -l 50–5 %} and {% cite bhatt1962epistemology -l 129–45 %}.
 
 [^28]: Cf. *TS* 2872–4, noted by Taber.
 
@@ -505,7 +422,7 @@ Taber, J. (MS). Mīmāṃsā and the Eternality of Language. In Kapstein, M.,
 
 [^32]: Taber (p. 215, n. 56) cites v. 80 in support of the idea that the passage of time improves confidence, but while the verse shows that Kumārila is trying to make more than a psychological point, I cannot see in it any indication that he is thinking about the passage of time, except in the trivial sense that a counter-indicating cognition would come after the initial cognition. Taber also adduces *TS* 2904, but again I see in that verse only the claim that cognitions are valid if they’re not upset by other cognitions. Kumārila refers in this verse to cognitions occurring at “other times and places,” but that doesn’t mean that length of time (or travel experience, for that matter) makes a difference to warrant except insofar as counter-indication cognitions would, by their nature, have to occur at other times.[tabertextual]
 
-[^33]: Thus @mohanty1989gangesa [p. 8] and @chatterjea2003svatah [p. 52].
+[^33]: Thus {% cite mohanty1989gangesa -l 8 %} and {% cite chatterjea2003svatah -l 52 %}.
 
 [^34]: p. 216.
 
@@ -521,27 +438,27 @@ Taber, J. (MS). Mīmāṃsā and the Eternality of Language. In Kapstein, M.,
 
 [^40]: *SV* II.22–3, V.11.
 
-[^41]: *SV*, *Śūnyavāda* v. 64ff.; for the school see  @keith1921karma [pp. 20–1] and citations there.
+[^41]: *SV*, *Śūnyavāda* v. 64ff.; for the school see  {% cite keith1921karma -l 20–1 %} and citations there.
 
-[^42]: See @sen1984concept [pref., chs. 4, 10] for discussion.
+[^42]: See {% cite sen1984concept %} [pref., chs. 4, 10] for discussion.
 
-[^43]: cf. @chatterjea2003svatah [p. 41].
+[^43]: cf. {% cite chatterjea2003svatah -l 41 %}.
 
-[^44]: @chatterjea2003svatah [p. 51].
+[^44]: {% cite chatterjea2003svatah -l 51 %}.
 
-[^45]: @taber2002mo [p. 171, n. 27], @taber1992dkb [p. 212].
+[^45]: {% cite taber2002mo %} [p. 171, n. 27], {% cite taber1992dkb -l 212 %}.
 
 [^46]: v. 85.
 
-[^47]: “The intrinsic validity of cognitions is vested for the Mīmāmsaka in the sense of conviction with which they typically arise.” @taber2002mo [p. 172].
+[^47]: “The intrinsic validity of cognitions is vested for the Mīmāmsaka in the sense of conviction with which they typically arise.” {% cite taber2002mo -l 172 %}.
 
-[^48]: @taber1992dkb, pp. 206 & 215; cf. pp. 207, 216, 218, 221.
+[^48]: {% cite taber1992dkb %}, pp. 206 & 215; cf. pp. 207, 216, 218, 221.
 
 [^49]: *SV* [XX]. Compare the familiar idea that, in order to figure out what one believes, one (often) looks not inward but outward, towards the world.
 
-[^50]: We must leave aside the details of Kumārila’s theory of perception, which would also take us into his metaphysics and philosophy of language, but a translation of the relevant chapter of the *SL* (the *Pratyaksapariccheda*), along with extensive notes and discussion, has recently been provided by @taber2005hindu.
+[^50]: We must leave aside the details of Kumārila’s theory of perception, which would also take us into his metaphysics and philosophy of language, but a translation of the relevant chapter of the *SL* (the *Pratyaksapariccheda*), along with extensive notes and discussion, has recently been provided by {% cite taber2005hindu %}.
 
-[^51]: @kataoka2002validity outlines the structure of invalidity; cf. @bhatt1962epistemology [p. 132].
+[^51]: {% cite kataoka2002validity %} outlines the structure of invalidity; cf. {% cite bhatt1962epistemology -l 132 %}.
 
 [^52]: See e.g. vv. 6, 47, 85.
 
@@ -553,9 +470,9 @@ Taber, J. (MS). Mīmāṃsā and the Eternality of Language. In Kapstein, M.,
 
 [^56]: For citations see n. [reasonableness] above.
 
-[^57]: It is particularly characteristic of the Indian tradition to (as we would see it) transform normative or evaluative questions into epistemological or metaphysical questions, so far as possible. Most notoriously, there seems to have been virtually no direct philosophical inquiry into final ends—no ethics or moral philosophy in the Western sense. The introduction has already given an illustration of the kind of thing that happened instead: debates about final ends were fought by proxy, in terms of epistemology, ontology, perception, language, and so on, with each school developing an increasingly sophisticated philosophical apparatus to buttress their approach to duty or liberation. See further @sen1984concept.
+[^57]: It is particularly characteristic of the Indian tradition to (as we would see it) transform normative or evaluative questions into epistemological or metaphysical questions, so far as possible. Most notoriously, there seems to have been virtually no direct philosophical inquiry into final ends—no ethics or moral philosophy in the Western sense. The introduction has already given an illustration of the kind of thing that happened instead: debates about final ends were fought by proxy, in terms of epistemology, ontology, perception, language, and so on, with each school developing an increasingly sophisticated philosophical apparatus to buttress their approach to duty or liberation. See further {% cite sen1984concept %}.
 
-[^58]: @austin1979other [p. 84].
+[^58]: {% cite austin1979other -l 84 %}.
 
 [^59]: Jhā refers to ‘cognitions’ as ‘conceptions’; ‘validity’ is ‘authoritativeness’; \`intrinsic is ‘inherent’; Jhā also uses ‘means of right notion’ to refer to a valid cognition.
 
@@ -571,19 +488,19 @@ Taber, J. (MS). Mīmāṃsā and the Eternality of Language. In Kapstein, M.,
 
 [^65]: At present we are asking a question about the warrant of the first-order cognition, and not a question about how it can be *determined* whether a first-order cognition is warranted. But one part of the suggestion in the contemplated scenario is that some cognitions may be warranted only *if* assessed in a certain way.
 
-[^66]: Cf. @sen1984concept [ch. 1] and eg. *SV* IV.v.78.
+[^66]: Cf. {% cite sen1984concept %} [ch. 1] and eg. *SV* IV.v.78.
 
 [^67]: [TESTIMONY ISSUES]
 
-[^68]: cf. v. 56, and @alston1980level on ‘level-confusions.’
+[^68]: cf. v. 56, and {% cite alston1980level %} on ‘level-confusions.’
 
-[^69]: Compare @kripke1972naming [pp. 66–7] on Jonah.
+[^69]: Compare {% cite kripke1972naming -l 66–7 %} on Jonah.
 
 [^70]: Cf. v. 56: “The fact of mere Unauthoritativeness being due to discrepancies does not lead to any *regressus ad infinitum*—as is found to be the case with the theory of the cognition of excellences (being the cause of authoritativeness)—for us who hold the theory of “self-evidence” [*svatah prāmānya*].”
 
 [^71]: See §2.3 above.
 
-[^72]: @mohanty1989gangesa [p. 3] offers a useful note on the difference between (and different positions on) grasping ‘*prakāśa*’ and grasping ‘*prāmānya*,’ and see @sen1984concept for a more extensive treatment.
+[^72]: {% cite mohanty1989gangesa -l 3 %} offers a useful note on the difference between (and different positions on) grasping ‘*prakāśa*’ and grasping ‘*prāmānya*,’ and see {% cite sen1984concept %} for a more extensive treatment.
 
 [^73]: These were mooted by the opponent at vv. 38–9.
 
@@ -593,7 +510,7 @@ Taber, J. (MS). Mīmāṃsā and the Eternality of Language. In Kapstein, M.,
 
 [^76]: vv. 59–60.
 
-[^77]: A doubt carries no commitment in any direction in the first place—this point fits with my earlier discussion where I supposed that validity presupposses *definiteness* as I interpreted that term; cf. @bhatt1962epistemology [pp. 93–5].
+[^77]: A doubt carries no commitment in any direction in the first place—this point fits with my earlier discussion where I supposed that validity presupposses *definiteness* as I interpreted that term; cf. {% cite bhatt1962epistemology -l 93–5 %}.
 
 [^78]: vv. 94–5; cf. v. 128.
 
@@ -603,9 +520,9 @@ Taber, J. (MS). Mīmāṃsā and the Eternality of Language. In Kapstein, M.,
 
 [^81]: p. 217.
 
-[^82]: @mohanty1989gangesa [p. 22], his emphasis.
+[^82]: {% cite mohanty1989gangesa -l 22 %}, his emphasis.
 
-[^83]: @frede1987sceptic, @barnes1989antiochus, @striker1997academics, @brittain2001philo; see @sep-philo-larissa for a survey.
+[^83]: {% cite frede1987sceptic %}, {% cite barnes1989antiochus %}, {% cite striker1997academics %}, {% cite brittain2001philo %}; see {% cite sep-philo-larissa %} for a survey.
 
 
 ## Bibliography

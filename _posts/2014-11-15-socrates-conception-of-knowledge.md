@@ -13,7 +13,7 @@ The notion of \emph{techne}---expertise---is prominent in Plato's earlier dialog
 
 
 
-> I articulate the Socratic understanding of *techne*---expertise---and argue that, for Socrates, *techne* is knowledge. This sheds light on various other aspects of Socrates’ philosophy.
+> <span class="abstract-label">Abstract</span>. I articulate the Socratic understanding of *techne*---expertise---and argue that, for Socrates, *techne* is knowledge. This sheds light on various other aspects of Socrates’ philosophy.
 
 Unscientific polling on my part has revealed that, when asked for examples of things they know, modern English speakers will always give examples in (or appropriate to) propositional form: “I know that Addis Ababa is the capital of Ethiopia,” "two plus two equals four," “God loves me”—that sort of thing. Nobody has ever said “carpentry” or “how to play the piano,” or anything like that. That is the situation in contemporary philosophy as well, where epistemologists emphasize knowledge of particular facts; Thus Robert Audi, in a recent introduction to epistemology, can say flatly that “knowledge is constituted by belief (of a certain kind).”[^1]
 
