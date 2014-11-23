@@ -1,5 +1,9 @@
 /* custom.css */
 
+.abstract-label {
+  font-variant: small-caps;
+}
+
 .sidebar {
   /*text-align: right*/
   color: rgba(255,255,255,.7);
@@ -43,8 +47,4 @@ ul.social li a {
 
 ul.social li a:hover {
   color: rgba(255,255,255,1);
-}
-
-.abstract-label {
-  font-variant: small-caps;
 }
