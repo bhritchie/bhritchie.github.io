@@ -1,440 +1,752 @@
 ---
 layout: post
-title: Socrates&rsquo; Conception of Knowledge
+title: Socrates’ Conception of Knowledge
 ---
 
-<!---
+> <span class="abstract-label">Abstract</span>. I articulate the Socratic understanding of *techne*---expertise---and argue that, for Socrates, *techne* is knowledge. This also sheds light on various other aspects of Socrates’ philosophy.
 
-FULLER ABSTRACT:
+## 1. Introduction: Socrates as an Epistemologist
 
-The notion of \emph{techne}---expertise---is prominent in Plato's earlier dialogues. \emph{Techne} has generally been of interest to scholars because of its role in Socrates' (or Plato's) moral psychology. But this has led to an inadequate appreciation of Socrates' own particular conception of \emph{techne}, and has obscured the extent of his engagement with epistemology proper. In this chapter I articulate the Socratic understanding of \emph{techne}, and argue that \emph{techne} in fact represents Socrates' understanding of \emph{knowledge}. This conception of knowledge fuses forms of knowledge we would distinguish, including propositional knowledge and know-how, and thus takes essentially practical and goal-directed varieties of knowledge as paradigmatic of knowledge as a whole. I explain also how this motivates some points in Socrates' moral psychology, including his famous denial of \emph{akrasia}: this is necessitated by his conception of moral knowledge as a \emph{techne.}
+When the layman is asked, “give me an example of something you know,” he will tend to produce examples apt for rendering in propositional form: “two plus two equals four,” or “Addis Ababa is the capital of Ethiopia.” He could, with equal propriety, mention some of his skills—“carpentry” or “how to play the piano”—but he doesn’t. Contemporary epistemologists also address the latter sorts of cases only exceptionally or secondarily. The emphasis is rather on knowledge of particular facts. Thus a recent introductory text in epistemology can open by saying flatly that “knowledge is constituted by belief.”[^1] One would not merely assume such a thing of the carpenter’s knowledge, or of the pianist’s.
 
---->
+Socrates, by contrast, gravitated in his philosophizing toward the examples provided by the skilled, typically professional practices known to the Greeks as ‘τέχναι.’ His contemporaries noticed this fondness. Xenophon records the Athenian tyrants, concerned about the bad light being shed on their ability as rulers, issuing Socrates a warning:
 
+> ὁ δὲ Κριτίας, ἀλλὰ τῶνδέ τοί σε ἀπέχεσθαι, ἔφη, δεήσει, ὦ Σώκρατες, τῶν σκυτέων καὶ τῶν τεκτόνων καὶ τῶν χαλκέων: καὶ γὰρ οἶμαι αὐτοὺς ἤδη κατατετρῖφθαι διαθρυλουμένους ὑπὸ σοῦ.
+>
+> “You see, Socrates,” explained Critias, “you will have to avoid your favourite topic,—the cobblers, builders and metal workers; for it is already worn to rags by you in my opinion.”[^2]
 
+That fondness is also manifest in Plato’s earlier dialogues,[^3] and is likewise noted there (again with exasperation):
 
-> <span class="abstract-label">Abstract</span>. I articulate the Socratic understanding of *techne*---expertise---and argue that, for Socrates, *techne* is knowledge. This sheds light on various other aspects of Socrates’ philosophy.
+> νὴ τοὺς θεούς, ἀτεχνῶς γε ἀεὶ σκυτέας τε καὶ κναφέας καὶ μαγείρους λέγων καὶ ἰατροὺς οὐδὲν παύῃ, ὡς περὶ τούτων ἡμῖν ὄντα τὸν λόγον.
+>
+> Callicles: By the gods! You simply don’t let up on your continual talk of shoemakers and cleaners, cooks and doctors, as if our discussion were about them![^4]
 
-Unscientific polling on my part has revealed that, when asked for examples of things they know, modern English speakers will always give examples in (or appropriate to) propositional form: “I know that Addis Ababa is the capital of Ethiopia,” "two plus two equals four," “God loves me”—that sort of thing. Nobody has ever said “carpentry” or “how to play the piano,” or anything like that. That is the situation in contemporary philosophy as well, where epistemologists emphasize knowledge of particular facts; Thus Robert Audi, in a recent introduction to epistemology, can say flatly that “knowledge is constituted by belief (of a certain kind).”[^1]
+We, too, are apt to be surprised at some of Socrates’ invocations of τέχναι in connection with all manner of epistemological matters. So, for example, when it is suggested by Critias in the *Charmides* that temperance (σωφροσύνη) is knowing oneself (τὸ γιγνώσκειν αὐτόν), Socrates promptly suggests that temperance will then be analogous to medicine.[^5]
 
-It doesn’t take much acquaintance with Plato’s earlier dialogues to know that Socrates *loves* examples of the other sort—in particular, examples of practices of the skilled, often professional variety which were called “*technai*.”[^2] Socrates’ contemporaries certainly noticed this: Callicles complains that Socrates never lets up with his “continual talk of shoemakers and cleaners, cooks and doctors”; Xenophon even records the Athenian tyrants warning Socrates that he had better lay off discussing carpenters and herdsmen and blacksmiths and the like.[^3]
+It would be hard, then, to altogether fail to notice the presence of τέχνη in Plato’s early dialogues. Nevertheless, scholars have largely failed to appreciate the epistemological significance it has there. In particular, it has not been appreciated that Socrates’ reflections on τέχνη—which make up a significant part of the dialogues—constitute a distinctively Socratic set of reflections on the nature of knowledge. My aim in this paper is to rectify this: I will argue that there is a distinctively Socratic conception of τέχνη which constitutes a distinctively Socratic (or early Platonic) conception of knowledge .[^6]
 
-Modern readers do not exactly miss these examples, but the *significance* of *techne* in the early dialogues is often ill-appreciated. It is not always seen that Socrates’ scattered reflections on *techne*—which constitute a very significant part of the dialogues—constitute, in fact, reflections on knowledge. Thus so great and sympathetic an interpreter as Gregory Vlastos was able to say that Socrates was “exclusively a moral philosopher.”[^4]
+What this thesis means is, first, that Socrates has a distinctive conception of τέχνη considered in its own right. Scholarly discussion of τέχνη in the early dialogues has largely centred on the so-called “craft analogy”—the supposed Socratic analogy between virtue and τέχνη—and this emphasis on the relationship between τέχνη and virtue has generally been at the expense of attention (or disinterested attention) to the nature of Socratic τέχνη proper. It is not often noticed that there even is a specifically Socratic conception of τέχνη. Terence Irwin, author of perhaps the most important recent book on Plato’s moral theory, tells us that “Socrates does not say exactly what he takes to be implied by saying that something is a craft [i.e. a τέχνη] or is similar to a craft.” That is not altogether unfair, but Irwin then goes too far:
 
-On occasion Socratic epistemology *is* taken up in its own right, but even then *techne* generally gets too little emphasis. Hugh Benson is by no means alone in saying that for Socrates, knowledge is more like *understanding* than like the (for us) more familiar *justified true belief*.[^5] He offers some “paradigmatic examples of the kind of understanding [he has] in mind”:
+> Aristotle, however, has a fairly clear and explicit view of the character of a craft. It is useful, then, to replace the rather imprecise question ‘Does Socrates treat virtue as a craft?’ with the more precise question ‘Does Socrates treat virtue as the sort of thing that Aristotle regards as a craft?’[^7]
 
-> We say things like Einstein understands gravity, Richard Feynmann understands quantum mechanics, R. G. Collingwood understands history, or James Boswell understands Samuel Johnson.[^6]
+Socrates certainly says enough about τέχνη to distinguish his conception thereof from Aristotle’s, as well as from later Platonic understandings and from understandings mooted in other literature and by other characters in Plato’s dialogues.[^8]
 
-But Callicles does not complain that Socrates never leaves off talking about cosmological theories; the tyrants do not warn Socrates that he should stop talking about historical figures or battles. To talk only of “understanding” leaves us in the dark as to why this should be. We would do better to put more emphasis on *techne* in particular.
+Second, my thesis means that Socrates is interested in, and has something distinctive to say about, epistemology. This is not always recognized: so great and sympathetic an interpreter as Gregory Vlastos was able to say that Socrates was “exclusively a moral philosopher.”[^9] But this is an untenable position if we keep firmly in mind the fact that τέχνη is at the very least a *type* of knowledge—indeed in these dialogues ‘τέχνη’ is frequently synonymous with ‘ἐπιστήμη’ (itself commonly translated as ‘knowledge’). Socratic theorizing about τέχνη is epistemological theorizing, and Socrates does a great deal of it: he considers, for example, the nature of the objects of knowledge (the subject matter of a true τέχνη—*Laches*, *Ion*, *Gorgias*), the characteristics of, and how to identify, the knower (the expert or τεχνίτης—*Ion*, *Euthyphro*, *Gorgias*, *Protagoras*), the value and efficacy of knowledge (*Euthydemus*, *Hippias Major*, *Gorgias*, *Protagoras*), and the psychological role of knowledge (*Hippias Minor*, *Protagoras*). True, Socrates does not discuss our preferred cases—but neither do we discuss his. It is also true that Socrates is first of all concerned with virtue. The situation in Plato’s early dialogues is nicely captured in Socrates’ own response to the tyrants, as reported by Xenophon: if he cannot discuss “cobblers, builders and metal workers,”
 
-Scholarly interest in *techne* has instead mainly been due to interest in the so-called “craft analogy”—the supposed Socratic analogy between virtue and *techne*. But even then the *distinctiveness* of Socrates’ conception of *techne* often goes unnoticed. Terence Irwin, author of perhaps the most important recent book on Plato’s moral theory, tells us that “Socrates does not say exactly what he takes to be implied by saying that something is a craft [i.e. a *techne*] or is similar to a craft.” He goes on:
+> οὐκοῦν, ἔφη ὁ Σωκράτης, καὶ τῶν ἑπομένων τούτοις, τοῦ τε δικαίου καὶ τοῦ ὁσίου καὶ τῶν ἄλλων τῶν τοιούτων;
+>
+> Then must I keep off the subjects of which these supply illustrations, Justice, Holiness, and so forth?
 
-> Aristotle, however, has a fairly clear and explicit view of the > character of a craft. It is useful, then, to replace the rather > imprecise question ‘Does Socrates treat virtue as a craft?’ with the > more precise question ‘Does Socrates treat virtue as the sort of thing > that Aristotle regards as a craft?’[^7]
+But this is a motive for, not a bar to, the pursuit of epistemology.[^10]
 
-But Socrates certainly says enough about *techne* to distinguish his conception thereof from Aristotle’s, and it is a mistake to suppose that two conceptions are close enough for interpretative purposes.
+Third, it is my thesis that, for Socrates, knowledge is τέχνη. Even on those occasions when the topic of Socratic epistemology *is* taken up in its own right, τέχνη is not recognized to have this epistemological significance. A common view is that Socratic knowledge is something like *understanding*. But that positive suggestion misleads. Consider Hugh Benson’s “paradigmatic examples of the kind of understanding [Benson has] in mind”:
 
-We moderns do talk about knowledge of non-propositional varieties all the time. And Socrates talks about propositional varieties of knowledge. But, generally, once we start *thinking about* knowledge, we start thinking about knowledge in propositional form. And Socrates, when he starts to think about knowledge, thinks about *techne*. It is not too much to say that, for Socrates, knowledge just *is* *techne*. And so in this essay I describe the Socratic conception of knowledge, and argue that it *is* the Socratic conception of knowledge that I’m describing. In other words, I describe the Socratic conception of *techne*, explaining how it is different from other conceptions of *techne* (in §1), and I explain why that is tantamount to describing the Socratic conception of knowledge altogether (in §§2–4).
+> We say things like Einstein understands gravity, Richard Feynmann understands quantum mechanics, R. G. Collingwood understands history, or James Boswell understands Samuel Johnson.[^11]
 
-## Techne in Plato’s Early Dialogues
+But these are not like Socrates’ own examples. Callicles does not complain that Socrates never leaves off talking about cosmological theories; the tyrants do not warn Socrates that he should stop talking about historical figures. It is doubtful whether Socrates would even accept that there is such a thing as knowledge of history or people.[^12] He rejects Ion’s representation of himself as an expert on Homer and *only* on Homer, and I see no reason why he should take a different view of “understanding Johnson.”[^13] Again, Socrates is hilariously dismissive of Hippias’ historical ‘knowledge’ in the *Hippias Major*.[^14] The Einstein and Feynman examples are better insofar as they are meant to suggest the mastery of some general, atemporal domain. On the other hand, insofar as the examples are meant to suggest a special, perhaps even unique, insight, they are best avoided. For example, it has been said of Ramanujan that “if [he] had any peers in the formal manipulation of infinite series, they were only Euler and Jacobi.”[^15] But if it is also true that Ramanujan “never comprehended the idea of proof,”[^16] then he would be a poor example of a Socratic expert: the Socratic expert is supposed to be able to explain himself, and to teach what he knows.[^17] Indeed Ramanujan seems to have said about himself what Socrates says about Ion: his inspiration was divine. Now the point is not that Socrates is uninterested in understanding, or that he would deny that Benson’s people know (or understand) what Benson says they do. The point is rather that Socrates is only interested in understanding—or any other kind of knowledge—insofar as it is an aspect of τέχνη.
 
-As ‘*techne*’ was a term of commendation, there were disputes about whether given practices deserved the title.[^8] Socrates himself engages in such disputation: he views medicine as a genuine *techne*, but raises questions about the status of poetry, ‘cookery,’ and rhetoric. Nor is it only Socrates raising such questions in the early dialogues: in the *Laches*, Nicias assumes that fighting in armour is a *techne*, while Laches has doubts.[^9]
+I proceed as follows. In §II, I explain what τέχναι are, and describe some of the contentious issues surrounding the concept. This will allow us to better understand Socrates’ own conception of τέχνη, and how it differs from other conceptions.
 
-Disagreements as to which practices were *technai* were complicated, and engendered, by the fact that different people had different ideas about what a *techne* should be or do. For example, when you hire a craftsman, should you be able to expect that he deliver what you hire him for? That would be a natural expectation of a builder, but what about a doctor? And should a genuine *techne* be theoretical, and in what way theoretical? Or might a mere body of experience also constitute a *techne*? Thus, to take one example, we find the author of the Hippocratic *On Ancient Medicine* (hereafter *VM*) arguing that medicine’s status as a *techne* does not depend on incorporating into it the sorts of physical theories expounded by the natural philosophers.[^10]
+In §III, I show that knowledge attributed to others by Socrates should generally be understood as manifesting τέχνη-possesion—for example, a man might know that so-and-so has such-and-such an ailment, and how to treat it, because he is a doctor. I also argue that, for Socrates,  is not rooted in any other form of knowledge—it is not partially or wholly constituted by prior factual knowledge, for example.
 
-By attending to the debates about the nature of *techne* which we find in the contemporary literature, and to various remarks about *techne* in the early dialogues, we can identify a distinctively Socratic (or early-Platonic) conception of *techne*. Here in §1 I discuss three important features of *techne* as Socrates understands it, which together give us a good general picture, and each of which emerges in discussions about whether certain practices constitute *technai* or whether certain individuals possess a *techne*. I begin with the scope of craft knowledge, in §1.1. Within its proper domain, Socrates says that “wisdom would never err” (*Euthydemus* 280a), so I try, in §1.2, to explain what that means. For Socrates the reliable attainment of genuine goods is in part a result of the craftsman’s rational and articulate understanding, which I discuss in §1.3. In §1.4 I deal briefly with some problems stemming from the Socratic treatment of virtue as a *techne*.[^11]
+In §IV, I acknowledge that there are Socratic attributions and avowals of knowledge that do not fit within the τέχνη-scheme. But I argue that these instances are trivial reflections of the fact that Plato wrote in a colloquial style. Only in the case of τέχνη do we find any serious epistemological theorizing.
 
-### The Scope of Techne
+In §V, I conclude that, for Socrates, knowledge is τέχνη. In suport of this conclusion, I also provide some examples of Socrates’ tendency to treat any kind of question about knowledge as a question about τέχνη.
 
-One may get at the nature of a *techne* by way of its subject matter. Thus Socrates asks Gorgias: “with which of the things there are is oratory concerned?”[^12] And a *techne* is systematic, so that its subject matter (or *pragma*) has a natural integrity.[^13] In the *Laches* the proposal that courage might be knowledge of future goods and evils is rejected on the grounds that there is no such thing as knowledge concerned with farming *in the future* in particular, or with health or strategy *in the future.* The topic will just be health *period*, or strategy, or farming, or goods and evils generally (198d–199d). Similarly Ion is taken to task for the suggestion that he knows and can interpret only the works of Homer, but that as far as other poets go he “has no power to contribute anything worthwhile” (*Ion* 532b-c). One learns, or should learn, “a subject as a whole” (532e); i.e. poetry, or sculpture, not specific poets or sculptors.
+## II. Texnh and Socratic Texnh
 
-Socrates characterizes the subjects of craft knowledge in fairly intuitive terms: the odd and the even, health, houses—often it’s a product the craftsman can bring about. Socrates tells us in the *Ion* that when he finds forms of knowledge dealing with different subjects (*pragmata*), then he calls them different *technai*, while the same subject means the same *techne* (537d–e). He illustrates the point by observing that both he and Ion know that Socrates has five fingers on a hand, and it’s by the same *techne*—namely arithmetic—that they know this. But this idea about distinct subject matters shouldn’t be interpreted too strictly.[^14] In the *Gorgias* both gymnastics and medicine concern the body, but the one provides preventative care while the other is restorative. Similarly, at *Gorgias* 451b–c we find that both *arithmetike* and *logistike* have as subjects “even and odd”; the further difference seems to be the *way* these *technai* deal with number, or the use they put it to. So we are working here with the intuitive idea that each *techne* has, like a science, its own proper field, along with its own particular principles and point.[^15]
+###  in general
 
-### The Reliability of Techne
+, as noted, were skilled, often professional, practices. Building or carpentry () was a pardigmatic case; the cobbling, metal-working, shoemaking, and medicine we encountered earlier are likewise good examples, and others would include mathematics and musical arts. For the possessor of a  and the possession of a  respectively, ‘expert’ and ‘expertise’ are good fits. For the body of knowledge itself, as opposed to the mastery thereof, there is no very good English equivalent. In the context of Plato’s dialogues, ‘’ has been translated variously as ‘craft,’ ‘skill,’ ‘expertise,’ ‘art,’ ‘science,’ and ‘profession,’ none of which is ideal. ‘Profession’ entails earnings, which is too strong. ‘Skill’ is too broad, as is ‘know-how’: Harold Shipman was an skillful killer, but his  was medicine, which that skill; again, one knows how to walk up stairs, but that is neither an expertise nor a , nor in this case even a manifestation of one. ‘Science,’ ‘art,’ and ’craft’ are the nearest English equivalents, especially on older (obsolete?) understandings; they are still sometimes good fits in particular cases (e.g. ‘science’ for medicine and ‘craft’ for carpentry), though each has nowadays too narrow a range. With that qualification understood, I will sometimes employ ‘craft’ or ‘art.’
 
-A *techne* was expected to bring about success within its proper area, and proneness to failure could call the *techne*-status of a given practice into question.[^16] Nevertheless some forms of failure could be thought compatible with *techne*. One possibility is that, whatever might ideally be accomplished through *techne*, any given craftsman might make mistakes, as a result, perhaps, of inexperience or lack of aptitude. Socrates allows for the possibility of this kind of failure, for example at *Euthydemus* 279e–280a, where he contrasts wise and foolish doctors or generals. But so far that says nothing about potential limits on *techne* proper.
+Since people need and rely upon experts, ‘τέχνη’ was a term of commendation. As such, there was dispute about whether given practices deserved the title, and various considerations were adduced in support on one or the other positon.[^18] A simple example is provided in the , which opens with two generals in disagreement about whether “fighting in armour” is a τέχνη. Nicias identifies various likely advantages to studying this art, but Laches wonders whether there is really anything here to study at all:
 
-Another type of failure comes out in a supposed contrast between building (*tektonike*) and medicine, the former of which seems to have been an early paradigm of *techne.*[^17] There was a trope to the effect that when you call the builder you will get a house—and you won’t get a house otherwise. But other putative craftsman aren’t always successful. Doctors don’t always restore people to health, and, what’s more, people are sometimes restored to health without the aid of doctors. On such grounds some denied that medicine was a *techne* at all. The orator or sophist, too, was susceptible to such charges, especially given his sometimes extravagant claims to be able to teach virtue. Again it was observed that these teachers were not always successful (how interesting that they insist on securing payment up front!), and that their students were sometimes surpassed by the untrained.[^18]
+ἀλλ᾽ ἔστι μέν, ὦ Νικία, χαλεπὸν λέγειν περὶ ὁτουοῦν μαθήματος ὡς οὐ χρὴ μανθάνειν: πάντα γὰρ ἐπίστασθαι ἀγαθὸν δοκεῖ εἶναι. καὶ δὴ καὶ τὸ ὁπλιτικὸν τοῦτο, [182ε] εἰ μέν ἐστιν μάθημα, ὅπερ φασὶν οἱ διδάσκοντες, καὶ οἷον Νικίας λέγει, χρὴ αὐτὸ μανθάνειν: εἰ δ᾽ ἔστιν μὲν μὴ μάθημα, ἀλλ᾽ ἐξαπατῶσιν οἱ ὑπισχνούμενοι, ἢ μάθημα μὲν τυγχάνει ὄν, μὴ μέντοι πάνυ σπουδαῖον, τί καὶ δέοι ἂν αὐτὸ μανθάνειν;
 
-In the Hippocratic *De Arte* the response to such charges is as follows. Nature (*phusis*) sets limits on what is possible for the medical art. For example, fire is the ultimate cauterizer available to medicine—if this cauterizer is insufficient in some cases, that is no fault of medicine. The doctor still knows what can and cannot be helped, and what to do in cases that *are* amenable to treatment. Now it is important that limitations are blamed on *phusis* here. *Techne* was often viewed as a way of mastering or overcoming *tuche*—i.e. chance or luck.[^19] So we get a distinction between the vicissitudes of fortune, against which medicine, like any good *techne*, is insurance, and the inexorable workings of nature, which the doctor will understand but could not be expected to resist. (As for the fact that some people get better without a doctor, that may be credited to their doing what the doctor *would* have recommended.[^20]) Now *De Arte* still offers us an impressively demanding standard for *techne*: Allen observes that the defender of this view “seems to envisage . . . a physician who will at no point undertake cures with less than complete confidence of success” (85).
+It’s hard to say of any study whatever that it shouldn’t be learned, because it seems good to know everything, and in particular this skill in arms, if it’s really the subject of study its teachers claim and Nicias says; but if it’s not a subject of study and those who profess it are practicing a deception, or if it is a subject of study but not a very serious one, why learn it?[^19]
 
-Socrates’ understanding of the reliability of *techne* seems to accord with the sort of treatment found in *De Arte*. On the one hand, Socrates treats medicine as a paradigmatic *techne*, and there’s no reason to suppose that he or anyone else would have thought that a doctor could heal anyone no matter what their injuries or age or health. So Socrates could hardly have a *more* stringent view than the one found in *De Arte*. On the other hand, his view seems to be no *less* stringent either. In the *Euthydemus*, Socrates, adducing a variety of *technai*, deploys the notion that *techne* is a guard against bad *tuche* (279d ff.), finally going so far as to say that *sophia* (here a synonym for *‘techne’*) *is* (good) *tuche* (279d), or at any rate provides it (282a). Here Socrates, like the author of *De Arte*, tries to push luck out of the picture altogether.[^21] At *Euthydemus* 280a, ‘being lucky’ is glossed as ‘never making mistakes,’[^22] and at least this latter characterization of *techne* is found elsewhere, for example at *Protagoras* 357d–e. It is also found in *Republic* I, where Thrasymachus says that craftsmen, insofar as they are craftsmen, never make mistakes (340e), and Socrates falls in line with this, too (342b). The context is the question whether a ruler will ever mistakenly issue laws which in fact turn out to be detrimental to himself, so the point seems to be that if a *techne* is being practiced properly *then the craftsman should always be successful* (within the realm of possibility, presumably). So again the possibility of sheer misfortune is pushed out of the picture.[^23]
+Laches inclines to the more sceptical view: he says that the practicioners of this supposed art have not shown themselves of any value in battle—this is his own experience, and confirmed by the fact that the Spartans (who ought to know) do not employ any of these fighters in armour. A basic expectation of a , then, is that it can accomplish something; if the practicioners of a purported  cannot demostrate such accomplishments, then it is doubtful whether there is any such .
 
-Later Plato will take a more generous view. While in the *Gorgias* Socrates insists that mere experience and guessing are the marks of something *less* than *techne* (462b–c, 465a, 501a), the *Philebus* has him distinguishing a class of “less precise” *technai* which rely on guesswork (*stochasmos*) rooted in experience, which would thus be less reliable (55e–56a). A later development still, with Aristotle and other writers, was the notion of a stochastic *techne* (which need not be untheoretical).[^24] Here we would distinguish between competent application of the methods associated with a *techne* and actual successful outcome, or between the exercise of a *techne* and the aim of that *techne*. This would seem to offer a more appropriate model for medicine: we would no longer expect the doctor to know in every case whether or not the treatment will succeed; medicine would provide no *absolute* guarantee against luck. But, again, these are later developments.
+In particular, a  was expected to provide success. Reliability was in turn commonly supposed to hinge on the precision () attainable by a . In the , for example, Socrates distinguishes two varities of (“so-called”) : on the one hand there are ‘’ practiced with a low degree of precision () which would thus be less reliable (they possess much unclarity, “σμικρὸν δὲ τὲ βέβαιον”);[^20] on the other hand there are those practices— properly speaking—which employ numbers and weights and measures:
 
-### Techne and Explanation
+οἷον πασῶν που τεχνῶν ἄν τις ἀριθμητικὴν χωρίζῃ καὶ μετρητικὴν καὶ στατικήν, ὡς ἔπος εἰπεῖν φαῦλον τὸ καταλειπόμενον ἑκάστης ἂν γίγνοιτο.… τεκτονικὴν δέ γε οἶμαι πλείστοις μέτροις τε καὶ ὀργάνοις χρωμένην τὰ πολλὴν ἀκρίβειαν αὐτῇ πορίζοντα τεχνικωτέραν τῶν πολλῶν ἐπιστημῶν παρέχεται.
 
-For Socrates, *technai* are reliable because they are rational. In the *Gorgias* Polus says that “it is experience that causes our times to march along the way of craft, whereas inexperience causes them to march along the way of chance,” and while we see the common contrast between *techne* and *tuche* here, Socrates finds this statement inadequate.[^25] Thus he later says that when some practice “has no rational account by which it applies the things it applies, to say what they are by nature, so that it cannot say what is the explanation of each thing,” then that practice is merely a product of experience (*empeiria*), and not a *techne*. Socrates goes on: “I don’t call anything a craft which is unreasoning” (*alogos*—465a). He derides Polus’ own ‘*techne*’ of rhetoric, comparing it to “cookery,” which “by habit and experience . . . keeps only memory of what usually happens.”[^26]
+Socrates: If someone were to take away all counting (ἀριθμητικός), measuring (μετρητικός), and weighing (στατικός) from the arts and crafts, the rest might be said to be worthless.… As to building (), I believe that it owes its superior level of craftsmanship over other disciplines to its frequent use of measures () and instruments, which give it high accuracy ().[^21]
 
-A craftsman then understands the nature of the things he is dealing with. A doctor, for example, would know “what sight itself is” (*Laches* 189e–190a). The same expectation is strongly intimated at *Gorgias* 459c–e. It has been observed that the orator may be more persuasive concerning medicine even than a doctor, at least among the ignorant, but he “isn’t knowledgeable in the thing in which a doctor is knowledgeable” (459b). Socrates asks whether
+As Mark Schiefsky observes, the presentation of this point suggests that it was not original, and Felix Heinimann, who has explained that number, weight, and measure were a standard triad of features defining , likewise says that “Platon hat die Scheidung zwischen den unexakten und den mit Zahl und Mass arbeitenden Künsten offenbar übernommen.”[^22]
 
-> the orator is in the same position with respect to what’s just and > unjust, what’s shameful and admirable, what’s good and bad, as he is > about what’s healthy and about the subjects of the other crafts? > (459d)
+Just how much reliability or success should be expected of a  was a matter of dispute.[^23] Any given ‘expert’ might of course fail at a task, if only from inexperience or lack of aptitude. The difficulty arose when even the most skilled practitioners of the so-called τέχνη were liable to failure.
 
-The doctor, by implication, *would* know health and whatever else his *techne* concerns, and a rhetorical *techne* ought to be similar.[^27]
+There was a trope to the effect that when you call the builder you will get a house—and you won’t get a house otherwise.[^24] But other putative craftsman aren’t always successful. Doctors don’t always restore people to health, and, what’s more, people sometimes regain health without the aid of doctors. On such grounds some denied that medicine was a τέχνη at all.[^25] The orator or sophist, too, was susceptible to such charges, especially given the boast that he could teach nothing less than virtue. Again it was observed that these teachers were not always successful (how interesting that they insist on securing payment up front!), and that their students were sometimes surpassed by the untrained.[^26]
 
-In the *Gorgias,* the contrast between *techne* and *empeiria* is treated as a contrast not just between understanding and mere experience, but as a contrast between *aiming at something good with understanding* and *aiming at mere pleasure by guesswork* (464a–465d, 500a–b). I take the point to be that if you don’t understand the nature of your aims and of your subject matter, then you’re in no position to know what would be the “good condition” of the things you treat.[^28] Thus you cannot aim at that good condition but only, and only by guesswork, at what will please some person at some time. We might contrast an idealized cobbler, who knows the support a foot needs and how to provide it, with a shoe designer, who is concerned with aesthetic pleasure rather than comfort or health. The cobbler’s principles are always the same; the trends are ever-changing and unpredictable.[^29]
+It seems that some doctors accepted the terms of this challenge. One Hippocratic text, , claims of the study of regimen that
 
-Socrates’ interest in *what things are* has been described as an interest in real as opposed to nominal definitions. This is fair in the sense that Socrates expects experts to be be able to articulate their knowledge. Doctors and laymen alike *talk* about health, and can point to examples of healthy people, or give general characterizations of health—as “good condition of the body,” for example. But the layman relies on more superficial signs, and is liable to error, while the doctor can tell healthy people apart from those who merely appear healthy (*Gorgias* 464a–b).[^30] The doctor’s ability to give a “real definition” of health is a reflection of this ability to distinguish appearance from reality. So to know what the qualities in question are is, in part, to be able to employ *and explain* reliable standards of assessment.
+καὶ γὰρ τοῖσι νοσέουσι πᾶσιν ἐς ὑγείην μέγα τι δύνασθαι, καὶ τοῖσιν ὑγιαίνουσιν ἐς ἀσφαλείην, καὶ τοῖσιν ἀσκέουσιν ἐς εὐεξίην, καὶ ἐς ὅ τι ἂν ἕκαστος ἐθέλῃ.
 
-The interest in definitions should not be construed as an interest in knowledge which may be captured by a verbal formula.[^31] Knowledge of a given entity or quality, in the sense Socrates is concerned with, already indicates mastery of the whole rational practice that constitutes a *techne*.[^32] But because the expert can articulate his reasoning, putative experts may be interrogated. And so we have the familiar type of Socratic question: “what is courage?” or “what is piety?”[^33] As Angela Smith points out, requests for definitions follow declarations of expertise: the requests are a *test*.[^34] And this is only *one* Socratic test for expertise. In some cases we can just *tell* whether a wall or a shoe, say, is a good one. So one way of telling a craftsman is by his work; another is by his pedigree, or his students.[^35] In several dialogues we see Socrates trying to elicit a suitable delineation of the scope of some supposed *techne*.[^36] But the influential notion that Socrates is primarily interested in deductive knowledge, or knowledge of definitions, seems to be a result of taking one of Socrates’ investigative tools as too much representative of his whole conception of knowledge.[^37]
+To the sick it is a powerful aid to recovery, to the healthy a means of preserving health, to athletes a means of reaching their best form and, in short, the means by which every man may realize his desire.”[^27]
 
-### Techne and Virtue
+Because we’ll run into it again, it’s worth noting that the “all or nothing” attitude underlying this challenge and defence is surprisingly common in the history of medicine. We also find it in Chinese and Indian medical texts, for example.[^28] Even a widely-employed contemporary version of the Hippocratic Oath calls upon doctors to avoid the trap of “those twin traps of over-treatment and therapeutic nihilism [i.e. the view that medical treatment is useless or harmful, either in general or in a particular sphere];”[^29] that such a warning should have seemed necessary is testament to the enduring force of the view that medicine should be able to do anything if it is not worthless. (As an indication of how general this temptation is, we may note the absence of a convenient English word for ‘a lack of success’ which doesn’t also carry a tone of censure.)
 
-I said that much of the scholarly interest in *techne* has circled around Socrates’ frequent comparisons of virtue with various *technai*. Socrates makes these comparisons because he thinks that virtue is knowledge, and that knowledge is *techne*.[^38] However this is a matter of much controversy, because many scholars think that *technai* have features unsuitable to virtue.[^39] Which leads to a problem for my central thesis, since if you think that virtue cannot be a *techne*, you will probably still think that virtue is knowledge (that being an important Socratic thesis), so that it would be easy to think (mistakenly) that *techne* is just one form of knowledge among others for Socrates.
+A somewhat more modest and more sophisticated response to the challenge is offered in *De Arte*, another Hippocratic text. We are told that nature (φύσις) sets limits on what is possible for the medical art. Thus fire is the ultimate cauterizer available to medicine, and if this cauterizer is sometimes insufficient, that is no fault of medicine. The doctor still knows what ailments are amenable to treatment, and what to do in those cases. It is significant that φύσις is said to set the limits here. Τέχνη was often viewed as a way of mastering or overcoming τύχη—i.e. chance or luck.[^30] The author of *De Arte* can say that medicine, like any good τέχνη, is indeed insurance against the vicissitudes of fortune, but that while the doctor will understand the inexorable workings of nature, he could not be expected to resist them.[^31] Indeed, medicine has been singled out quite unfairly; what has been said about medicine’s reliance on available resources goes just as well for other :
 
-And a seemingly attractive line of thought supports the idea that Socrates would be interested in the craft analogy even if he doesn’t himself think that virtue is a *techne*: a lot of people were running around Greece claiming to teach virtue—claiming, in fact, a moral *techne*. Socrates was showing how wrong this was. Perhaps he thought that the example of *techne* could be used to illuminate the nature of virtue to some extent, but it was a typically sophistic rather than Socratic idea that you could really posses a full-blown moral *techne*. But that line of thought becomes less attractive once we realize how Socartes’ conception of *techne* differs from that of his interlocutors. He never shows that Gorgias or Polus lack a moral *techne* as *they* understand that notion; in fact Socrates insists that they have the *wrong* understanding of *techne*. This is a rather frivolous exercise unless Socrates thinks that virtue really *is*, or *ought to be,* a *techne*.[^40]
+[GREEK]
 
-And perhaps attention to the distinctive features of Socratic *techne* could also show us how to get out of the difficulty about unappealing features of *technai*. Here is an illustration of how that might go. One worry is that if virtue is a *techne*, then virtue will be of only instrumental value, and Socrates surely does not think *that.*[^41] Now I don’t think it’s clear that Socrates thinks *technai* are of only instrumental value.[^42] But even if we suppose that he does, one aspect of *techne* suggests that an exception might be made for the case of virtue. What I have in mind is *techne*’s mastery of luck (§1.2). If a *techne* overcomes luck within a given domain, then one might aspire to a master-*techne* which overcomes luck altogether—the sort of thing Socrates describes as being or superseding luck in the *Euthydemus* (279d ff.). And once you have the notion of such a *techne*, it’s a short leap to the notion of a *techne* which is intrinsically rather than instrumentally good, since good luck (or fortune) may itself be thought of as a or indeed *the* intrinsic good: Socrates says everyone considers good fortune the greatest good (*Euthydemus* 279c), and Aristotle says that good fortune (*eutuche*) is or is near to well-being (*eudaimonia*—*Physics* 197b3–4).[^43]
+Other crafts are exercised on materials on which mistakes can easily be rectified, as is the case with those which employ wood or hidesbut the craft cannot be practised at all if one of the materials be missing.[^32]
 
-Socrates recognizes the difficulties his model of knowledge presents for an understanding of virtue. But that does not mean he rejects that model of knowledge—after all, he has no other. It’s interesting rather to see how that model can be adapted in different ways or how other aspects of Socrates’ thought are suited to fit with his conception of of knowledge. Another example can be drawn from another way that *technai* are problematically instrumental: they can be misused, put to work thwarting their natural ends as well as advancing them, as Socrates points out in the *Hippias Minor*. Aristotle gives this as a reason for saying that virtue is not a *techne*; some scholars think Socrates is trying to make that point too.[^44] But in fact, as I will explain in §2, the denial of *akrasia* ensures that virtue will not *actually* be abused, so Socrates already has a way out of this problem, without giving up the view that virtue is a *techne*. Plato later takes a different approach, since in the *Republic* he accepts the reality of *akrasia*. But the *Republic* emphasizes the role of practice and experience in *techne*; a substantial portion of the *Republic* discusses cultivation of the character that is a prerequisite for moral knowledge. And this means that even though Plato makes conceptual space for *akrasia*, his understanding of *techne*-possession allows him to hold that virtue is knowledge, and that knowledge is *techne*, but again without the implication that virtue might be abused. So in neither case does the *techne*-model itself need to be rejected or relegated to a lesser role.[^45]
+But *De Arte* still offers us an impressively demanding standard for τέχνη: James Allen observes that the author “seems to envisage… a physician who will at no point undertake cures with less than complete confidence of success,”[^33] and indeed that is explicitly the point: we are told that the aims of medicine, which it “does accomplish… and is ever capable of,” are
 
-## Techne and Propositional Knowledge
+[QUOTE]
 
-In the *Protagoras*, Socrates and Protagoras discuss the claim, attributed to the many, that one can know what one should do, and yet not do it. Socrates and Protagoras disagree with the many; they think that knowledge is “strong” and would not succumb to temptation that way. And this seems to be an explicit discussion of the nature of knowledge in the context of an example of *propositional knowledge*. So how does the existence of such discussions fit with my claim that, for Socrates, knowledge just is *techne*? To begin answering that question, it’s best to begin with this very treatment of *akrasia* in the *Protagoras*.
+the complete removal of the distress of the sick, the alleviation of the more violent diseases and the refusal to undertake to cure cases in which the disease has already won the mastery, knowing that everything is not possible to medicine.[^34]
 
-Socrates argues that *akrasia* is impossible. The argument is framed as a refutation of the many, who *do* believe in *akrasia*: they believe that, thinking you should do one thing, you can be “overwhelmed” by fear or the prospect of some pleasure, and act contrary to your better judgement.[^46] Socrates first foists hedonism on his opponents—the best action, they would agree, is the most pleasant action, or the action most productive of pleasure over time. But then, given hedonism, for some pleasure to overwhelm you is for some *good* to overwhelm you. And this good which “overwhelms” you must not be the greater good, or you would not be doing anything wrong by pursuing it. So being overwhelmed must entail choosing lesser goods over greater. But Socrates finds this unintelligible, since there is no longer a question of being deceived by pleasures and pains distinct from the goods and evils in question (255d–e).[^47] Or again, by hedonism, being overwhelmed would have to mean choosing lesser pleasures over greater. But, says Socrates, there is nothing more to comparing the values of two sets of pleasures and pains than weighing them up against each other, and weighing is treated as a purely quantitative matter (256a). So now again, Socrates thinks, there is nothing here to be overwhelmed by: it is not intelligible that a person would choose a set of pleasures which they see to be the smaller. *Akrasia,* then, is impossible. Whatever you believe it best to do you will in fact do.[^48]
+acknowledges that doctors do sometimes make incorrect diagnoses and prescribe ineffective therapies, but these failures are due to patient error of one kind or another.[^35] The doctor can then claim, not absolute power over disease, but still perfect precision and reliability—which is all any τέχνη could claim.
 
-But in Socrates’ view, to believe that some course of action is best is largely worthless from the perspective of producing that action. The “power of appearances,” we are told, causes us “to wander and to change back and forth, to accept and reject the same things in actions and in choices of large and small” (i.e. large and small pleasures; *Protagoras* 356d). So we do what we believe best—but we are easily misled, and we easily change our minds. (You have resolved to avoid unhealthy foods, but the offer of a tempting dessert prompts you to make an exception, since after all it would be rude to refuse—but immediately the thing is consumed, you know that your host would have been perfectly understanding.)[^49]
+The author of again has company. Thus Glaucon in the :
 
-But beliefs are not strictly *always* unstable or untrustworthy. In the *Crito* Socrates tells the eponymous character that we should be attentive to the beliefs of wise people rather than to those of foolish people (46d–47b). It is to the knowledgeable that things will appear as they are—a point also of the *Gorgias.* Now the wise are not wise merely on account of having the right views; rather they may be expected to have the right views—i.e. the right beliefs—because they are wise. And it thus matters a great deal whether we ourselves have the wisdom that ensures we see things the right way, especially given the denial of *akrasia*.
+A first-rate captain or doctor… knows the difference between what his craft can and can’t do. He attempts the first but lets the second go by, and if he happens to slip, he can put things right.[^36]
 
-This is just the point Socrates goes on to make in the *Protagoras.* Here the issue is knowledge of the good in general, and after describing the instability of mere belief, Socrates says that our “salvation” will be a “craft of measurement,” which would
+And such a view has again been a recurring one in the history of ideas. For example, Albert Schweitzer reported in the 1920s that
 
-> render the appearance ineffective: by making clear the truth, it would > cause the soul to be at peace by abiding in the truth, and so save our > life. (356d–e)
+in the opinion of the Black Africans the efficacy of medicine is demonstrated primarily in that the physician knows whether the patient will die or not, and in that the physician does not apply his art to someone who is really already dead.[^37]
 
-Socrates says that this moral master-*techne* is a mathematical one (since it involves measurement), and indeed he identifies it with arithmetic (357a).[^50] But the general point of importance for us is the role of knowledge—and specifically *techne*—in ensuring correct beliefs in particular cases.
+It appears to remain influential in modern societies: according to a 1977 discussion of the attitudes and expectations of doctors, “patients who defy diagnosis, or who obstinately refuse to get better tend to be regarded as ‘awkward’, ‘attention-seeking’, or ‘neurotic’.”[^38]
 
-Beliefs have many sources besides one’s own expertise: wishful thinking, sadness or anger, nearby pleasures or faraway pains, optical illusions, the advice of experts or of charlatans. These forces sometimes compete, and some are stronger than others. So, in the speeches of Phaedrus and Agathon in the *Symposium,* love dominates other emotions: fear would not drive you from battle while you fight beside your beloved. Likewise, in the *Gorgias*, Socrates concedes that the testimony of the orator, who knows how to play on the emotions, will, among the ignorant, be more compelling than the testimony of a genuine expert. But, according to Socrates, knowledge (if you possess it yourself) dominates all other sources of belief. That is what he means by saying that knowledge is *strong,* as he puts it in the *Protagoras* (352b): without a *techne*, your beliefs are at the mercy of other forces; if you possess a *techne*, you will think the right way about the appropriate cases.[^51]
+A third approach is suggested by the author of a third Hippocratic text, *On Ancient Medicine*. He is seemingly willing to countenance principled limits on the precision available to doctors:
 
-Now the original dispute between Socrates and the many was actually about whether it is possible to *know* what to do *in a particular case* and yet not to do it. Can you know, say, that you ought to get out of bed right now, but not do it because the blankets are so warm? As we have now seen, Socrates’ response is two-fold: first he argues against the possibility of *akrasia*, and then he explains how a hypothetical *techne* of measurement would ensure that the comfort of the warm blanket won’t fool you into thinking you should stay in bed. The result is that your craft knowledge delivers you (and allows you to maintain) the correct belief that you ought to get up, or—to fall in line with the way the many originally made their claim—the (propositional) knowledge that you ought to get up.[^52]
+δεῖ γὰρ μέτρου τινὸς στοχάσασθαι. μέτρον δὲ οὔτε ἀριθμὸν οὔτε σταθμὸν ἄλλον, πρὸς ὃ ἀναφέρων εἴσῃ τὸ ἀκριβές, οὐκ ἂν εὕροις ἀλλ᾽ ἢ τοῦ σώματος τὴν αἴσθησιν. διὸ ἔργον οὕτω καταμαθεῖν ἀκριβέως, ὥστε σμικρὰ ἁμαρτάνειν ἔνθα [20] ἢ ἔνθα. κἂν ἐγὼ τοῦτον τὸν ἰητρὸν ἰσχυρῶς ἐπαινέοιμι τὸν σμικρὰ ἁμαρτάνοντα. τὸ δὲ ἀτρεκὲς ὀλιγάκις ἔστι κατιδεῖν.
 
-In the *Crito* Socrates calls the views that stem from (craft) knowledge “good beliefs,” but sometimes he simply calls such views *knowledge*, just as the many talked of knowledge of particular facts in the *Protagoras.* Thus we see Socrates asking Ion whether each of them don’t know that Socrates has five fingers on his hand “by the same craft, that of arithmetic”? (537e). That is, because you know (the craft of) arithmetic, you can know (the fact that) there are five fingers on a hand.[^53] Likewise the charioteer will be the one to judge advice on racing, and so also the doctor and the pilot in their respective spheres (537). We therefore find that in different senses *techne* *is* knowledge and *is a source of* knowledge.[^54] But of course the fact that Socrates is often interested in knowledge which represents the exercise of a *techne* should not be permitted to obscure the centrality of *techne* in his epistemological thought.
+One must aim at a measure (μέτρον); but you will find no measure (μέτρον)—nor number (ἀριθμόσ) nor weight (σταθμόσ) besides—by referring to which you will know with precision (), except the feeling of the body. Hence it is difficult to acquire knowledge so precise (ἀκριβῶς) that one errs only slightly in one direction or the other. And I would strongly praise this doctor, the one who makes only small errors; perfect accuracy (τὸ ἀτρεκές) is rarely to be seen.[^39]
 
-### Other Varieties of Knowledge?
+The author of the here indicates that medicine, like any proper , is possessed of a μέτρον, while also observing that not every μέτρον allows for equally easy attainment of precision. In that case, a doctor could be wrong or off sometimes or to some degree and still be a genuinely good doctor.
 
-But it must be allowed that Socrates also talks about, or attributes, knowledge even where no (actually possessed) *techne* seems to be in question. For example, Charmides knows Greek (*Charmides* 159a); in the *Apology* Socrates says: “to do injustice and disobey my superior, this I know to be evil and base” (29b); in the *Gorgias* he says “I know well that if you will agree with me on those things which my soul believes, those things will be the very truth” (486e). So if knowedge is *techne*, what’s happening in passages such as these?
+It is Aristotle who first plainly states what I take to be the proper view. He points out early in the that “precision (τὸ ἀκριβές) is not to be sought for alike in all discussions, any more than in all the products of the crafts (ἐν τοῖς δημιουργουμένοις),” and says that “it is the mark of an educated man to look for precision (τὸ ἀκριβές) in each class of things just so far as the nature (φύσις) of the subject admits.”[^40] He elaborates on the thought later:
 
-Socrates’ claims to moral knowledge may be thought particularly problematic. Although Socrates occasionally claims moral knowledge, he also disavows moral knowledge in sweeping terms. After examining one politician, Socrates reflects as follows:
+[QUOTE]
 
-> I am indeed wiser than he. It is unlikely that either of us knows > anything noble or good, but he thinks that he knows something which he > does not know, whereas, as I don’t actually know, neither do I think I > do. (*Apology* 21d)
+But this must be agreed upon beforehand, that the whole account of matters of conduct must be given in outline and not precisely (), as we said at the very beginning that the accounts we demand must be in accordance with the subject-matter; matters concerned with conduct and questions of what is good for us have no fixity (οὐδὲν ἑστηκὸς ἔχει), any more than matters of health. The general account being of this nature, the account of particular cases is yet more lacking in exactness (ἀκριβής); for they do not fall under any art () or precept but the agents themselves must in each case consider what is appropriate to the occasion, as happens also in the art of medicine (ἡ ἰατρική []) or of navigation.[^41]
 
-In the *Meno* we find him saying flatly, “I confess to my shame that I have no knowledge at all about virtue” (71d). I read these statements as disavowals of a moral *techne*, as when Socrates denies having that *techne*, claimed by others, which would allow him to train children in goodness (e.g. at *Apology* 19e–20c, *Laches* 186a–c). So it would seem that Socrates’ confidence on specific moral questions *cannot* be founded on possession of a moral *techne*.
+Note that medicine is for Aristotle a genuine , despite its admitted lack of precision. The idea is that an expert works with materials not themselves provided by his knowledge, so knowledge alone cannot ensure success. We ought then to distinguish *competent application of methods* from *successful outcome*, or the *exercise* of an art from the thereof.[^42] Such distinctions may seem obvious, but centuries later we still find Alexander of Aphrodisias (2nd–3rd c. AD) urging these Aristotelian points against the the Stoics,[^43] and we’ve also seen that doctors needed reminding of them as recently as 1977.
 
-What’s more, Socrates apparently supposes that you cannot know anything about e.g. virtue without knowing what virtue is (which I take to mean that without possessing the virtue-*techne* you cannot know anything about virtue), and also that you cannot know whether something is e.g. admirable (*kalon*) without knowing what the admirable *is* (i.e. without having the *techne* which takes the admirable as its object).[^55] So not only does Socrates claim knowledge where there seems to be no *techne*, he claims knowledge where he *disavows* the appropriate *techne*, and even says that, lacking such expertise, he *can’t* have any knowledge.
+Another point of occasional disagreement concerned the proper or necessary theoretical basis of the requisite precision and reliability. For example, the author of *VM* observes that
 
-Some scholars have felt that there is a genuine *problem* here—a tension or contradiction between the avowals and the disavowals of knowledge. They suggest that different dialogues reveal diverging epistemological standards, or that some apparent knowledge claims can be treated as somehow anomalous.[^56] But such manuevers seem to me unnecessary.
+[GREEK]
 
-Suppose someone asked me what I knew about category theory, in such a way as to make me suspect he had an interest in learning about it. Probably I would say that I knew nothing about it; maybe that “I don’t know the first thing about it.” But if some nerdy party game required me to list the things I know about category theory, well, then: its name starts with a ‘C’; it’s a highly abstract logical-mathematical system; its connectives are very powerful. And it is perfectly ordinary and intelligible that I should in this way be able to say both that I know nothing about category theory and that I know lots of things about category theory. Philosophically speaking, there are different ways we might sort out my claims. We might invoke some form of contextualist semantics for knowledge attribution, whereby different standards are established by different conversational settings. Or we might distinguish different senses of ‘know,’ so that in one sense of ‘know’ I might know that P if I have it on good testimony; in another sense I might know that P only if I can explain why it is that P. Again, we might say that there is a difference in the kinds of things I am claiming to know: in the first case I am claiming to know a particular fact, and in the second case denying that I’m familiar with a subject matter.
+some doctors and sophists say that it is impossible for anyone to know medicine who does not know what the human being is; anyone who is going to treat patients correctly must, they say, learn this. Their account tends towards philosophy, just like Empedocles or others who have written about nature from the beginning, what the human being is and how it originally came to be and from what things it was compounded.[^44]
 
-Bearing in mind plausible strategies of these sorts, I do not see any need to be very concerned about inconsistencies between Socrates’ various attributions of knowledge. And indeed the issue for most scholars has been not so much to worry that Socrates’ various knowledge claims and ascriptions are contradictory, but to determine *what sort of knowledge* Socrates is avowing when he avows knowledge, and *what sort of knowledge* he is disavowing when he disavows knowledge.[^57]
+He replies that medicine is in its own right a source of knowledge about nature, and indeed prior to the kind of knowledge envisioned by these other thinkers.[^45] The author’s own view is that
 
-But it would be a mistake to attribute *to Socrates himself* a *reflective conception* of any form of knowledge besides *techne*. What there are in the early dialogues are attributions of knowledge which do not fit the *techne*-conception. But to find in such knowledge-attributions a *conception of a form of knowledge* would be to find a Socratic form of knowledge which would have to be “characterized almost entirely in negative terms.”[^58] And contrast with the fairly clear and demanding standards for craft knowledge, Socrates would apparently have *no* particular criteria for any sort of non-expert knowledge.[^59] At best we might hope to identify some ways Socrates thinks you could come by such knowledge—by divine revelation, perhaps, or as derived from a life’s experience interrogating others.[^60]
+[GREEK]
 
-To say “I know X,” and thereby to claim knowledge of some form—with however much confidence or care or sincerity—is not thereby to deploy a conception of that form of knowledge. It does not amount to having a view about that form of knowledge or even to distinguishing it from others. Socrates talks about knowing *technai*, people, inanimate objects, qualities, and languages, but that is not cause for supposing either that he thinks these all involve the same sort of knowledge or that he has conceptions of five different types of knowledge. Perhaps Socrates *could* have distinguished, say, the kind of knowledge a craftsman has from the (propositional, factual) knowledge which the (merely) experienced person has. Later Aristotle did just that (e.g. *Metaphysics* 981a28–30). But Socrates only spoke a language for which such distinctions *could* be drawn.[^61]
+This I think is what it is necessary for a doctor to know about nature () and to make every effort to know, if he is going to do any of the things that he must: what the human being is in relation to foods and drinks, and what it is in relation to other practices, and what will be the effect of each thing on each individual—not simply that ‘cheese is harmful food, for it causes trouble to one who has eaten too much of it’, but rather what trouble, and why, and which of the things in the human being it is inimical to.[^46]
 
-We may decide that the Socratic conception of knowledge is defective in some way, or that it covers only a limited range of the epistemological phenomena, and we may even think that some of his own claims to knowledge show this. We could say that his attributions of knowledge are actually incoherent, or we could defend the coherence of his attributions by invoking a contextualist semantics. But my topic is Socrates’ *own* conception or conceptions of knowledge. And as far as I can see, the only variety of knowledge of which he has any conception is *techne*.
+Mark Schiefsky sums up the view thus:
 
-## Knowledge as Techne
+The author’s position is clearly quite different from that of the [later] Empiricists. Like them, he rejects certain kinds of theorizing as speculative and irrelevant to medicine. But unlike them he insists that medicine must be based on an explanatory theory of human  that makes reference to factors that cannot be observed directly.[^47]
 
-We’ve seen thus far that Socrates has a distinctive and reflective conception of at least one form of knowledge, namely *techne*. We’ve also seen that a lot of Socrates’ epistemological reflections should be understood within the *techne*-framework. Thus the interest in knowing “what things are” reflects one of Socrates criteria for *techne*-possession; propositional knowledge is often the manifestation of expertise. And while many references to knowledge in the early dialogues cannot be understood in terms of *techne*, they do not go so far as to indicate that Socrates recognizes different varieties of knowledge. But to establish my claim that, in Socrates mind, knowledge is *techne*, I ought to show some *positive tendency* on his part to interpret knowledge as *techne*. I give some illustrations of just such a tendency here.
+There is another example of a dispute on this point in , where Socrates is unsatisfied with Polus’ statement that “it is experience that causes our times to march along the way of craft (), whereas inexperience causes them to march along the way of chance ().”[^48] He says that when some practice “has no rational account by which it applies the things it applies, to say what they are by nature, so that it cannot say what is the explanation of each thing,” then that practice is merely a product of experience (), and not a τέχνη. Socrates goes on: “I don’t call anything a craft which is unreasoning ()” (465a). He derides Polus’ own ‘τέχνη’ of rhetoric, comparing it to “cookery,” which “by habit and experience…keeps only memory of what usually happens.”[^49]
 
-One example we have already touched on is from the *Protagoras.* There Socrates sets out to show that knowledge (*episteme*) is strong, rather than weak, as the many suppose (352b). This is proved precisely by showing that a *techne* (specifically a craft of measurement) will ensure that you get things right (at 356a–357e). So Socrates proves his point with the assumption that ‘*episteme*’ may be replaced by ‘*techne*.’[^62] Now ‘*episteme*’ is indeed frequently synonymous with ‘*techne*’ in the Socratic dialogues, but if Socrates is thinking of *episteme* in terms of *techne* right from the start at 352b, that would itself be surprising.[^63] The issue between Socrates and the many at that point is not the value of *techne* but the effect of knowing *what the right action in given circumstances* is (see esp. 352d). But Socrates *treats* the view of the many as a challenge to the value of knowledge *taken as* *techne*.
+Socrates: I was saying, wasn’t I, that I didn’t think that pastry baking is a craft (), but a knack (), whereas medicine is a craft (). I said that the one, medicine, has investigated both the nature () of the object it serves and the cause () of the things it does, and is able to give an account () of each of these. The other, the one concerned with pleasure, to which the whole of its service is entirely devoted, proceeds toward its object in a quite uncraftlike way (ἀτεχνῶς), without having at all considered either the nature of pleasure or its cause. It does so completely irrationally (ἀλόγως), with virtually no discrimination. Through routine and knack it merely preserves the memory of what customarily happens, and that’s how it also supplies its pleasures.[^50]
 
-Another example is at *Charmides* 165, where Critias proposes that temperance is knowing oneself. Socrates says that if temperance is knowing (*gignoskein*), then it must be some kind of *episteme*, and it must be *of something*; his examples are medicine and housebuilding, which are ‘of’ health and building houses respectively. Though he then grants (at 166a) that knowledge need not *always* have a product (as evidenced by mathematical knowledge), Socrates continues to assume that knowledge must be useful. So here again we have an immediate transition from knowledge to *techne* (‘*episteme*’ is here equivalent to ‘*techne*,’ which also appears several times in this passage). It is notable how peculiar this transition is: Socrates apparently supposes that self-knowledge could only be interpreted as some kind of *techne*, despite the fact that there is *obviously* no *techne* in the neighborhood—as the rest of the dialogue makes clear enough—nor any evident reason to suppose right at the start that there should be.
+We can distinguish in this passage three Socratic objections to the notion of a  based strictly on experience. The first is that mere experience is insufficient for attaining the reliability characteristic of the expert: hence Socrates’ claim that pastry making “merely preserves the memory of what customarily happens,” and proceeds “with virtually no discrimination,” whereas the doctor knows why he does the things he does—which I take to mean that the doctor does of the things he does with attention to any relevant peculiarities of given circumstances.[^51]
 
-The *Charmides* example is also interesting on account of the vocabulary employed. According to John Lyon’s analysis of Plato’s epistemological vocabulary, the verbs ‘*eidenai*,’ ‘*epistasthai*,’ and ‘*gignoskein*’ are grouped in the following way: ‘*eidenai*’ is largely interchangeably with either ‘*epistasthai*’ or ‘*gignoskein*,’ but ‘*epistasthai*’ and ‘*gignoskein*’ are not themselves interchangeable.[^64] And ‘*epistasthai*’ and ‘*gignoskein*’ play somewhat different roles. For example, ‘*gignoskein*,’ unlike ‘*epistasthai*,’ is particularly associated with personal nouns,[^65] while ‘*epistasthai*’ is in general a “generator” for ‘*techne*,’ in the sense that if someone knows in the sense of *epistasthai*, then you can invoke a corresponding *techne*.[^66] Now in the *Charmides* passage, we move from ‘*gignoskein*’ to ‘*techne*.’ But the example is not at odds with Lyons’ analysis. Socrates only speaks of *techne* after eliciting from Critias some examples of what are in fact conventional *technai*, but under the heading of ‘*episteme*,’ and this may very well reflect the fact that ‘*gignoskein*’ is not so naturally associated with ‘*techne*.’ What we see here is an *inference* on Socrates’ part: we have a case of knowing something (*gignoskein ti*) and *therefore* also of *episteme* and then *techne*. And this shows that Socrates is prepared to infer a *techne* not only where the sort of knowledge in question (knowing oneself) seems to have no evident connection with *techne*, but also where the specific epistemic vocabulary has no particular connection with *techne* in general Platonic usage.[^67]
+The second objection is that even insofar as the merely experienced practitioner may be reliable, his efforts will be misdirected. The contrast between  and  is treated in this passage as a contrast not only between understanding and guess-work, but as a contrast between aiming at the good and aiming at pleasure. The pastry chef is a doctor without real understanding: like the doctor, he is concerned with the body, but his guide is not what is good for the body but only what feels good for it. That is all he can aim at, because he doesn’t really know what health is; medicine, by contrast, “has investigated both the nature of the object it serves and the cause of the things it does.” For this point it is not necessary to suppose that the pastry chef is no good at what he does—indeed we are well-advised to be wary of just how convincing he can be. Earlier on, Socrates had acknowledged that the orator may be more persuasive concerning medicine even than a doctor, at least among the ignorant, though of course he “isn’t knowledgeable in the thing in which a doctor is knowledgeable” (459b). That the orator may achieve that kind of success does not count in favour of his claim to possession of a : Socrates asks whether
 
-The *Ion* furnishes another example we’ve touched on. At 537c–e Socrates is discussing the way different *technai* have different subject matters.
+the orator is in the same position with respect to what’s just and unjust, what’s shameful and admirable, what’s good and bad, as he is about what’s healthy and about the subjects of the other crafts? (459d)
 
-> Take these fingers: I know there are five of them, and you know the > same thing about them that I do. Now suppose I ask you whether it’s > the same craft—that of arithmetic—that teaches you and me the same > things, or whether it’s two different ones. Of course you’d say it’s > the same one.[^68]
+The doctor, by distinction, know know health and whatever else his τέχνη concerns, and a rhetorical τέχνη ought to be similar.[^52]
 
-It’s not surprising that *techne* comes up here, because that’s the topic, but the suggestion that it’s in virtue of a *techne* that we know something so simple as that we have five fingers is interesting—it certainly isn’t the case that anyone who can count to five is a mathematician. So Socrates seems quite prepared to subsume very mundane sorts of knowledge under *techne*.
+The third objection we can distinguish here is that a practice founded only on experience is undeserving of the title of ‘.’ We can see that this would be an objection even granting that the object of the practice were legitimate and that it reliably achieved success from the fact that pastry baking “proceeds toward its object in a quite uncraftlike way, without having at all considered either the nature of pleasure or its cause”—in other words, pastry baking doesn’t investigate even its own already degenerate object in the manner proper to . To sum things up, I take Socrates’ point to be that if you don’t understand the nature of your aims and of your subject matter, then you’re in no position to know what would be the “good condition” of the things you treat.[^53] Thus you cannot aim at that good condition but only, and only by guesswork, at what will please some person at some time. We might contrast an idealized cobbler, who knows the support a foot needs and how to provide it, with a shoe designer, who is concerned with aesthetic pleasure rather than comfort or health. The cobbler’s principles are always the same; the trends are changing and unpredictable.[^54]
 
-That suggests another general point: Socrates doesn’t concern himself with knowledge that can come *only* in bits and pieces, such as historical knowledge.[^69] Now the lack of discussion of such knowledge doesn’t prove much on its own, since Socrates’ emphasis on moral knowledge will naturally make practical varieties of knowledge more prominent.[^70] But we can sharpen the point by considering the treatment of poetry and oratory. Not only does Socrates not consider these *technai*, he never considers the possibility that they might still involve impressive bodies of psychological or dramatic knowledge—though there were, after all, rhetorical *manuals.* The choices seem to be: *techne* or nothing. We can see this at *Gorgias* 464c-465a, where it’s clear that to say that rhetoric (or here “flattery,” of which rhetoric is a sub-type) is not a *techne* is *thereby* to say that it *just guesses.* This is typical for Socrates: if you’re having success, then it’s because of *techne*, or else merely a result of guessing or divine inspiration or madness.[^71]
+It is doubtful whether we ought to attribute a peculiar and disputable view of  to the ’ Polus;[^55] Aristotle mentions his statement as if it were a truism.[^56] But something like the disagreement between Polus and Socrates created, in later centuries, a schism between medical empiricists and medical rationalists; Galen says that “medicine is the science () of what is healthy and what is unhealthy,” but that
 
-I don’t know that such examples could be considered decisive. If poets and orators were claiming a special ability as educators, then perhaps it was appropriate to hold them to high standards. And perhaps the *Protagoras* and *Charmides* examples could be put down to Socrates’ penchant for appealing to *technai* whenever virtue is in question. But on the whole I think that there is a good case here for saying that, for Socrates, knowledge *is* *techne*. To be sure, Socrates does claim knowledge, or attribute it to others, in other contexts. And Socrates cannot be said to have distinguished craft knowledge from any other sort of knowledge. *Euthyphro* 6e, for example, seems to have propositional knowledge, acquaintance, and *techne* all jumbled together. But Socrates’ thought tends strongly in the direction of craft knowledge, and this is really no surprise, since it’s the only sort of knowledge of which he has any definite and developed conception.
+whence one may come by the knowledge of these is no longer universally agreed upon. Some say that experience () alone suffice for the art ([ἡ ἰατρικὴ] ), whereas others think that reason (), too, has an important contribution to make.[^57]
 
-## Conclusion: Looking Forward
+For our purposes we may forgo the details of this disagreement, noting only that the empiricists claimed that the kind of theoretical understanding insisted upon by the rationalists was, if not impossible, then useless, or at any rate superfluous to the practice of medicine; the possibility or possession of such understanding was irrelevant to the possibility of successful medical practice.[^58] And the rationalists for their part developed Socratic objections:
 
-The conception of knowledge I have described is easy enough to overlook. For us it’s an unfamiliar conception, developed in the context of unfamiliar debates. It’s a problematic conception of knowledge as well, since the treatment of virtue as *techne* creates difficulties made plain even in the dialogues themselves. The role of *techne* is further obscured by the room it makes for propositional knowledge, by the fact that Socrates’ conception of knowledge doesn’t entirely constrain his epistemological language, and by the fact that Socratic method is more prominent than Socratic theory.
+Some have said that this kind of experience is unrealizable (ἀσύστατος), and others, that it is incomplete (ἀτελής), while a third group has claimed that it is not technical (ἄτεχνος).[^59]
 
-It may also be thought that the identification of knowledge and *techne* is at any rate peculiar to Plato’s earlier dialogues. The *Meno* in particular is (rightly) seen as a “transitional” dialogue, in which more distinctively Platonic, as opposed to Socratic, epistemological themes are emerging. But in fact the *techne*-model is no less important in the *Republic* (for example) than in earlier dialogues. Socrates and Plato do grapple with difficulties presented by the model, or by the uses they put it to. New epistemological themes do emerge. But this is only to say that Plato eventually saw the need for a *modified* understanding of *techne*.
+A related Socratic point that emerges in several dialogues is the idea that that every genuine τέχνη must have a domain or subject matter (or ) with a certain natural integrity.[^60] In the *Laches* the proposal that courage might be knowledge of future goods and evils is rejected on the grounds that there is no such thing as knowledge concerned with farming *in the future* in particular, or with health or strategy *in the future.* The topic will just be health *period*, or strategy, or farming, or goods and evils generally (198d–199d). Similarly Ion is taken to task for the suggestion that he knows and can interpret only the works of Homer, but that as far as other poets go he “has no power to contribute anything worthwhile” (*Ion* 532b–c). One learns, or should learn, “a subject as a whole” (532e); i.e. poetry, or sculpture, not specific poets or sculptors. Moreover, knowing a subject entails being able to explain the principles of the τέχνη, to teach the τέχνη, and to act as an arbiter on questions about the domain governed by the τέχνη (eg. *Gorgias* 450). And these capacities come as a package, it seems: even to claim be able to “speak well” on a given topic is *thereby,* in Socrates’ view, to claim craft knowledge in that domain. Thus Ion fails not only on generality but also, like Homer, gets his fingers into too many pies. He claims to speak authoritatively on sailing and racing and military affairs and so on (all the subjects Homer addresses), but of course nobody could really be expert in all of these things at once. So here we find that Socrates has a rather more demanding understanding of  than Ion would have (not that Ion will have considered the matter carefully before), and hence disagrees about whether certain facilities ought to be considered τέχναι. Instead, Socrates says that Ion is possessed by a sort of divine madness.
 
-To vindicate that claim I would need to defend a detailed interpretation of the epistemology of the *Republic* and other dialogues. Here I will settle for illustrating one way in which Plato seems to have been motivated to rework the Socratic conception of *techne*.[^72]
+### The distinctiveness of Socratic 
 
-We can start with the observation of Paul Woodruff (whose view of Socratic epistemology is in many ways similar to my own) that whereas learning is in the *Meno* said to be a matter of recollection, and thus involves no teaching, teachability was a mark of *techne*.[^73] He thinks that the *techne*-model for knowledge has therefore been abandoned by the time of the *Meno*.
+In the course of the forgoing discussion we have seen that Socrates articulates and defends a number of criteria for . [BRIEF RECAP?] As such it is clear that Socrates has a considered (though not systematically articulated) conception of , and one which is, moreover, clearly at odds with various other conceptions of . So, for example, Socrates himself expressly contrasts his own conception of  with Polus’ supposedly deficient conception; likewise he would have had no truck with medical empiricism. Again, Socrates’ conception of  leads him to various specific judgements about which practices are and are not —he views medicine as a genuine τέχνη, but raises doubts about the status of poetry, ‘cookery,’ and rhetoric—sometimes putting him at odds with his interlocutors.
 
-Now that seems hasty. Is geometry no longer a *techne*? Does Socrates imagine a future for geometry without teachers? Or if teachers must now be known as ‘people who inspire recollection,’ have we abandoned the teachability criterion or only come to a new understanding of ‘teaching’?[^74] Or couldn’t Plato be toying with new ideas about how *technai* are acquired?[^75]
+I will conclude this section by demonstrating briefly that, in particular, Socrates’ conception of  differs Aristotle’s and from what we find in Plato’s other, later dialogues.
 
-But there is a more substantial point. The proposal that learning is actually recollection is a response to the paradox of inquiry, posed by Meno in two parts at 80d: how will you search for something if you don’t know what it is? And how will you recognize it even if you find it? This paradox is a sophistical trick, as Socrates points out. And yet Plato makes use of the paradox to introduce recollection. And one reason for this is that the paradox is a genuine problem given the Socratic conception of knowledge.
+In their different expectations for the precision and reliability of , we have a clear contrast between Socrates and Aristotle. Aristotle’s insistence that a high degree of precision and hence of reliability could not be demanded of every legitimate   was (more or less) original to him. Where Aristotle is at pains to argue that moral inquiry is legitimate although imprecise, Socrates is happy to invoke the marks of mathematical precision in his investigation of the virtues, for example at 356d–e, where he invokes a hypothetical “craft of measurement” as our “salvation” (see further §[propositional] below). Socrates’ expectations for the reliability of  are comparable to those in , or even to the view in .[^61] Socrates allows, of course, that any given person might fail in the employment of their —for example at *Euthydemus* 279e–280a, where he contrasts wise and foolish doctors or generals. It is not clear that Socrates regognizes any further limitations on . In *Republic* I, Thrasymachus says that experts, insofar as they are experts, never make mistakes (340e), and Socrates accepts this assumption (342b). The context is the question whether a ruler will ever mistakenly issue laws which in fact turn out to be detrimental to himself, so the point in saying that experts never make mistakes seems to be that, if that the expert properly employs his , he will never fail to attain his intended goal (within the domain of that ; 340e). Here, as in and as with Glaucon’s view in II, the possibility of sheer misfortune is rejected.[^62] In the *Euthydemus*, Socrates, adducing a variety of τέχναι, deploys the notion that τέχνη is a guard against bad τύχη (279d ff.), finally going so far as to say that  (here synonymous with τέχνη) *is* (good) τύχη (279d), or at any rate provides it (282a). Here, then, Socrates himself deliberately pushes luck out of the picture.[^63] At *Euthydemus* 280a, ‘being lucky’ is glossed as ‘never making mistakes,’[^64] and this latter characterization of τέχνη is also found at *Protagoras* 357d–e, and the notion that τέχνη is infallible at least within the realm of τύχη certainly accords with the salvific conception of a τέχνη for living found in that passage (356d–e).[^65]
 
-Varieties of the paradox of inquiry already manifest themselves in earlier dialogues. At the start of the *Protagoras,* we find Socrates cautioning Hippocrates, who wishes to learn wisdom from Protagoras. As it happens, Hippocrates can’t say just what it is that Protagoras teaches—he suggests lamely that Protagoras will teach him “about what [Protagoras] knows” (312e). Socrates warns Hippocrates that a sophist is “a sort of merchant or pedlar of goods for the nourishment of the soul,” but that sophists don’t know whether their merchandise is of any value—and this is a danger because you can’t even take the sophist’s goods to an expert for inspection before you consume them. Hippocrates is in a predicament: he has a vague notion that wisdom is desirable thing, but no way to pursue it. He can’t safely go to a teacher unless he already possess the expertise he would learn.[^76]
+There is little or no space between Socrates and Plato on the question of precision and reliability, except that Plato at least more expressly acknowledges the kind of principled limits on -success identified by the author of . There are other significant differences, though. Chief among these is the fact that Plato has a more developed view of the structure of -possesion. We can see this especially in the evolving relationship between ‘’ and ‘.’
 
-The *Charmides* generalizes the point: only a craftsman will be able to tell whether another claimant to the same *techne* is or is not an impostor (170d–c). This is perhaps not a very serious problem, if a problem at all, when it comes to, say, weaving, but it might be a problem with something like medicine (to which Socrates appeals in the *Charmides*), at least in the ancient world, with its rival schools of medicine. If we add the point from the *Gorgias* that only a doctor can reliably distinguish genuine health from merely apparent health (464a), then we could again pose Meno’s question: supposing you think that health is a good thing, but don’t *know* health after the fashion of a doctor, how will you learn what it is?[^77]
+In later dialogues, as in the earlier, ‘’ and ‘’ are often interchangeable. So, for example, early in the , Socrates says that the  of cobbling just is the  of making shoes (146c–d). In other cases, though,  begins to take on a life of its own—not necessarily as something altogether independent of , but as something with a distinct role. In the *Phaedrus*, for example, ‘’ occurs nine times but is never equivalent to ‘,’ though the two are related. When Phaedrus asks Socrates how someone might acquire the  of the true and persuasive rhetorician, Socrates answers thus:
 
-But the really pressing case is *virtue*. Besides the general problem about inquiry, there is here the problem that there seem to be no authentic teachers at all—a point emphasized in the *Meno*.[^78] Socrates was perhaps prepared to accept that no moral *techne* was attainable, and to satisfy himself with going about on his divine mission, showing that anyone who claimed such a *techne* was a fraud (*Apology* 23b). But Plato, as the *Republic* shows, evidently had higher hopes. The difficulties gave him a reason to figure out a new view, and *not* a reason to stop being interested in expertise. This meant, among other things, an emphasis on the *a priori*, a corresponding shift in how the objects of *technai* are understood metaphysically (i.e. as Forms), and thus also a greater emphasis on *technai* like geometry which are more readily interpretable in those terms. But that’s the start of another story.
+> Well, Phaedrus, becoming good enough to be an accomplished competitor > is probably—perhaps necessarily—like everything else. If you have a > natural ability for rhetoric ( ῥητορική), you will become a famous > rhetorician, provided you supplement your ability with knowledge () > and practice (μελέτη). To the extent that you lack any one of them, to > that extent you will be less than perfect.[^66]
 
-## Appendix: Two Examples in the *Meno*
+The following pages make it clear that the  in question is an understanding of the soul, its varieties, and the effects different sorts of speeches have on different souls (which the orator will need to augment with experience so as to discern reliably how to apply this knowledge; 271–272). Here, then,  is an aspect of , or the intellectual aspect of -possession.
 
-Again the *Meno* will make it clear that stability is a mark of knowledge in general, as opposed to just moral knowledge (98a).
+In the *Republic*, too, \` and  are sometimes equivalent[^67], but, as in the , ‘’ may also have the more restricted sense of the knowledge which is one component of the complete or ideal possession of a craft. So at 374d Socrates observes that “no … tool makes anyone who picks it up a craftsman (δημιουργός) or champion unless he had acquired the requisite knowledge () and has had sufficient experience (μελέτη).” Indeed this passage (374b–e) draws attention to the three aspects of expertise identified in the *Phaedrus*—a suitable nature (), knowledge (), and practice (μελέτη)—though not so sharply or emphatically as in the other work.
 
-The earlier dialogues generally have the moral life particularly in view, but the *Meno* makes it clear that belief in general is changeable, by contrast with knowledge: on its own, whether true or false, belief is unstable and flighty, and Socrates likens beliefs to runaway slaves, or the unsecured statues of Daedelus (97c–98b).[^79]
+Elsewhere in the *Republic*,  also seems to have its own independent existence. Thus ‘’ is not always used just as a word for an aspect of  or as offering an alternative way of characterizing a  (i.e. as the “of …”), but as a name for more abstract forms of knowledge or expertise. Thus ‘’ is apt particularly for arithmetical, geometrical, and astronomical knowledge, the last being understood not primarily as dealing with the actual movements of heavenly bodies but with motion proper (529d–e). These are forms of knowledge which deal with what really is, and which lead the mind away from what is visible and tangible (524e ff.). And [dialectic], or the knowledge it provides, is even more properly called \`' (533d). We might then suppose that in one sense of ‘,’ ‘’ is a name for a type of body of knowledge distinct from the type of body of knowledge constituted by . On the other hand, if we can here draw a distinction between and , we could equally well call it a distinction between different sorts of : on the one hand more directly practical , and on the other hand more theoretical . For although arithmetic, geometry, astronomy, and dialectic are largely treated under the label of ‘,’ they can equally well be called  as well (532b, 533d). And it’s possible as well to see a connection between the role of as an aspect of and the fact that more cognitive  most properly receive the title of ‘.’  When Socrates is introducing “number and calculation” (ἀριθμός καὶ λογισμός; 522c) as subjects which will lead the soul “from the realm of becoming to the realm of what is” (521d), he introduces them also as subjects that are common to “every craft (), every type of thought (διάνοια), and every science ()” (522b–c). The general, for instance, needs to be able to count his troops and ships and to arrange them (522c–e). But of course arithmetic is also a type of study in its own right. Arithmetic could therefore be said to be  both in the sense that it forms (a part of) the theoretical aspect of various other , and also in the sense that it is itself , which is to say a relatively abstract . Geometry, astronomy, and dialectic, introduced in the following pages, are perhaps increasingly less implicated in other crafts, and increasingly constitute strictly abstract studies in their own right. At least in the case of arithmetic, it’s hardly necessary to distinguish the two respects in which it is . But in the other cases as well, it seems natural enough that where  has come to stand for the more cognitive aspects of , more cognitive  should also come to be called .
 
-Twice above I appealed to a passage in the *Meno* which I take to indicate that features of beliefs and [*technai*] which I identified as holding in at least some specific cases are indeed features of belief and knowledge generally. In that passage, at 98a, it is said that beliefs become knowledge when tied down with “an account of the reason why.”[^80] This statement will naturally seem to treat primarily of atomic knowledge, to suggest that it is analyzable partly in terms of belief, and to concern itself with what is added to belief to get knowledge. And it is not obvious that there is anything to do with [techne] lurking here. So one could fairly wonder whether knowledge here in this passage has anything to do with the form of knowledge I’ve been discussing, and whether this passage doesn’t offer (or at least suggest) a different account of atomic knowledge than the one I just proposed.
+In the earlier dialogues, Socrates occasionally acknowledged, in casual remarks, the importance of aptitude and experience, but there was little or no reflective attention to these aspects of . Plato winds up paying much more attention to them, and his views about  and knowledge evolve accordingly; eventually, even if Plato does not draw quite the sort of distinctions between form of knowledge that Aristotle does, he certainly winds up with some fairly sharp gradations—more theoretical varieties of knowledge, now especially called ‘,’ are up top, and more practical forms, still well described as ‘.’
 
-If at 98a Plato is primarily concerned with an analysis of knowledge in terms of beliefs, that would mark a departure from the earlier centrality of [techne]. The passage does certainly describe a process whereby beliefs become knowledge. However, this process is rather opaque, since the phrase “an account of the reason why” (or “the cause”), is not terribly perspicuous. But, like most scholars, I take it to imply that knowledge requires some kind of understanding, or a capacity to explain why things are as they are. That seems to be borne out by Socrates identification of account giving with recollection—which is to say that he identifies giving an account with the sort of thing Meno’s slave had embarked on earlier in the dialogue.[^81] In that earlier conversation, Socrates and the slave together go through a demonstration to the effect that, taking one square, a second square of twice the area can be constructed by taking the diagonal of the first as a side of the second. But Socrates does *not* say that the slave then knows that this can be done. Rather he says that “these opinions have now just been stirred up like a dream, but if he were repeatedly asked these same questions in various ways, you know that in the end his knowledge about these things would be as accurate as anyone’s” (85c-d). Now this hardly tells us *exactly* what or how much more the slave would have to understand before he could be said to know any geometry, but it certainly suggests that Socrates is not interested just in knowledge of particular, isolated facts, but in facility with a *bodies* of knowledge, as in the earlier dialogues. A continued interest in [techne] would account for that.
+## III. Texnh and Propositional Knowledge
 
-That very tentative conclusion may be supported by the observation that although “account of the reason why” ([*aitias logismos*]) is not very perspicuous on its own, it is suggestive of the discussions of [techne] in the *Gorgias.* At 465a we have Socrates saying that “cookery”
+###  as a source of knowledge
 
-> is not a craft, but a knack, because it has no rational account (*logos*) by which it applies the things it applies, to say what they are by nature, so that it cannot say what is the explanation (*aitia*) of each thing. (Irwin trans.)
+Οἱ πολλοί, according to Socrates, believe that one can know what one should do, and yet not do it: they believe that knowledge () is weak, and that we are often governed by other things instead—“sometimes anger, sometimes pleasure, sometimes pain, on occasion love, often fear.”[^68] Socrates and Protagoras disagree with the many; they think that knowledge is a “strong” (ἰσχυρός) and governing (ἡγεμονικός, ἀρχικός) thing. The explicit and important discussion of knowledge which follows is therefore prompted by a worry which seems to be, at least in the first place, about the significance of knowing what one ought to do on a given occasion—i.e. it seems to concern something like propositional knowledge rather than . But, on examination, the discussion reflects the idea that what a person knows about some particular situation may reflect the employment of some relevant expertise—for example, I may not know whether the discolouration on my arm is melanoma, but the doctor will, because he is a doctor. The discussion will therefore be useful as an illustration of the often significant interest that Socrates takes in knowledge which does not constitute a , but nevertheless depends upon and manifests a .
 
-The point is reiterated at 501a with the example of medicine:
+Socrates begins by attributing to his opponents the view that the best action is the most pleasant action, or the action most productive of pleasure over time—i.e. hedonism. From this view it follows that for pleasure to overwhelm you is for some *good* to overwhelm you. And this good which “overwhelms” you must not be the greater good, or you would not be doing anything wrong by pursuing it. So being overwhelmed must entail choosing lesser goods over greater. But this is unintelligible, since there is no longer a question of being deceived by pleasures and pains distinct from the goods and evils in question (255d–e).[^69]
 
-> I said that medicine has considered the nature of what it cares for > and the explanation (*aitia*) of what it does, and can give a rational > account (*logos*) of each of these things.
+Looked at from the other direction, being overwhelmed would, again by hedonism, have to mean choosing lesser pleasures over greater. But, says Socrates, there is nothing more to comparing the values of two sets of pleasures and pains than weighing them up against each other, and weighing is treated as a purely quantitative matter (256a). So now again, Socrates thinks, there is nothing here to be overwhelmed by: it is not intelligible that a person would choose a set of pleasures which they see to be the smaller. The language of ‘outweighing’ is, Socrates thinks, quite apt:
 
-It could be that, in the *Meno*, Plato is not committed to the [techne] model in particular, but that he remains committed to the place of explanatory facility in knowledge generally. Still, this is at least a point of continuity, and at best it offers us (the readers, if not Meno) a way of interpreting an otherwise fairly opaque remark about knowledge. The kind of explanatory ability required here would then be the general capacity to explain the principles and applications of a body of knowledge defining a [techne], at least so far as relevant to the particular beliefs in question.
+Weighing is a good analogy; you put the pleasures together and the pains together, both the near and the remote, on the balance scale, and then say which of the two is more. For if you weigh pleasant things against pleasant, the greater and the more must always be taken; if painful things against painful, the fewer and the smaller. (356b)
 
-Having said that, we could certainly also say—and I do not believe Plato would be averse to saying—that once the slave becomes expert in geometry, he will know things which previously he only believed, by tying the old beliefs down with the explanations he now has at hand. So the beliefs at 98a might themselves become instances of atomic knowledge when their possessor can give the right sort of account. But if I am right, it would remain the case that, for beliefs to become knowledge, you would effectively have to add *knowledge* to them—that is, [techne] or some degree thereof.[^82] It would then remain the case that there is knowledge of the atomic sort only in the presence of [techne], in the way described above.
+For reasons discussed in §[distinct], this language also indicates to Socrates that our “salvation” will be a “craft of measurement,” which would
 
-It is certainly true that, between the idea of recollection and the idea of somehow developing knowledge by way of belief, there is something new in the *Meno* in terms epistemology. And that demands explanation. I do not believe that the correct explanation reveals the abandonment of the [techne] model. But I defer this and related issues for my conclusion.\
+render the appearance ineffective: by making clear the truth, it would cause the soul to be at peace by abiding in the truth, and so save our life. (356d–e)
 
-Two prominent epistemological examples in the *Meno* don’t fit easily with the *techne*-model, so I wish to address them briefly. The first occurs at 71b, where Socrates says that he couldn’t know what qualities Meno possesses (say looks or riches) if he didn’t know who Meno was. Socrates uses the example to illustrate the point that he can’t say whether virtue can be taught since he doesn’t know what virtue is. The other is the ‘road to Larissa’ example [CITE]. This example is mean to illustrate the equal practical efficacy of knowledge and true belief.
+And this completes the argument: to know what to do is, in fact, to possess a suitable which  will ensure a clear view of the situation.
 
-Evidently neither Meno nor the road to Larissa is suitable material for a *techne*, just as there is no *techne* dealing with the poems of Homer in particular. Moreover the latter example has been cited to show that knowledge is “a state improved with regard to the very same things that the unimproved state [i.e. belief] is concerned with.”[^83] Whereas I have resisted (except in relation to atomic knowledge) the sort of ‘analysis of knowledge in terms of belief’ interpretation which this might suggest.
+For our purposes, it is useful to think of the argument as having two stages (not actually distinct in the text). First, Socrates rejects the possibility of ‘akrasia’ on the typical contemporary understanding thereof, as acting otherwise than as you believe best; second, Socrates argues that  are decisive as regards belief formation.[^70] The first stage alone would not be of great interest to Socrates because, in his view, merely believing that some course of action is best is largely worthless from the perspective of producing that action. The “power of appearances,” we are told, causes us “to wander and to change back and forth, to accept and reject the same things in actions and in choices of large and small” (i.e. large and small pleasures).[^71] So we do what we believe best—but we are easily misled, and we easily change our minds.
 
-Now although neither example fits the *techne*-model, they don’t very well fit the epistemology of the *Meno* as a whole, either, as Dominic @scott2006psm points out regarding the road to Larissa case. This is because it’s not clear what knowing Meno or knowing the road to Larissa has to do with either recollection or explanation. And since it seems clear that the examples don’t really suit the epistemological outlook of *Meno*, it seems unnecessary to worry too much about them not suiting the *techne*-model.[^84] The fact that Plato is quite happy to use these particular examples speaks more to the fact that Plato does not distinguish forms of knowledge the way we might than to the direction of his epistemological thought.
+Beliefs are only of value insofar as they reflect wisdom or . In the *Crito* Socrates tells the eponymous character that we should be attentive to the beliefs of wise people rather than to those of foolish people (46d–47b); it is also a point of the that it is to the knowledgeable that things will appear as they are. The point is not that wisdom consists in having the right views but that some people may be expected to have the right views because they are wise. This is just the point Socrates goes on to make in the *Protagoras*. Beliefs have many sources besides one’s own expertise: wishful thinking, sadness or anger, nearby pleasures or faraway pains, optical illusions, the advice of experts or of charlatans. These forces sometimes compete, and some are stronger than others. So, in the speeches of Phaedrus and Agathon in the *Symposium,* love dominates other emotions: fear would not drive you from battle while you fight beside your beloved. Likewise, in the *Gorgias*, Socrates concedes that the testimony of the orator, who knows how to play on the emotions, will, among the ignorant, be more compelling than the testimony of a genuine expert.[^72] But, according to Socrates, knowledge (if you possess it yourself) dominates all other sources of belief. That is what he means by saying that knowledge is *strong,* as he puts it in the *Protagoras* (352b): without a τέχνη, your beliefs are at the mercy of other forces; if you possess a τέχνη, you will think the right way about the appropriate cases.[^73]
 
-One the other hand, even if knowledge of Meno or the road to Larissa is not systematic or explanatory in a way befitting a *techne*, there are affinities. Part of the point of the examples is presumably that knowing Meno or the road entails a degree of familiarity, and knowledge of the thing will entail, or be the source of, a great deal of *further* knowledge. As a doctor recognizes ailments by their symptoms, someone who knows Meno will be able to recognize him, too. Knowing medicine means knowing various specific techniques; knowing a road means knowing its twists and turns, and knowing Meno means knowing things *about* him. And we could expect knowledge of the road to Larissa to be reliable, in something like the way *techne* is. (If you’ve travelled the road to Larissa often, it’s unlikely someone could talk you into changing your view as to whether it goes through Chalcis.) So the examples share enough features (at least arguably) with the sort of systematic and explanatory knowledge Plato *is* primarily interested in that they can serve to make the points Plato wants to make.[^85]
+In the *Crito* Socrates calls the views that stem from expertise “good beliefs,” but sometimes he simply calls such views *knowledge*, just as the many talked of knowledge of particular facts in the *Protagoras.* Thus we have 537c–e, where Socrates is indeed explicit about this relationship between  and knowlede about particular facts:
 
-What about the point that the road to Larissa example shows that knowledge and belief have a common object. It is less tempting to say here again that the examples are only imperfect illustrations of the sort of knowledge Plato is really concerned with, because other examples could be adduced, such as the case where Socrates says (at 85c–d) that the slave could come to know what he now only believes.[^86] But experience with the earlier dialogues offers us a fine response.[^87] Plato just isn’t fastidious about, if cognizant at all of, the difference between knowledge of the *techne* as a whole and knowledge about aspects of the *techne* or about applications of the *techne*. In the latter cases, knowledge may very well be constituted by belief, and that’s enough to account for the fact that the same objects are sometimes spoken of as objects of both belief and knowledge.
+Take these fingers: I know () there are five of them, and you know () the same thing about them that I do. Now suppose I ask you whether it’s the same craft ()—that of arithmetic—that teaches you and me (by which we know: ) the same things, or whether it’s two different ones. Of course you’d say it’s the same one.[^74]
+
+And likewise the charioteer will be the one to judge advice on racing, and so also the doctor and the pilot in their respective spheres (537). We therefore find that in different senses τέχνη *is* knowledge and *is a source of* knowledge.[^75] This must not, of course, be allowed to obscure the priority of  over other forms of knowledge (a priority indicated in the case of the  by the very existence of the second stage of the argument).[^76]
+
+### Knowledge as a source of ?
+
+It is natural to suppose that while propositional knowledge will sometimes be an expression of expertise, propositional knowledge may also play a constitutive role—perhaps a foundational role—in expertise. For example, while the doctor’s knowledge that my skin discolouration is melanoma is not properly a part of his medical knowledge (if my case is routine he will not have learned anything new, medically speaking), presumably his knowledge that melanoma may often be distinguished from moles by coloration a constituent of his medical knowledge, and probably something he had to know long before he had actually earned the title of ‘doctor.’ On some views, expertise is to be understood (at least partly) in terms of the accumulation of such information. According to Alvin Goldman,
+
+an expert … is someone who possesses an extensive fund of knowledge (true belief) and a set of skills or methods for apt and successful deployment of this knowledge to new questions in the domain.[^77]
+
+On this view, expertise is something that can indeed be deployed to gain new (belief-constituted) knowledge, but is also itself to be understood in terms of knowledge constituted by true beliefs, coupled with “skills or techniques” or “know-how.”[^78] Should we attribute some such view to Socrates?
+
+A difficulty in trying to identify a determinate Socratic answer to the question whether or how propositional knowledge might play a constituent role within  is that (as is one of the theses of this paper) Socrates does not—at least not explicitly—draw any distinctions whatever between different forms of knowledge, let alone our distinctions.[^79] But here is what Angela Smith says:
+
+[Socrates] is investigating the conditions under which one can be said to know a subject, the conditions under which one can be said to be an expert in a field. Knowledge of this sort will turn out to involve a complex combination of knowledge of propositions, knowledge of skills, and knowledge of things, though the differences among these three kinds of knowledge are never emphasized.[^80]
+
+I would suppose that Smith has in mind such passage as this one from the , where ‘telling’ might suggest propositional knowledge to us, ‘looking’ acquaintance, and ‘using’ knowledge-how, and the three are all bundled together:
+
+Socrates: Tell me then what this form [of piety] itself is, so that I may look upon it, and using it as a model, say that any action of yours or another’s that is of that kind is pious, and if it is not that it is not.[^81]
+
+We should be careful to observe, though, that such passages don’t tell us anything interesting about Socrates’ own view of the philosophical terrain. (We would not attribute a to someone a three-way distinction between forms of knowledge simply on account of having heard them say something like: “You know this John fellow I’ve heard about? Tell me what he looks like so I’ll recognize him if I see him.”) They certainly don’t constitute explicit statements of epistemological doctrine. That Socratic  a involves “a complex combination of knowledge of propositions, knowledge of skills, and knowledge of things” must be our thought, and our analysis, not his.[^82]
+
+Nevertheless, there is some reason to say that, insofar as Socratic expertise might be, in some manner or to some degree, constituted by beliefs, those beliefs do not constitute instances of actual knowledge in their own right unless and until they are held by someone who possess the  properly speaking. To see this, let us first look forward to the , where something very near our present question is explicitly addressed. Socrates there indicates that belief on its own, whether true or false, is unstable and flighty (97c–98b). But he also says that beliefs become knowledge when tied down with “an account of the reason why” (αἰτίας λογισμός).[^83] I take it that the earlier conversation between Socrates and the slave is mean to illustrate some part of this ‘tying down’ process: there the two had gone through a demonstration to the effect that, taking one square, a second square of twice the area can be constructed by taking the diagonal of the first as a side of the second.[^84] Afterwards, Socrates had said, not that the slave now knows that this can be done, but rather that “these opinions have now just been stirred up like a dream, but if he were repeatedly asked these same questions in various ways, you know that in the end his knowledge about these things would be as accurate as anyone’s” (85c-d). All this suggests that transition from belief to knowledge essentially requires the kind of understanding or facility that attends an increasing mastery of some domain.
+
+I think that the earlier dialogues manifest the analogous view of the relationship between belief and . In the  passage considered just above, there was an explicit contrast between the security and stability of  and the instability of belief, and these are common themes in the earlier dialogues.[^85] And in the passage discussed in §[distinct] above, we say Socrates contrasted real  with the kind of facility that “merely preserves the memory of what customarily happens” (501a). Now we might suppose that memorizing a lot of information about how things tend to work is at least laying the groundwork for mastery of the field, but Socrates himself is quite dismissive. Thus while there is no explicit theory in the early dialogues about what, if any, constitutive role beliefs or propositional knowledge might play for , we do find a consistent and sometimes explicit contrast between, on the one hand, possessing beliefs, which we are liable to change because we don’t have any real understanding, and, on the other hand, possession of a . It would seem, then, that we can attribute propositional knowledge to experts, but only to experts.[^86]
+
+To make the proposed view a bit more intelligible, notice that we need not suppose that Socrates imagines some sharp and sudden transition from mere guessing to full-blown expertise—Socrates need only think that knowledge even of particular facts can be attributed only insofar as we can also attribute some more general understanding. In fact, although Socrates is dismissive of people to whom we would attribute a great deal of knowledge, something closely approximating this Socratic way of think about knowledge is perfectly familiar. When I first took a course in logic, there was a period during which myself and many of my fellow students could employ conditional and inductive proofs, but didn’t understand why they worked. We could often have claimed certainty about our results: often we could, in one sense, have claimed to know that our results were correct, and to a logical certainty. But at the same time the process was mysterious, and we were sometimes bewildered by the results. As such, one of us would sometimes say, even as we were rigorously establishing a conclusion, “I have no idea what I’m doing.” Or again one of us might say “so that’s the answer?” and receive the reply “I dunno, I guess so.” Our unwillingness to claim knowledge was, moreover, connected with the fact that our lack of understanding entailed a kind of insecurity and instability in our procedures. For example, some trivial novelty of formulation or notation would sometimes cause us uncertainty as to whether induction could still be employed. It is also easy to imagine even our deductive certainty about particular results withering at a frown from our professor. If we had really understood induction and conditional proof, such things could not easily have happened. Often, then, we thought about our relationship to logic in terms of rather Socratic contrast between mere guessing or rote application on the one hand, and genuine understanding and a broader facility on the other.
+
+### The case of ‘Socratic definition’
+
+Paul Woodruff, one of relatively few scholars to have emphasized and tried to explicate the role of  in the epistemology of the early dialogues, also gives the knowledge of ‘definitions’ a central role . For example:
+
+If you do not know what Virtue is, Socrates asks in the , in what way could you advise someone else as to how that is best acquired? His questions expects Laches’ answer: “none.” The ensuing inquiry presupposes the principle of the : knowing the definition of Courage is necessary to expert knowledge on that subject.[^87]
+
+If, as Woodruff says, these definitions “state the essence (οὐσία) of the definiendum,” then we would seem to have prominent Socratic candidates for propositional knowledge which is prior to and constituent of Socratic .[^88]
+
+Whatever kind of answer Socrates expects to his familiar “what is X” question, we mistake the purpose of the question if we suppose the desired answer to represent or reflect knowledge that might be prior to anything else. Rather Socrates’ question reflects his belief that the expert can articulate his understanding, and that, as such, he may be interrogated. Angela Smith has pointed out the crucial importance of attending to the context of Socrates’ questions:
+
+It is a striking fact that in every dialogue in which Socrates asks a \`\`What is X?" question, he asks for a definition only his interlocutor has (a) explicitly claimed to be an expert (b), explicitly offered or agreed to teach Socrates or someone else, or (c) accepted (or not denied) an explicit claim to expertise made by another on his behalf.
+
+It is worth noticing, too, that the claims to expertise, and the invocations of  in particular, are often less obvious to us than they would have the the Greek reader. In the , for example, it is clear enough to the modern reader that Euthyphro purports to possess of special insight into moral matters, but it is easy to overlook the symbolic importance of the invocation of precision (4e–5a) and of the measure-weight-number triad (7b–c); we are still less likely to pick up on the significance of the employment of ‘’ (see §[knowledge] below); in other words, it’s relatively easy not to see that, as far as Socrates is concerned, Euthyphro has claimed to possess a  concerned with piety. Socrates’ familiar question in fact functions first of all as a test of putative experts, or, alternatively, as an expression of his expectation that whatever knowledge is in question ought to constitute a genuine area of expertise.[^89]
+
+A definition is just a symbol, a particularly clear manifestation, of the kind of knowledge possessed by an expert.[^90]
+
+In that case, Socrates’ “what is X” question expresses his interest in specifically expert knowledge, and his expectation that experts be able to express their knowledge in a certain way. It isn’t evidence that he considers there to be some form of knowledge that might be prior to or constitutive of . The answer to his question wouldn’t even constitute the content of the expert’s knowledge—it would simple express it. And that is so whatever exactly a Socratic definition is (Smith, for example, is willing to accept [SANTAS; CITES]). As Smith says, “too much emphasis has been placed upon the formal features of the Socratic elenchus, and not enough on the purpose and spirit of it.”[^91]
+
+## IV. Other Varieties of Knowledge?
+
+In the previous section I argued that  is for Socrates a foundational form of knowledge, first in that it cannot be understood in terms of any other kind of knowledge, and second in that we can attribute further knowledge to a person in virtue of their possession of a , whether as a manifestation, exercise, or aspect of it. But that leaves open the possibility that Socrates acknowledges varieties of knowledge which are neither prior nor posterior to , but not equivalent to it either.
+
+This much is undeniable: Socrates avows knowledge, and attributes knowledge to others, in cases where there is no relevant , or where the knower is at any rate not possessed of any relevant . So, for example, Charmides knows Greek.[^92] 293b has Socrates knowing “many things but slight things.” “To do injustice and disobey my superior,” Socrates insists in the , “I know to be evil and base” (29b). In the *Gorgias* he tells Polus: “I know well that if you will agree with me on those things which my soul believes, those things will be the very truth” (486e). And many other such cases might be adduced.[^93]
+
+Socrates’ claims to moral knowledge are often and understandably considered particularly striking, since Socrates also disavows moral knowledge in sweeping terms. Vlastos, for example, was impressed by Socrates claim in the to have that “one who does what’s unjust is always more miserable than the one who suffers it, and the one who avoids paying what’s due always more miserable than the one who does pay it.”[^94] Socrates’ confidence cannot be based on any moral , since he is quite explicit that he possesses no such , much as he would like to: in the , for example, Socrates observes that training children is far more important than training horses, and laments the fact that neither he nor anybody else seems to know how to do the former. [A GUIDING ASSUMPTION] [^95]
+
+[IDEA THAT CAN’T KNOW WHERE YOU DON’T HAVE A TECHNE]
+
+On my view, Socrates remarks are properly construed as expressing the view that one possess no knowledge in or about a domain unless one possesses the appropriate . But in either case the result is that we have Socrates espousing knowledge in precisely that domain which he says most clearly that does not and cannot be based on assess any knowledge. [MUST WE THEN...?]
+
+—and many other[^96]—passages as expressing Hence even if other avowals or knowledge could somehow be subsumed under , that cannot be so for any moral claims Socrates makes.
+
+FOOTNOTE: The apparent tension is often understood in terms of the putative Socratic commtment to ‘the priority of definition,’ which is often construed as the view that one cannot know anything about e.g. virtue without knowing what virtue is, and again one cannot know whether something (i.e. some act or object) is e.g. admirable (*kalon*) without knowing what the admirable *is*.[^97]
+
+(Many of the purported Socratic avowals of moral knowledge look suspiciously like truisms or tautologies.[^98] For the sake of argument, I ignore this fact, but it is not an unimportant point, and it fits well with the general response I offer in this section.)
+
+The question, then, is whether we ought to say that there are for Socrates any further forms of knowledge—not more or less basic than , but independent of it? And if so, how can this be, given [FINISH].
+
+On some views, taking all of Socrates’ avowals and disavowals of knowledge at face value would quite simply require us to recognize inconsistencies in the early dialogues. Terence Irwin assumes this in suggesting that the positive knowledge claims are anomalous, and that what Socrates really avows (or means to avow) in these cases is not knowledge but merely warranted true belief.[^99] Richard Kraut assumes the same thing, but thinks the inconsistencies are real, and takes their existence to support a developmentalist reading of the early dialogues: so, for example, Kraut thinks that Socrates’ epistemological standards are lower in the and higher in the (later) .[^100]In principle, some such strategy, insofar as possessed of any merit, might also be invoked in order to handle putative examples of -independent knowledge. But they seem to me unmotivated.
+
+Socrates’ reflective epistemological outlook does not embrace all of the varieties of knowledge he invokes in speech, but it does not follow from this that there is some incoherence in his epistemological outlook. To see why this is, consider the various ways we use knowledge-talk ourselves. Take the following exercise from Jech’s :
+
+<span style="font-variant:small-caps;">exercise</span>. Assume that <span style="font-variant:small-caps;">a, r</span> is a linearly ordered structure with <span style="font-variant:small-caps;">a</span> countable and <span style="font-variant:small-caps;">r</span> dense. Show that <span style="font-variant:small-caps;">a, r</span> is isomorphic to <span style="font-variant:small-caps;">b, \<</span><span>-2pt</span>$\begin{smallmatrix}_{\circ}\ \\\text{\textsc{q}}\end{smallmatrix}$<span>-3pt</span> for some subset <span style="font-variant:small-caps;">b</span> of .
+
+And consider now whether I know that, given a linearly ordered structure <span style="font-variant:small-caps;">a, r</span> where <span style="font-variant:small-caps;">a</span> is countable and <span style="font-variant:small-caps;">r</span> is dense, it follows that <span style="font-variant:small-caps;">a, r</span> is isomorphic to <span style="font-variant:small-caps;">b, \<</span><span>-2pt</span>$\begin{smallmatrix}_{\circ}\ \\\text{\textsc{q}}\end{smallmatrix}$<span>-3pt</span> for some subset <span style="font-variant:small-caps;">b</span> of . (For convenience, let us give this conditional proposition the label ‘.’) Well, on the one hand, Jech wouldn’t have set this excercise if it weren’t the case that . In some circumstances, that alone would lead me to claim to know that , even if I had only the vaguest understanding of what actually means. Suppose for example that a friend calls me up and says he is trying to remember whether —in that case I would tell him that indeed I know that , because I just came across it as an assumed result in Jech. On the other hand, if that were all there were to it, then probably I would more typically disavow knowledge. Suppose, for instance, that another friend were to ask whether I know anything about isomorphisms with linearly ordered structures, and that although I’ve just come across assumed as a result in Jech, I’m foggy about what exactly ‘<span style="font-variant:small-caps;">b, \<</span><span>-2pt</span>$\begin{smallmatrix}_{\circ}\ \\\text{\textsc{q}}\end{smallmatrix}$<span>-3pt</span>’ is supposed to represent—in that case, I certainly would not say “Yes, I know one thing about that, namely that ”; Instead, I would say “No, I don’t know anything about that.” Now only a pedant would refrain from these sorts of natural and expected ways of talking, since we could only confuse by doing so. In that case, the mere fact that I have, in some sense, said or implied both that I do and that I do not know whether , it would be unfair to attribute some incoherence to —after all, I am constrained by the normal use of the English language—and it hardly matters for this point what I think about epistemology as a theoretical matter.
+
+That example involves two first-order knowledge claims. With Socrates, however, the conflict is understood to a rise between first-order claims and a second-order claim (or thesis): Socrates avows knowledge about various matters falling within some domain, and also says that he cannot have any knowledge within that domain. But this kind of ‘incompatibility’ needn’t have any significance either. Suppose a friend asks me me: “so, did you know that ?” and that I answer “Nope, I didn’t. I don’t even know what it means for something to be a ‘linearly ordered structure’.” Here I rely on the principle: “I can’t know what I don’t understand.” Nevertheless, I might later avow knowledge that as in the earlier case where a friend was just trying to check a result. So it turns out that I endorse a thesis about knowledge which entails that I cannot know whether , and yet go on to claim to know that . But we are still clearly within the realm of truisms and colloquial English usage, and as such it would confused to suppose that I have betrayed some incoherence by my willingness to say all of the things that I do.
+
+Finally, it has sometimes been thought that near juxtapositions of ‘incompatible’ knowledge claims in the early dialogues are more problematic than other more scattered claims, because they are more noticeable. But this again makes no difference on its own. For example, considering the question just more abstractly, do I in fact know that ? The natural, and indeed correct, answer is: Yes and No. Yes, in that if Jech set it then it can be proved, and, moreover, I once proved myself some years ago. No, in that I don’t remember the exact significance of all of these symbols and concepts anymore, and, even if I did, I would need to spend some time brushing up on set theory generally to have a clear understanding of . This is, again, just the natural way of describing the situation; that someone says such things shows nothing about what if any epistemological views they hold; nor can it sit poorly with any epistemological views, because whatever happens with one’s epistemological theorizing, these will still be natural ways to talk.
+
+Now as philosophers we may be expected to bring some order to our knowledge-talk, and as such we will want to find some way of understanding how various truisms about knowledge fit together, if indeed they do. And there are different ways we might proceed when confronted with examples of the sort I’ve presented. We might, for example, invoke some form of contextualist semantics for knowledge attribution, whereby different standards are established by different conversational settings. Alternatively, we might distinguish different senses of ‘know,’ so that in one sense of ‘know’ I might know that P so long as I have it on good testimony, while in another sense I can know that only if I understand or can explain why it is that . Or, again, we might say that there are different kinds of things I am claiming to know in each case: in the first case I am claiming to know a particular fact, and in the second case denying that I’m familiar with a subject matter. It might even be that we are driven to the conclusion that ordinary knowledge-talk is itself ultimately confused or incoherent. But whatever our view of such matters, we cannot read any such understandings into anyone’s use of the relevant language, .
+
+This is, I think, a point that we do not need to be reminded of when reading contemporary philosophy in English. So, for example, I earlier quoted Robert Audi as saying that “knowledge is constituted by belief (of a certain kind).”[^101] Now in a discussion of testimonial knowledge in a companion volume, Audi sketches an example in which he meets a woman on a plane, and “she tells me about a conference in which a speaker I know lost his temper.”[^102] Speaking for myself, I feel no temptation to read anything at all into the fact that Audi here speaks of knowing , and I doubt whether any reader of this passage has ever felt that it should be of any particular significance for an understanding of Audi’s epistemological views. And yet although we know that Plato’s style is colloquial, it is routinely assumed that every single Socratic avowal or attribution of knowledge in the early dialogues is relevant to an understanding of the epistemology of those dialogues. On reflection it is clear that the painstaking catalogues of such avowals could not possibly have more than a linguistic interest.
+
+[]
+
+Bearing in mind plausible strategies of these sorts, I do not see any need to be very concerned about supposed inconsistencies in Socrates’ various attributions of, and views about, knowledge. And indeed the issue for most scholars has been not so much to worry that Socrates’ various knowledge claims and ascriptions are contradictory, but to determine *what sort of knowledge* Socrates is avowing when he avows knowledge, and *what sort of knowledge* he is disavowing when he disavows knowledge.[^103]
+
+But it would be a mistake to attribute *to Socrates himself* a *reflective conception* of any form of knowledge besides τέχνη. What there are in the early dialogues are attributions of knowledge which do not fit the τέχνη-conception. But to find in such knowledge-attributions a *conception of a form of knowledge* would be to find a Socratic form of knowledge which would have to be “characterized almost entirely in negative terms.”[^104] And contrast with the fairly clear and demanding standards for craft knowledge, Socrates would apparently have *no* particular criteria for any sort of non-expert knowledge.[^105] At best we might hope to identify some ways Socrates thinks you could come by such knowledge—by divine revelation, perhaps, or as derived from a life’s experience interrogating others.[^106]
+
+To say “I know X,” and thereby to claim knowledge of some form—with however much confidence or care or sincerity—is not thereby to deploy a conception of that form of knowledge. It does not amount to having a view about that form of knowledge or even to distinguishing it from others. Socrates talks about knowing τέχναι, people, inanimate objects, qualities, and languages, but that is not cause for supposing either that he thinks these all involve the same sort of knowledge or that he has conceptions of five different types of knowledge. Perhaps Socrates *could* have distinguished, say, the kind of knowledge a craftsman has from the (propositional, factual) knowledge which the (merely) experienced person has. Later Aristotle did just that (e.g. *Metaphysics* 981a28–30). But Socrates only spoke a language for which such distinctions *could* be drawn.[^107]
+
+We may decide that the Socratic conception of knowledge is defective in some way, or that it covers only a limited range of the epistemological phenomena, and we may even think that some of his own claims to knowledge show this. We could say that his attributions of knowledge are actually incoherent, or we could defend the coherence of his attributions by invoking a contextualist semantics. But my topic is Socrates’ *own* conception or conceptions of knowledge. And as far as I can see, the only variety of knowledge of which he has any conception is τέχνη.
+
+[HAVEN’T ADRESSED EVERY POSSIBLE CASE, OF COURSE Can’t of course go through everything, but take for example: Euthydemus 293b has socrates knowing “many things but slight things” so I don’t want to say that there’s any definite regimentation in terms ofprop-K produced by power-K as I guess Benson would say - just that K secures doxastic outlook generally as per Crito ]
+
+[BUT LET’S GIVE A COUPLE OF EXAMPLES OF TENDENCY TO READ TO MUCH INTO THE TEXT]
+
+FIRST: ARTIFICIAL DISTINCTIONS
+
+Nevertheless he think that despite Socrates’ lack of both expertise and definitional knowledge, Socrates mode of inquiry “depends on knowledge;” knowledge of, for example, courage in the case of the :
+
+So, for example, David Woodruff, having claimed that definitional knowledge is prior to expertise (quoted above) proceeds thus:
+
+Socrates’ inquiry depends on knowledge about the nature of Courage. Unless his procedure is sharply out of tune with itself, the knowledge he uses must differ from the knowledge he cannot claim until after successfully defining Courage. The uses a distinction between expert and non-expert knowledge that supports a defense of Socrates’ inquiry. His arguments in the make use only of non-expert knowledge.[^108]
+
+And that is the idea he goes on to explore.
+
+Smith seems on the whole to think that Socrates’ conception of expertise constitutes his conception of knowledge. So for example she says that
+
+It would be a mistake… to think that the Socratic conception of knowledge will look anything like modern epistemological theories: Socrates is talking about the conditions of expertise, not about the conditions of factual knowledge .[^109]
+
+And later she observes that “Socrates never shows much interest in the knowledge of single propositions.”[^110] But her intended conclusion seems to be the more modest one that Socrates is or concerned with which he would consider to be of significance: so for example she she writes that “Socrates would not have considered it a great epistemic achievement to possess a pocketful of truths unconnected to systematic knowledge.”[^111] And Smith tells us she agrees with Woodruff (and others) regarding the presuppositions of Socratic inquiry: “the relevant distinction is not between certain knowledge and elenctic knowledge [as on Vlastos’ view], but between expert knowledge and non-expert knowledge.”[^112] [AND WHAT ABOUT PARRY?]
+
+FIRST: TOO MUCH ABSTRACTION IN GENERAL
+
+We see a lot of slippery language.... eg Woodruff
+
+Recall for instance Woodruff’s motivation for []: “Socrates’ inquiry depends on knowledge about the nature of Courage,” and so, to avoid incoherence, “the knowledge he uses must differ from the knowledge he cannot claim until after successfully defining Courage.”
+
+If ‘uses’ means ‘draws’ or ‘reflectively employs’ two different conceptions of knowledge, then there seems to be little basis for the claim. In pariticular, what does the second (non-expert) variety of knowledge look like? Woodruff himself observes that Socrates seems to have no criteria whatever here.[^113] [ALSO NOTE ARBITRARINESS—WHY ONLY ONE, EG?] If what is meant by ‘uses a distinction’ is rather that Socrates relies upon, or invokes, or deploys, some conception or conceptions of knowledge (or some sense or sense of the relevant Greek words) that doesn’t entail or involve the  model, then the claim is true, but of no significance for understanding the epistemology of the early dialogues: it is likely enough that every language user and every work of literature of any bulk and employing colloquial language will ‘use’ distinctions between different forms of knowledge (including of expert and non-expert varietes) in this fashion. The colloquial [etc]; nor can the employment of such language [obviously matter; we can decide—if W wants to say \*that\*, then fine.]
+
+[DISTINGUISH: S HAS CONCEPTIONS OF TWO VARIETIES OF K, AND S HAS TECHNE PLUS NOT TECHNE—ADRESS THAT second question IN NEXT SECTION]
+
+CONSTRAINTS AND SUCH
+
+Consider for example Socrates occasional instruction to his interlocutors to tell him what they really think [CITES]. Vlastos has described this as a [VLASTOS]. Hugh Benson argues that in fact Socrates accepts the ‘doxastic constraint’:
+
+[DC] Being believed by the interlocutor is a necessary and sufficient condition for being a premise of a Socratic elenchos.[^114]
+
+The difference between this and Vlastos’ say-what-you-believe ‘constraint’ is the addition of ‘sufficient.’
+
+Now imagine the following conversation with a doctor:
+
+Me: So, doctor, melonoma is life-threatening, right?
+
+Doctor: Sure, I’ll accept that.
+
+Me: …I wasn’t looking for agreement—I wasn’t basing that on anything. I wanted view.
+
+Doctor: Yeah, I guess melonoma seems like it might be life-threatening.
+
+Me: It like it? Look, is it or isn’t?
+
+Moving to a higher level of abstraction, we could say that, in at lenversational settings, I impose the following ‘doxastic requirement’: the interlocutors sincere assertion of some thesis is both necessary and sufficient in order for us to proceed. This is, I suppose, true, but entirely trivial; it reflects nothing peculiar to my conception of knowledge (anyone would have acted as I did), and indicates nothing about what if any considered views I might possess about knowledge—my response would have been equally natural from an epistemologist (regardless of his epistemological theories) or from someone who had never heard of the subject. To say that I accept the ‘doxastic requirement’ for some conversational settings would, moreover, entirely misconstrue the matter: to attribute it to me is to show that you don’t u [[]] [he only proper way to express ]
+
+[point being not innocent—people are assuming that because abstraction is safe, it’s innocent, and it’s not.]
+
+DEFINITION STUFF ESPECIALLY
+
+Santas, for example, says that
+
+the definiendum of a Socratic definition of F-ness or the F is probably an attribute, which (a) is one and the same in all things that are F, (b) is that by reason of which all F things are F, (c) is that by which all F things do not differ but are all the same, and (d) is that which in all F things we call ‘F-ness’ or ‘the F’.[^115]
+
+Terence Penner rejects the view that Socrates is interested in definitional knowledge, or indeed any kind of propositional knowledge at all:
+
+One needs to know what the reference of courage is. Frege says about reference: “Comprehensive knowledge of the reference would require us to be able to say immediately whether any given sense belongs to it. To such knowledge we never attain.” 80 That is the kind of knowledge of virtue, knowledge, power, desire, good, and so forth that I see Socrates striving for.[^116]
+
+Angela Smith, while insisting on the preeminence of , thinks that “<span>\`</span>telling us what X is’<span>”</span> turns out to be a rather complicated affair, much more complicated than merely defining the meaning of a word or expression.” She adduces Santas’ criteria as an artciulation of this complexity, and observes that
+
+These are very demanding criteria—so demanding, in fact, that one might begin to wonder how knowledge can ever be gained, if a definition of this sort is a necessary first step to its achievement. As we look at these criteria more carefully, it becomes quite clear that only someone with a sophisticated understanding of X could even begin to try to tackle this Socratic request. Indeed, I think it would be fair to say that only someone who had already achieved expertise could have the breadth of knowledge and experience necessary to produce a definition of this sort. This is a demand, in short, that only an expert, reflecting on the nature of his knowledge, could ever hope to fulfill. A Socratic definition is not the starting point of knowledge; it is, rather, the culmination of it.[^117]
+
+As Smith herself points out, [SEEMS NOT FITTING FOR OTHER CASE]. Considered in that light, it is unsurprising that WOodruff simply carves Socrates’ desired moral  apart from other : [QUOTE, CITE]
+
+It is worth dwelling on the resulting interpretative situation. There is widespread agreement amongst that Socrates accepts a set of criteria (which are not explicitly formulated) for definition (a notion for which there is no Socratic term—still less for ‘reference’);[^118] criteria which are hard even to make intelligible when applied to his own preferred examples of standard  (the very  Socrates invoking precisely to motivate these criteria), if they don’t simply fall short of it (despite their constant employment as paradigms of knowledge). This
+
+[ought to give pause]
+
+[REMINDER ABOUT SANTAS AND SMITH, OR SHIFT HERE]
+
+But this cannot be right. Consider Socrates’ instructions to Euthyphro:
+
+Socrates: Bear in mind then that I did not bid you tell me one or two of the many pious actions but that form itself that makes all pious actions pious, for you agreed that all impious actions are impious and all pious actions pious through one form, or don’t you remember?
+
+Euthyphro: I do.
+
+Socrates: Tell me then what this form itself is, so that I may look upon it, and using it as a model, say that any action of yours or another’s that is of that kind is pious, and if it is not that it is not.
+
+This passage, as much as any other, is responsible for the impression that Socrates’ demand is a very stringent one. But that is not a tenable view when we consider the lines which immediately follow:
+
+Euthyphro: If that is how you want it, Socrates, that is how I will tell you.
+
+Socrates: That is what I want.
+
+Euthyphro: Well then, what is dear to the gods is pious, what is not is impious.
+
+Socrates: Splendid, Euthyphro! You have now answered in the way I wanted.
+
+As it turns, out the answer is not acceptable. But Socrates thinks it is at least superficially a candidate for being the right answer. But it is clear
+
+But if it were true that Socrates were after an answer that only a true expert could hope to give, he could not possibly think that Euthyphro may just have given such a thing. [] To all appearances, Socrates says what he does about looking upon the form of piety because Euthyphro has been giving him a list of piosu actions, Socrates wants something more general, and the suggestion that
+
+In fact Socrates is pleased because ....
+
+MAYBE ADDRESS DEFS AGAIN HERE BECAUSE CAUSING PROBLEMS HERE: SENSE THAT IT’S THIS BIG AMBITIOUS THING IS THROWING OFF WOODRUFF, BUT ALSO SMITH...
+
+[IN NEXT SECTION? OR TO BUTRESS PRESENT POINT?]The interest in definitions should not be construed as an interest in knowledge which may be captured by a verbal formula.[^119] Knowledge of a given entity or quality, in the sense Socrates is concerned with, already indicates mastery of the whole rational practice that constitutes a τέχνη.[^120]
+
+Socrates’ interest in *what things are* has been described as an interest in real as opposed to nominal definitions. This is fair in the sense that Socrates expects experts to be be able to articulate their knowledge. Doctors and laymen alike *talk* about health, and can point to examples of healthy people, or give general characterizations of health—as “good condition of the body,” for example. But the layman relies on more superficial signs, and is liable to error, while the doctor can tell healthy people apart from those who merely appear healthy (*Gorgias* 464a–b).[^121] The doctor’s ability to give a “real definition” of health is a reflection of this ability to distinguish appearance from reality. So to know what the qualities in question are is, in part, to be able to employ *and explain* reliable standards of assessment.
+
+[puzzlement about defs ka as nec and sufficient; puzzle largely disipates on understanding the role]
+
+[]
+
+Vlastos, Socrates disavowal of Knowledge, in Fine p. 84: Socrates will never be contradicting himself by saying, or implying, that he both has and hasn’t knowledge, for he will not be saying or implying that he does and doesn’t have knowledgeE, or that he does and doesn’t have knowledgeE, but only that he does have knowledgeE and does not have knowledgeC. Thus his avowal of ignorance will never generate practical inconsistency or doctrinal incoherence. When he tells the interlocutor that he has no knowledge he will not be violating the “say what you believe” rule of elenctic debate, for he will not be feigning ignorance: he does believe with full conviction, with utter sincerity, that he has no knowledgeC.51 Nor will he be endangering his doctrine that “Virtue is knowledge” when this is read, as it should be, “Virtue is knowledgeE”.
+
+Benson has the ’doxastic contsraint’ at 38 and distinguishes it from Vlastos’ say what you beleive constraint at 39
+
+Gorgias 479e8 cited by Vlastos in 1983b: has it not been proved that what I said before was true? [think of my logic example]
+
+“different working conceptions of knowledge” - only if we mean by this *only* in the sense that knowledge in his mouth can mean different things - and in one important sense there’s only oneworking conception - this is etrayed by tendency to think of all K in terms of craft
+
+‘two’ is arbitrary - again just craft and other - W also on eg 66 taking the other side too seriously - on the other hand 77 plays it down - no criteria etc - a good
+
+PROBLEMS ARE ALL ENTIRELY DISSOLVED BY SAYING THAT sOCRATES DOESN’T DISTINGUISH CASE.
+
+This suggests that whatever Charmides or Euthyphro could *say* about temperance or piety would represent only a reflection or aspect of their knowledge.
+
+CHarm 165: arithmetic is knowledge of the even and the odd etc
+
+asUSEFUL EXAMPLES FROM PARRY SEP: In some dialogues, craft (technê) and knowledge (epistêmê) seem interchangeable in much the same way as in Xenophon’s Socratic dialogues. In the Charmides (165c) Socrates says that medicine, i.e., the physician’s craft (iatrikê technê), is the knowledge (epistêmê) of health. In Euthydemus (281a) Socrates says that what guides right use of materials in carpentry is the knowledge of carpentry (techtonikê epistêmê). In Ion (532c) Socrates tells the rhapsode Ion that he is not able to talk about Homer with craft and knowledge. In Protagoras (356d-e) Socrates refers to measuring as both a craft and a kind of knowledge
+
+[]
+
+## IV. Knowledge as Texnh
+
+We have seen that Socrates has a considered and distinctive conception τέχνη. We’ve also seen that a lot of Socrates’ epistemological reflections should be understood within the τέχνη-framework: knowledge of particular facts, which contemporary epistemology treats as the basic case, is often for Socrates the manifestation of expertise. And while there are in the early dialogues references to, or invocations of, knowledge that cannot be understood in terms of τέχνη, there is no sign of any organized or reflective Socratic view about whatever form or forms of knowledge might be at play there. But I wish now to emphasize the positive tendency on Socrates’ part to understand knowledge generally in terms of  specifically—I wish, that is, to urge the point that that the role of  in Socrates’ epistemological thought is such that we may say simply that, for Socrates, knowledge is . Whatever else knowledge is for Socrates, it is only secondarily or marginally or colloquially.
+
+First, then, observe that seemingly more general epistemological questions are frequently interpreted or addressed in terms of , or by appeal to the case of . So, for example, Socrates’ attempt, in the , to demonstrate that  and ἐπιστήμη are ‘strong’[^122] culminates, as we’ve seen, in the point that knowledge, being a τέχνη of measurement, will ensure that you get things right; Socrates’ discussion simply assumes that the resources of  may be deployed in resolving this question. The popular view had seemed initially to concern no more than the possibility of doing some particular thing that you know not to be the best thing to do. But Socrates treats the view of the many as a challenge to the value of knowledge taken as , or as a manifestation thereof. The obvious reason why he would so construe the popular view is that he thinks that knowing what is to be done in a particular instance must be a manifestation of the possession of some relevant .
+
+Again, consider Socrates reply to Critias’ proposal in the  that temperance () is knowing oneself (τὸ γιγνώσκειν ἑαυτόν; 165a). Socrates says that if temperance is knowing (), then it must be some kind of ἐπιστήμη, and it must be *of* something; his examples are medicine and housebuilding, which are ‘of’ health and building houses respectively—and these are, of course, paradigmatic . Some debate follows about what, if anything, knowledge must in fact be ‘of,’ but Socrates’ assumption that it will be some or other  and  remains in effect. It is notable how peculiar this transition would be except for the powerful force of  in Socrates’ epistemological thinking: Socrates supposes that self-knowledge could only be interpreted as some kind of τέχνη, despite the fact that there is obviously no τέχνη in the neighbourhood—as the rest of the dialogue makes clear enough—nor any evident reason to suppose right at the start that there should be.
+
+That these transitions to  in the  and  are noteworthy is confirmed by an examination of the language employed. According to John Lyons’ analysis of Plato’s epistemological vocabulary, the verbs ‘,’ ‘,’ and ‘’ are grouped in the following way: ‘’ is largely interchangeably with either ‘’ or ‘,’ but ‘’ and ‘’ play somewhat different roles and are not interchangeable with each other.[^123] For example, ‘,’ unlike ‘,’ is particularly associated with personal nouns.[^124] ‘’ is in a “generator” for ‘τέχνη,’ in that when someone knows in the sense indicated by ‘,’ then you can invoke a corresponding τέχνη.[^125]
+
+In the , Socrates proceeds thus:
+
+εἰ γὰρ δὴ γιγνώσκειν γέ τί ἐστιν ἡ σωφροσύνη, δῆλον ὅτι ἐπιστήμη τις ἂν εἴη καὶ τινός: ἢ οὔ;—ἔστιν, ἔφη, ἑαυτοῦ γε.—οὐκοῦν καὶ ἰατρική, ἔφην, ἐπιστήμη ἐστὶν τοῦ ὑγιεινοῦ;—πάνυ γε.—εἰ τοίνυν με, ἔφην, ἔροιο σύ: “ἰατρικὴ ὑγιεινοῦ ἐπιστήμη οὖσα τί ἡμῖν χρησίμη ἐστὶν καὶ τί ἀπεργάζεται,” εἴποιμ᾽ ἂν ὅτι οὐ σμικρὰν ὠφελίαν: τὴν γὰρ ὑγίειαν καλὸν ἡμῖν ἔργον ἀπεργάζεται, εἰ ἀποδέχῃ τοῦτο.—ἀποδέχομαι.—καὶ εἰ τοίνυν με ἔροιο τὴν οἰκοδομικήν, ἐπιστήμην οὖσαν τοῦ οἰκοδομεῖν, τί φημι ἔργον ἀπεργάζεσθαι, εἴποιμ᾽ ἂν ὅτι οἰκήσεις: ὡσαύτως δὲ καὶ τῶν ἄλλων τεχνῶν.[^126]
+
+Here we move from ‘’ to ‘τέχνη,’ but the example is not at odds with Lyons’ analysis. What we see here is an explicit *inference* on Socrates’ part: we have a case of knowing something (γιγνώσκειν τί) and *therefore* of ἐπιστήμη, and thus also of τέχνη. This case then shows that Socrates is prepared to infer a τέχνη not only where the sort of knowledge in question (knowing oneself) seems to have no evident connection with τέχνη, but also where the specific epistemic vocabulary has no particular connection with τέχνη in general Platonic usage.
+
+In the  we also have a transition from  to  by way of :
+
+καὶ δοκεῖ, ἔφη, ὥσπερ σὺ λέγεις, ὦ Σώκρατες, καὶ ἅμα, εἴπερ τῳ ἄλλῳ, αἰσχρόν ἐστι καὶ ἐμοὶ σοφίαν καὶ ἐπιστήμην μὴ οὐχὶ πάντων κράτιστον φάναι εἶναι τῶν ἀνθρωπείων πραγμάτων.
+
+οἶσθα οὖν ὅτι οἱ πολλοὶ τῶν ἀνθρώπων ἐμοί τε καὶ σοὶ οὐ πείθονται, ἀλλὰ πολλούς φασι γιγνώσκοντας τὰ βέλτιστα οὐκ ἐθέλειν πράττειν, ἐξὸν αὐτοῖς, ἀλλὰ ἄλλα πράττειν.[^127]
+
+The popular view is assumed from the outset to be a rejection of the view of  and  shared by Protagoras and Socrates, and  turns out later to entail . There are in fact a number of instances of logical rather than liguistic transitions from  to ; Lyons himself discusses an case in the , where ‘’ is used in connection with ‘τέχνη’ not for linguistic reasons but as part of an argument connecting good judgment in a particular field with an appropriate τέχνη.[^128]
+
+A second, and related, observation is that Socrates tends either to subsume whatever one might know under some , or to disregard or dismiss such ‘knowledge’ altogether. Recall for instance that Socrates and Ion were said each to know () that Socrates has five fingers on a hand by the same , namely arithmetic (537e). Now one might think that knowing one has five fingers on a hand is pretty elementary—not the kind of thing one would need any  for at all. Socrates and Ion aren’t mathematicians; a child might know he has five fingers on a hand because he proudly counts them up every day, five being the highest number he can get to. Nevertheless, Socrates subsumes his and Ion’s knowledge under the arithmetical . The thought, as I understand it, is that to the extent you that there are five of something, that will be because to some degree or in form you possess the arithmetical  (recall that one may benefit from mathematical  without actually being a mathematician, as is the case with carpenters, and perhaps with all experts).
+
+Where there is no such  or no possession of such—where ‘knowledge’ could come in bits and pieces, or where a putative body of knowledge is in some other way incomplete or unsystematic—then Socrates isn’t interested. He doesn’t for example, concern himself with historical knowledge.[^129] This can’t be attributed just to Socrates’ pursuit of wisdom, since that pursuit doesn’t prevent him from invoking other more ‘theoretical’ varieties of knowledge—like arithmetic—so long as these constitute .[^130] That Socrates doesn’t discuss a given topic doesn’t show much on its own, of course, but we can look at what he say about poetry and oratory. Not only does Socrates not consider these to be τέχναι, he never considers the possibility that they might still involve impressive bodies of psychological or dramatic knowledge. Socrates is quite willing to grant that poets and orators may be, in some sense, extremely capable and successful, but so far as knowledge goes, the choices seem to be: τέχνη or nothing. We can see this at *Gorgias* 464c–465a, where it’s clear that saying rhetoric (or here “flattery,” of which rhetoric is a sub-type) is not a τέχνη is equivalent to saying that it just guesses. And then there is the poor Ion, who for all his apparent gifts is reduced by Socrates to a conduit for the divine. Socrates’ view, it seems, is that if you have some kind of success, then it’s because of τέχνη, or else merely a result of guessing or divine inspiration or madness. In this respect Aristotle, who tabulates various forms of knowledge, is an obvious contrast.[^131] Another interesting contrast is with Isocrates’s position in . Isocrates also argues that the ῥήτορες do not possess a , despite their invocation of such paradigmatic cases as knowing one’s letters:
+
+I am amazed when I see these men claiming students for them­selves; they fail to notice that they are using an ordered art (τεταγμένη ) as a model for a creative activity (ποιητικόν πρᾶγμα).[^132]
+
+He maintains nevertheless that there is a role for teaching in public speaking, though a much more modest one than would be indicated by claiming a , and his goal in the following passages is then to show that there is something to be taught here even though it doesn’t rise to level of —a task which he evidently doesn’t consider to be a totally trivial one. We do not find anything like this kind of proposal being offered by Socrates—quite the opposite.[^133]
+
+Finally, all of this fits with and accounts for the striking fact about the dialogues with which we began: as Callicles says, Socrates simply doesn’t let up on the -talk. In prompting Euthyphro to tell him what piety is, Socrates invokes the measure-weight-number triad which constitutes the definitive characteristic of technical precision. He thinks that the notion of  as self-knowledge may best be elucidated by comparison with carpentry and arithmetic. He thinks that the baker deserves scorn because he isn’t a doctor. He finds it astonishing that there is no equivalent of animal-husbandry for humans. If the standard to which Socrates holds claim to knowledge is the standard set by his conception of , then the simple and obvious explanation for this is the one I have proposed:  is what knowledge is for Socrates.
+
+## Abbreviations
+
+
+*DA* *De Arte*
+*VM*    *On Ancient Medicine*
+*Acute*   *Regimen in Acute Diseases*
+*Prog.*   *Prognosis*
+
+On Ancient Medicine Regimen in Acute Diseases Prognosis
+
+[^1]: Robert Audi, in his introduction to {% cite huemer2002ecr -l 1 %}.
+
+[^2]: *Memorabilia* I.i.37 [CORRECT? OR I.ii.37?], trans. .
+
+[^3]: By “earlier dialogues,” I mean the *Apology, Charmides, Crito, Euthydemus, Euthyphro, Gorgias, Hippias Major, Hippias Minor, Ion, Laches, Lysis,* and *Protagoras*; I also draw on the *Meno* and *Republic* I.[dialogues] (I do not mean to suggest that similar examples are not also prominent in later dialogues, but those are not my focus.)
+
+[^4]: *Gorgias* 491a, trans. .
+
+[^5]: 165b–c.
+
+[^6]: When I speak of a ‘Socratic conception of knowledge,’ I mean a conception of knowledge distinctive of the Socrates in the Platonic dialogues mentioned in n. [dialogues] above. I say ‘conception’ rather than ‘theory,’ because, first, we see Socrates deploying an understanding of knowledge rather than setting out an account of it, and, second, because Socrates expresses doubts (or serious puzzlement) about how to understand knowledge. Nor do I insist that these dialogues are perfectly consistent. On the other hand, I do mean to suggest more than merely that these dialogues manifest a conception of knowledge in the same way that everybody manifests some conception of knowledge. What Socrates says reflects deliberate consideration of the topic—of the formal features of , for example.
+
+[^7]: {% cite irwin1995pse %} [70].
+
+[^8]: I won’t claim that Socrates’ conception of τέχνη (or of knowledge generally) is totally unique in the history of philosophy—his τέχνη-oriented approach to epistemology had a good deal of influence in the ancient world, not least in Plato’s case. But his conception of τέχνη is different enough from that of Plato, Aristotle, and various of his contemporaries, and in sufficiently significant ways (philosophically and interpretatively), that we need to consider it in its own right if we are to understand him correctly.
+
+[^9]: {% cite vlastos1991socrates -l 41 %}.
+
+[^10]: A few scholars have recently taken more of an interest in the Socratic conception of τέχνη in its own right, and as a matter of *epistemology* rather than just ethics—most notably Paul {% cite woodruff1990pse %} and Angela @asmith1998. A useful discussion with more attention to the contemporary views about τέχνη may be found in {% cite reeve1989sita %} [37–45], though Reeve’s discussion generally gives the (in my view mistaken) impression that there was a single going view of , albeit one which underwent some development.
+
+[^11]: {% cite benson2000swm -l 211–212 %}.
+
+[^12]: Cf. {% cite allen1989dpe -l 326 %}.
+
+[^13]: 531a–35a.
+
+[^14]: 285d–286a: “I forgot you had the art of memory. So I understand: the Spartans enjoy you, predictably, because you know a lot of things, and they use you the way children use old ladies, to tell stories for pleasure.” If the bit about children and old ladies doesn’t give it away, we will see in §[distinct] that doing things from memory with the aim of pleasing is for Socrates the opposite of acting out of knowledge.
+
+[^15]: {% cite berndt1985ramanujan -l 6 %}.
+
+[^16]: Thus {% cite chaitin2007less %}.
+
+[^17]: See §[distinct] below.
+
+[^18]: See for instance Isocrates’ *Against the Sophists* on oratory and the Hippocratic *De Arte* on medicine.
+
+[^19]: 182d–e. Neither Laches nor Nicias actually uses the word ‘τέχνη’ when speaking of fighting in armour; rather they refer to it as a (possible)  (as here) or ἐπιστήμη. But ‘ἐπιστήμη,’ as noted, is a frequent synonym for ‘τέχνη’ in the early dialogues, and Socrates is treating ‘’ as implying a τέχνη at 185e, and when he begins speaking of ‘τέχνη’ back at 185a, Nicias assumes that the τέχνη in question would be fighting in armour (185c).
+
+[^20]: 55e–56c.
+
+[^21]: 55e–56b, trans. .
+
+[^22]: {% cite schiefsky2005 -l 15 %}; {% cite heinimann1975mass -l 194 %}.
+
+[^23]: @allen1994 provides an excellent survey of this topic.
+
+[^24]: Cf. Isocrates (*Against the Sophists*) on writing out letters.
+
+[^25]: No doubt the contrast is spurious—a builder needs good materials, and on the other hand, nature supplies dwellings in the forms of caves.
+
+[^26]: For this sort of objection see e.g. *Protagoras* 319a–320b, *Laches* 185d–e, Isocrates *Against the Sophists* 14, *Dissoi Logoi* 6.5–6, *De Arte* 4; cf. {% cite heinimann1961vpt -l 123–6 %}.
+
+[^27]: *Regimen in Acute Diseases* 9, trans.  [ACTUALLY §3? ALSO QUOTE ACCURATE?].
+
+[^28]: The Song emperor Huizong claimed of the doctrines contained in his medical encyclopedia that “a physician who uses or applies them can end [all] diseases.” (Quoted in {% cite goldschmidt2008evolution -l 181 %}; cf. {% cite needham2000science -l 67–70 %}.) And according to the *Caraka Samhitā*, a classic text of Indian medicine (ca. 3rd c. BC) the “physician fit for a king knows: cause, symptom, cure and prevention of all diseases” (*Sūtrasthana* IX.19, trans. ; cf. Halbfass, [-{% cite halbfass1991therapeutic %}]).
+
+[^29]: The lines are from the “[Lasagna Oath](http://www.pbs.org/wgbh/nova/doctors/oath_modern.html),” penned in 1964. On therapeutic nihilism see e.g. Starr, [-{% cite starr1976politics %}].
+
+[^30]: *Gorgias* 448c, *Euthydemus* 279ff., *De Arte* 4–7, *VM* 1, 12, *Places in Man* 41, 44, 46, Xenophon *Memorabilia* III.ix.14–15; cf. {% cite vlastos1946eap %} [54–6], {% cite heinimann1961vpt %} [108, 123–4], @allen1994.
+
+[^31]: As for the fact that some people get better without a doctor, that may be credited to their doing what the doctor *would* have recommended (*De Arte* 5–6).
+
+[^32]: 11.
+
+[^33]: {% cite allen1994 -l 85 %}.
+
+[^34]: III, trans. .
+
+[^35]: 7, 11.
+
+[^36]: *Republic* II, 360e–361a, trans. . Cf. also *Prognosis* 1.
+
+[^37]: *Briefe aus Lambarene 1924–1927*, quoted by {% cite horstmanshoff1990ancient -l 181 %}.
+
+[^38]: {% cite holden1977needs %}.
+
+[^39]: 9.3–4, trans. ; On precision in the see @schiefsky2005 [app. 2].
+
+[^40]: I.3.
+
+[^41]: II.2.
+
+[^42]: Cf. *Top*. 1.3 (101b5–10), *Rhet.* 1355b10–11, 25–6. On the notion of a  στοχαστική see @allen1994 [pp. 88 ff.].
+
+[^43]: *Supp. De Anima* 160.1 ff.
+
+[^44]: 20.1.
+
+[^45]: 20.2.
+
+[^46]: 20.3.
+
+[^47]: {% cite schiefsky2005 -l 357 %}. Schiefsky argues for a late 5th-century dating of the *VM* (pp. 63–4).
+
+[^48]: 448c; cf. 462a.
+
+[^49]: 501a.
+
+[^50]: 500e–501a.
+
+[^51]: cf. *VM* 20: doctors know “what the human being is in relation to foods and drinks, and what it is in relation to other practices, and what will be the effect of each thing on each individual.” {% cite dodds1959pg %} and {% cite irwin1979pg %} think the use of ‘προσφέρειν’ at 465a suggests Plato had medicine in mind there too, which is perhaps borne out by 501a.
+
+[^52]: Cf. also 459c–e, 464a–465d, and 500a–b.
+
+[^53]: 464a, cf. {% cite irwin1979pg %} 500e–501a *ad loc*, and *Laches* 189e–190a.
+
+[^54]: Cf. {% cite moss2006pai %} on the relationship between pleasure and illusion in Plato.
+
+[^55]: As {% cite schiefsky2005 -l 346–8 %} points out.
+
+[^56]: *Metaphysics* 981a.
+
+[^57]: 1, trans. .
+
+[^58]: 5.
+
+[^59]: 5.
+
+[^60]: On ‘systematicity’ see also {% cite woodruff1990pse %} [71–2] and @asmith1998 [135–6].
+
+[^61]: This conclusion accords with recent assessments of {% cite schiefsky2005 -l 356 %} and @allen1994.
+
+[^62]: cf. Allen pp. 85–6.
+
+[^63]: At *Protagoras* 344c–d, Socrates says misfortune () might incapacitate a craftsman but not an ordinary person (who has no τέχνη to start with). Here misfortune interferes with τέχνη, but by destroying it, not by preventing it from attaining its goals.
+
+[^64]: “Wisdom makes men fortunate in every case [of τέχνη], since I don’t suppose that she would ever make any sort of mistake but must necessarily do right and be lucky—otherwise she would no longer be wisdom.” (trans. .)
+
+[^65]: Cf.  XIV: “that medicine has plentiful reasoning in itself to justify its treatment, and that it would rightly refuse to undertake obstinate cases, or under-taking them would do so without making a mistake [i.e. it succeeds in what it undertakes], is shown both by the present essay and by the expositions of those versed in the art.”
+
+[^66]: 269d, trans. .
+
+[^67]: As is the case throughout book I, but also elsewhere: for example at 428b–29a and 438c–e.
+
+[^68]:  352b.
+
+[^69]: On pleasure as a trope for practical illusion in Plato, see {% cite moss2006pai %}.
+
+[^70]: In a sense Socrates refutes the idea that knowledge is weak *twice*. If you think of knowledge in terms of knowing the right thing to do on a given occasion, then the refutation does consist in showing that akrasia is impossible. But if we think of knowledge in terms of τέχνη, then the refutation is completed only later with the τέχνη of measurement.
+
+[^71]: *Protagoras* 356d, trans. .
+
+[^72]: 459a–b. Cf. also *Hippias Minor* 372d–e, *Euthyphro* 11b–c, *Meno* 97c–98b.
+
+[^73]: Thus Terence {% cite penner1997ssk %} is right to insist that the “knowledge is strong” thesis is not implied by the denial of . The denial of  is rather required to ensure we do as knowledge directs. Knowledge is strong because it ensures that you *think the right way*; *then* the denial of  takes over. Cf. also {% cite allen1960sp %}, pp. 257–8 and n. 6.
+
+[^74]: trans. , with ‘craft’ substituted for his ‘profession.’ Cf. *Hippias Minor* 265–7.
+
+[^75]: A similar observation is made by {% cite benson2000swm -l 205–11 %}, who distinguishes between Scoratic knowledge as a  and as a state brought about by such a ; cf. also {% cite brickhouse1994pss -l 37 %} on the early dialogues and {% cite smith2000power %} on the .
+
+[^76]: Smith [CITE] also observes the importance of distinguishing a putative Socratic interest in propositional knowledge from a Socratic interest in knowledge expressible in propositions.
+
+[^77]: {% cite goldman2001experts -l 92 %}.
+
+[^78]: Ibid. pp. 91–2.
+
+[^79]: I ignore [EG HUMAN KNOWLEDGE STUFF; NOT OF ANY OBVIOUS PHIL SIGNIFICANCE].
+
+[^80]: @asmith1998 [p. XX].
+
+[^81]: [CITE; TRANS]
+
+[^82]: I do not claim that Smith herself means to deny any of this.
+
+[^83]: 98a, trans. .
+
+[^84]: 82b ff. [CITE NEHAMAS?]
+
+[^85]: *Hippias Minor* 372d–e, *Euthyphro* 11b–c, CHECK THESE; ADD MORE; EG GORGIAS WITH PEOPLE GETTING CONVINCED.
+
+[^86]: Cf. {% cite asmith1998 -l 132 %}: “Socrates… expects an expert to be able to give an account of his field of expertise, its methods and its aims. But… it would be a mistake to assume from this that Socrates conceives of expertise as merely the accumulated knowledge of a vast number of propositions in a given domain.”
+
+[^87]: {% cite woodruff1987eka -l 79 %}, his emphasis. Cf. {% cite woodruff1990pse %} [@sep-plato-ethics-shorter]. [CHECK THESE]
+
+[^88]: {% cite woodruff1987eka %} [n. 4].
+
+[^89]: Thus Smith p. 149. Though some dialogues, e.g. *Charmides*, have the character more of a shared investigation, so that it is an idea rather than a purported expert that is being tested.
+
+[^90]: Smith p. 148.
+
+[^91]: Cf. @asmith1998 [153].
+
+[^92]: *Charmides* 159a; Socrates here employs ‘,’ but with Lyons I believe languages are not thought of as .
+
+[^93]: BENSON CATALOGUE; WOLFSDORF CATALOGUE
+
+[^94]: 479d [TRANS?]; VLASTOS CITE.
+
+[^95]: *Apology* 19e–20c, [COMPLETE]; cf. [ MORE CITES? *Laches* 186a–c; 71d]
+
+[^96]: WOODRUFF CATALOGUE
+
+[^97]: *Meno* 71a–b, *Hippias Minor* 304d–e [CITES]. FIX THIS: Whether Socrates in fact thinks that knowledge of what a thing is is necessary and/or sufficient for knowledge of its qualities or bearers, and how these theses should be understood, has attracted much controversy, mostly under the heading of “the priority of definition.” A review of construals of, and of evidence for and against, these theses may be found in {% cite benson2000swm %} [chs. 6 & 7].
+
+[^98]: {% cite wolfsdorf2004socrates -l 84 %} considers thirty-two passages in which Socrates has been said to avow knowledge, and counts “six sincere avowals of ethical knowledge” (Euthydemus 296e–297a; Gorgias 521c–d; Protagoras 310d; Apology 22c9–d3 and 29a4–b9; Laches 190b–c).) Among those he excludes are five of the six passages that {% cite vlastos1985sdk %} [73] had offered as illustrating that “Socrates is himself convinced that he has found what he has been looking for: knowledge of moral truth.” The one he admits is 29b, which itself is more exhortation than substantive claim.
+
+[^99]: {% cite irwin1977pmt %} [p. XX]; cf. {% cite irwin1995pse -l 28–9 %}.
+
+[^100]: {% cite kraut1984sas %} [p. XX].
+
+[^101]: Robert Audi, in his introduction to {% cite huemer2002ecr -l 1 %}.
+
+[^102]: {% cite audi2003eci -l 134–5 %}, his emphasis.
+
+[^103]: For instance {% cite brickhouse1994pss %} [esp. p. 36] say that Socrates disavows systematically reliable knowledge of whole domains, but that this is compatible with having knowledge of specific facts, to any degree of certainty or stability, within those domains. (I would say: Socrates has no craft—at least not of a moral sort—but this does not mean that he doesn’t know particular facts which would fall within the purview of some craft.) But this approach leads them to deny that, on the Socratic view, knowledge of definitions is necessary for knowledge of specific facts (p. 45). But you could perfectly well still say exactly that, once you have distinguished different forms of knowledge.
+
+[^104]: Benson p. 237. Though he speaks of understanding rather than τέχνη.
+
+[^105]: As {% cite woodruff1990pse -l 77 %} points out.
+
+[^106]: See Brickhouse and Smith pp. 39–41 for some possibilities (including these two).
+
+[^107]: For the same reason, Benson is wrong to suggest that expressions of knowledge which fall outside his expertise sense are “loose” or “in the manner of the vulgar” (pp. 236, 238). He worries about cases where disavowals of definitional knowledge are juxtaposed closely with avowals of non-expert knowledge. (He appears—from p. 236 with n. 34—to be thinking of *Apology* 29a–b and 37b, and to a lesser extent of *Euthydemus* 296e–297a and *Hippias Minor* 304e.) He concludes that “we can either take these passages as evidence for another sense of knowledge that Socrates periodically makes use of—although not nearly so frequently as we have been led to suppose—or we can take them as misstatements made in the heat of the moment or in the manner of the vulgar. In either case the account of Socratic knowledge offered in this examination escapes unscathed” (p. 238).
+
+[^108]: Ibid. p 80
+
+[^109]: Smith p. 131.
+
+[^110]: Smith p. 152.
+
+[^111]: Smith p. [XX]; for a similar conclusion without the focus on , see {% cite penner1992sae %} [pp. XX]: QUOTE.
+
+[^112]: Ibid. n. 56; cf. NEHAMAS, REEVE.
+
+[^113]: {% cite woodruff1990pse -l 77 %}. Benson, though treating Socratic knowledge as understanding rather than , also points out that any further conception of knowledge attributed to Socrates’ on the basis of apparently exception avowals of knowledge would have to be “characterized almost entirely in negative terms.” He rightly sees this a reason for discounting the epistemological significance of those avowals, [BUT STILL TOO WORRIED; p. 237].
+
+[^114]: [BENSON 38]
+
+[^115]: SANTAS CITE
+
+[^116]: Penner p. 147
+
+[^117]: Smith p. 147.
+
+[^118]: So {% cite robinson1950definition %} [pp. 113-14]: “If we describe [the What-is-X? question], as I have so far refrained from doing, by means of such words as ’definition’ and ’example,’ if we extract from it explicit rules and principles of definition, we pass to a stage of abstraction higher than the dialogues themselves display. We can, indeed, pick out an occasional word to be appropriately translated by ‘example’ or ‘definition,’ and we can easily formulate, from Socrates instructions to his hearers, rules resembling those in a modern textbook; but that is only to say that each level of abstraction is near to the next! The actual picture in the dialogues is not more but less abstract than the picture here given; for Socrates does not use the letter X; he never gives the function but one of it’s arguments.”
+
+[^119]: Socrates is as happy with expressions of the form “know X” as “know what X is”—he thinks of knowledge as much in terms of acquaintance or perception as in terms of anything linguistic. See e.g. *Charmides* 159a, *Euthyphro* 6e, *Gorgias* 503e.
+
+[^120]: See, for example, *Laches* 190a–c and *Gorgias* 503d–e. Indeed a phrase like “knowing X” can simply be used synecdochally to characterize a τέχνη as a whole by reference to its proper object—thus medicine is the “knowledge of health,” or the “knowledge of health and disease” (e.g. *Charmides* 165c, *Gorgias* []).
+
+[^121]: Cf. *Euthyphro* 6e, where piety is a  or model one may look to.
+
+[^122]: At 352b–d Socrates and Protagoras employ ‘ἐπιστήμη,’ ‘,’ ‘,’ and ‘.’
+
+[^123]: {% cite lyons1972ssa %}, chapter 7. Lyons’ discussion concerns the Platonic corpus as a whole.
+
+[^124]: Lyons pp. 179, 199 ff.
+
+[^125]: Lyons pp. 160 ff. *Charmides* 159a may be an exception—Socrates observes that Charmides knows Greek, employing ‘,’ but, on the evidence of the *Protagoras*, I don’t not think Socrates would speak of a τέχνη of Greek; Lyons’ conclusion is the same (pp. 184–5, 221). Also, it is natural—but noteworthy—that, given the close connection between  and τέχνη, Socrates never claims to know things in a propositional sense with , although he makes such avowals with .
+
+[^126]: 356c–d.
+
+[^127]: 352c–d.
+
+[^128]: 540e; Lyons, pp. 188–198.
+
+[^129]: Cf. ([-{% cite allen1989dpe %} p. 326]).
+
+[^130]: Even Aristotle makes somewhat disparaging remarks about history, on account of its dealing only with particular facts: *Poetics* 1451a36–b11.
+
+[^131]: For example at the start of *NE* VI.3: “ἔστω δὴ οἷς ἀληθεύει ἡ ψυχὴ τῷ καταφάναι ἢ ἀποφάναι, πέντε τὸν ἀριθμόν: ταῦτα δ᾽ ἐστὶ τέχνη ἐπιστήμη φρόνησις σοφία νοῦς.”
+
+[^132]: 12, trans. .
+
+[^133]: It is sometimes claimed that Socrates (or Plato) was gesturing in some way towards a different model of knowledge. So for example {% cite roochnik1996aaw -l 6 %} says that “Plato rejects techne as a model of moral knowledge,” and that he juxtaposes τέχνη and virtue precisely in order to show how poor a model τέχνη provides APPLIES TO SOCRATES?. BUT THAT’S WIERD.
 
 ## Bibliography
 
-J. Allen. Failure and Expertise in the Ancient Conception of an Art. *Scientific Failure*, 1994.
-
-R. E. Allen. The Socratic Paradox. *Journal of the History of Ideas*, 21(2): 256--265, 1960.
-
-R. E. Allen. *The Dialogues of Plato, vol. 1: Euthyphro, Apology, Crito, Meno, Gorgias, Menexenus*. Yale University Press, 1989.
-
-R. E. Allen. *The Dialogues of Plato, vol. 3: Ion, Hippias Minor, Laches, Protagoras*. Yale University Press, 1996.
-
-Hugh Benson. *Socratic Wisdom: The Model of Knowledge in Platos Early Dialogues*. Oxford University Press, 2000.
-
-T. C. Brickhouse and N. D. Smith. *Platos Socrates*. Oxford University Press, 1994.
-
-E. R. Dodds. *Plato Gorgias*. Clarendon Press Oxford, England, 1959.
-
-A.I. Goldman. Experts: which ones should you trust? *Philosophy and Phenomenological Research*, pages 85--110, 2001.
-
-J. Gosling. *Platos Moral Theory*. Philosophical Books, 19:97--102, 1978.
-
-F. Heinimann. Eine vorplatonische Theorie der . *Museum Helveticum*, 18:105--130, 1961.
-
-T. Irwin. *Platos Moral Theory: the Early and Middle Dialogues*. Oxford University Press, 1977.
-
-T. Irwin. *Plato: Gorgias*. Oxford, 1979.
-
-T. Irwin. *Platos Ethics*. Oxford University Press, 1995.
-
-C. H. Kahn. *Plato and the Socratic Dialogue*. Cambridge University Press, 1996.
-
-Richard Kraut. *Socrates and the State*. Princeton University Press, 1984.
-
-John Lyons. *Structural Semantics*. Blackwell, 1972.
-
-Jessica Moss. Pleasure and Illusion in Plato. *Philosophy and Phenomenological Research*, 72(3):503--535, 2006.
-
-Alexander Nehamas. Menos Paradox and Socrates as a Teacher. *Virtues of Authenticity*, 1999.
-
-Terry Penner. Socrates on the Strength of Knowledge: Protagoras 351b- 357e. *Archiv für Geschichte der Philosophie*, 79:117--149, 1997.
-
-C. D. C. Reeve. *Socrates in the Apology*. Hackett, 1989.
-
-David Roochnik. Socratess Use of the Techne-Analogy. *Journal of the History of Philosophy*, 24(3):295--310, 1986.
-
-David Roochnik. Counting on Number: Plato on the Goodness of Arithmos. *American Journal of Philology*, 115(4):543--563, 1994.
-
-David Roochnik. *Of Art and Wisdom*. Pennsylvania State University Press, 1996.
-
-Mark Schiefsky. *Hippocrates: On Ancient Medicine*. Brill, 2005.
-
-Angela Smith. Knowledge and Expertise in the Early Platonic Dialogues. *Archiv für Geschichte Der Philosophie*, 80(2), 1998.
-
-Gregory Vlastos. Ethics and Physics in Democritus. Part II. *The Philosopical Review*, 55:53--64, 1946.
-
-Paul Woodruff. Platos Early Theory of Knowledge. *Epistemology*, 1990.
+{% bibliography --cited %}
 
 ## Notes
-
-[^1]: @huemer2002ecr, p. 1.
-
-[^2]: By “earlier dialogues,” I mean the *Apology, Charmides, Crito, Euthydemus, Euthyphro, Gorgias, Hippias Major, Hippias Minor, Ion, Laches, Lysis,* and *Protagoras*; I also draw on the *Meno* and *Republic* I. (But similar examples are also prominent in later dialogues.)
-
-[^3]: *Gorgias* 491a; *Memorabilia* 1.2.
-
-[^4]: @vlastos1991socrates [p. 41].
-
-[^5]: @benson2000swm [11].
-
-[^6]: pp. 211–212.
-
-[^7]: @irwin1995pse [70].
-
-[^8]: Isocrates’ *Against the Sophists* and the Hippocratic *On Ancient Medicine* discuss oratory and medicine respectively. @heinimann1961vpt treats the situation prior to Plato.
-
-[^9]: 181e–184c. Neither Laches nor Nicias actually uses the word ‘*techne,*’ when speaking of fighting in armour; rather they refer to it as a (possible) subject (*mathema*), or as knowledge (*episteme*). Now ‘*episteme*’ is a frequent synonym for ‘*techne*’ in the early dialogues. And Socrates is treating ‘*mathema*’ as implying a *techne* at 185e, and when he begins speaking of *techne* back at 185a, Nicias assumes that the *techne* in question would be fighting in armour (185c).
-
-[^10]: @schiefsky2005 [63–4] argues for dating *VM* to the late fifth century.
-
-[^11]: A few scholars have recently taken more of an interest in the Socratic conception of *techne* in its own right, and as a matter of *epistemology* rather than just ethics—most notably Paul @woodruff1990pse and Angela @asmith1998. A useful discussion with more attention to the contemporary views about *techne* may be found in @reeve1989sita [37–45], though Reeve’s discussion generally gives the (in my view mistaken) impression that there was *a* going view of *techne,* albeit one which underwent some development.
-
-[^12]: 449d. Trans. Zeyl.
-
-[^13]: On systematicity see also @woodruff1990pse [71–2], @asmith1998 [135–6].
-
-[^14]: cf. @kahn1996pas [xx].
-
-[^15]: Arithmetic is a special case, representing an ideal of precision (*akribeia*)—see @roochnik1994cnp [@roochnik1996aaw] and @schiefsky2005 [13–18]. Indeed Plato will later say that every *techne* must participate in *arithmos* and *logistike* (*Republic* 522c; cf. *Philebus* 55e ff.). But exceptional or not, my point holds.
-
-[^16]: @allen1994 provides an excellent survey of this topic.
-
-[^17]: @roochnik1986 [19–20]. Cf. Isocrates (*Against the Sophists*) on writing out letters.
-
-[^18]: For this sort of objection see e.g. *Protagoras* 319a–320b, *Laches* 185d–e, Isocrates *Against the Sophists* 14, *Dissoi Logoi* 6.5–6, *De Arte* 4; cf. @heinimann1961vpt [123–6].
-
-[^19]: *Gorgias* 448c, *Euthydemus* 279ff., *De Arte* 4–7, *VM* 1, 12, *Places in Man* 41, 44, 46, Xenophon *Memorabilia* III.ix.14–15; cf. @vlastos1946eap [54–6], @heinimann1961vpt [108, 123–4], @allen1994.
-
-[^20]: *De Arte* 5–6.
-
-[^21]: At *Protagoras* 344c–d, Socrates says misfortune (*sumphora*) might incapacitate a craftsman but not an ordinary person (who has no *techne* to start with). Here misfortune interferes with *techne*, but by destroying it, not by preventing it from attaining its goals.
-
-[^22]: “Wisdom makes men fortunate in every case [of *techne*], since I don’t suppose that she would ever make any sort of mistake but must necessarily do right and be lucky—otherwise she would no longer be wisdom.”
-
-[^23]: cf. Allen pp. 85–6. This view, and the thesis that virtue suffices for happiness which it is meant to support, is open to the sorts of objections raised later against the Stoics by Alexander (*Supp. De Anima* 160.1 ff.). The argument in the *Euthydemus,* is, moreover, clearly fallacious. But the conclusion that virtue is sufficient for happiness is after all Socratic, and the case of *De Arte* shows that this position was a contemporary possibility.
-
-[^24]: On stochastics *technai* see @allen1994 [88 ff.].
-
-[^25]: 448c; cf. 462a and Aristotle *Metaphysics* 981a.
-
-[^26]: 501a. A view of *techne* according to which it did just consist in experience was influential in later centuries. But quite likely Polus doesn’t himself mean to be defending a peculiar and disputable view of craft (@schiefsky2005 [346–8]). Aristotle mentions Polus’ statement as if it were an unobjectionable truism (*Metaphysics* 981a).
-
-[^27]: cf. *VM* 20: doctors know “what the human being is in relation to foods and drinks, and what it is in relation to other practices, and what will be the effect of each thing on each individual.” @dodds1959pg and @irwin1979pg think the use of ‘*prospherein*’ at 465a suggests Plato had medicine in mind there too, which is perhaps borne out by 501a.
-
-[^28]: 464a, cf. @irwin1979pg 500e–501a *ad loc*, and *Laches* 189e–190a.
-
-[^29]: Cf. @moss2006pai on the relationship between pleasure and illusion in Plato.
-
-[^30]: Cf. *Euthyphro* 6e, where piety is a *paradeigma* or model one may look to.
-
-[^31]: Socrates is as happy with expressions of the form “know X” as “know what X is”—he thinks of knowledge as much in terms of acquaintance or perception as in terms of anything linguistic. See e.g. *Charmides* 159a, *Euthyphro* 6e, *Gorgias* 503e.
-
-[^32]: See, for example, *Laches* 190a–c and *Gorgias* 503d–e. Indeed a phrase like “knowing X” can simply be used synecdochally to characterize a *techne* as a whole by reference to its proper object—thus medicine is the “knowledge of health,” or the “knowledge of health and disease” (e.g. *Charmides* 165c, *Gorgias* []).
-
-[^33]: This sort of test is prominent in *Euthyphro,* *Laches,* *Charmides* and *Hippias Major*.
-
-[^34]: p\. 149. Though some dialogues, e.g. *Charmides,* have the character more of a shared investigation—here it is an idea rather than a purported expert that is being tested.
-
-[^35]: *Euthyphro* 16a, *Laches* 185b–187b, *Gorgias* 514a–515a.
-
-[^36]: E.g. in the *Ion,* the first third of *Gorgias,* and the later parts of *Euthyphro* and *Laches*.
-
-[^37]: Cf. @asmith1998 [153]: “too much emphasis has been placed upon the formal features of the Socratic elenchus, and not enough on the purpose and spirit of it.”
-
-[^38]: The notion of a “craft analogy” is misleading, as it invites the question “how far does the analogy hold?” But Socrates treats *specific* *technai* as *analogues* of virtues, because he thinks that medicine, arithmetic, justice, etc., are *all equally* *technai*. Contrast Aristotle, who appeals to *techne* for a (limited) analogy with virtue, e.g. at *NE* 1103a32–b2.
-
-[^39]: Some scholars, such as Terence Irwin, take the analogy to be exact. Others, including Gregory Vlastos and R. E. Allen, think that the analogy has definite limits. David @roochnik1996aaw [6] says that “Plato rejects techne as a model of moral knowledge,” and that Plato juxtaposes *techne* and virtue to show how *poor* a model *techne* provides.
-
-[^40]: Perhaps Socrates objects to the use of the term ‘*techne*’? But surely Socrates thinks these Sophists don’t teach virtue at all, not just that it’s not a *techne* they’re teaching.
-
-[^41]: @irwin1995pse [198–9] thinks that, for Socrates, *technai* are of instrumental value, virtue is *techne*, and so virtue is of instrumental value. Gregory Vlastos and George Klosko, for example, want to resist that implication, and rightly so.
-
-[^42]: What about the case of draughts, say? (*Petteutike*—*Gorgias* 450d; see Dodds *ad loc.*: Plato is “probably thinking of a game of pure skill.”) @gosling1978pmt [100] draws attention to flute- and lyre-playing as well. But @roochnik1986 [187–8] goes too far in claiming that Socrates draws a distinction between productive and theoretical crafts at *Charmides* 165, so that “the value of theoretical knowledge is not instrumental: its worth derives solely from itself.” (cf. Smith, 137.)
-
-[^43]: This is not ultimately a workable position. It identifies the good with knowledge, but to the question what it’s knowledge *of*, Socrates seems to want to answer that it’s knowledge of the good, which is unilluminating and violates the explicit stricture that a *techne* have some object independent of itself (*Charmides* 165c–166c, *Clitophon* 409a–d, *Euthydemus* 292a–e, *Republic* 505b–c).
-
-[^44]: For example @allen1996pih [29].
-
-[^45]: Though the situation in the *Republic* is more complicated in several ways.
-
-[^46]: As observed just above, they say that *knowledge* can be overwhelmed, but I leave knowledge aside for now.
-
-[^47]: Jessica @moss2006pai argues that pleasure is a trope for practical illusion in Plato.
-
-[^48]: Like most scholars, I don’t believe Socrates really accepts hedonism. But the assumption of hedonism lets Socrates deploy the above argument against *akrasia* and allows for the development of a sort of toy-model for displaying Socrates’ views.
-
-[^49]: In the *Gorgias,* too, Socrates emphasizes the vulnerability of the ignorant to the manipulation of charlatans who play on their appetites. Cf. also *Hippias Minor* 372d–e, *Euthyphro* 11b–c, *Meno* 97c–98b.
-
-[^50]: Although Socrates promises a later consideration of just what this “craft and knowledge” is, he does not bring up the topic again—but perhaps he would intend to qualify the identification with arithmetic, or to say how pleasures and pains are measured?
-
-[^51]: Thus Terence @penner1997ssk is right to insist that the “knowledge is strong” thesis is not implied by the denial of *akrasia.* The denial of *akrasia* is rather required to ensure we do as knowledge directs. Knowledge is strong because it ensures that you *think the right way*; *then* the denial of *akrasia* takes over. Cf. also @allen1960sp, pp 257-8 and n. 6.
-
-[^52]: In a sense Socrates refutes the idea that knowledge is weak *twice*. If you think of knowledge in terms of knowing the right thing to do on a given occasion, then the refutation does consist in showing that *akrasia* is impossible. But if we think of knowledge in terms of *techne*, then the refutation is completed only later with the *techne* of measurement.
-
-[^53]: cf. *Hippias Minor* 265-7.
-
-[^54]: Strictly there is a three-way distinction between 1) the body of knowledge, 2) the possession of the *techne*, and 3) the beliefs resulting from *techne*.—Hugh @benson2000swm [205–11] also says we should distinguish between knowledge as a *dunamis* or power and knowledge as a state which is brought about by that power. But to call Socratic knowledge a *dunamis* is to under-describe it—knowledge is not just *dunamis* but specifically *techne*.
-
-[^55]: *Meno* 71a–b, *Hippias Minor* 304d–e. Whether Socrates thinks that knowledge of what a thing is is necessary and/or sufficient for knowledge of its qualities or bearers, and how these theses should be understood, has attracted much controversy, mostly under the heading of “the priority of definition.” (A review of construals of, and of evidence for and against, these theses may be found in chs. six and seven of @benson2000swm.) I prefer to ask whether or not it is possible to know anything if you don’t possess a relevant *techne*.
-
-[^56]: Richard Kraut suggests that epistemological standards rise over the course of the earlier dialogues—they are lower in the *Apology,* for example, and stricter in the *Meno* and the *Hippias Major* (@kraut1984sas [xx]. Irwin treats the positive knowledge claims as anomalous and supposes that what Socrates avows is not knowledge but merely true belief (@irwin1977pmt [xx]; cf. @irwin1995pse [28–9]).
-
-[^57]: For instance @brickhouse1994pss [esp. p. 36] say that Socrates disavows systematically reliable knowledge of whole domains; but this is compatible with having knowledge of specific facts, to any degree of certainty or stability, within those domains. (I would say: Socrates has no craft—at least not of a moral sort—but this does not mean that he doesn’t know particular facts which would fall within the purview of some craft.) But this approach leads them to deny that, on the Socratic view, knowledge of definitions is necessary for knowledge of specific facts (45). But you could perfectly well still say exactly that, once you have distinguished different forms of knowledge.
-
-[^58]: Benson p. 237. Though he speaks of understanding rather than *techne*.
-
-[^59]: As @woodruff1990pse [77] points out.
-
-[^60]: See Brickhouse and Smith pp. 39–41 for some possibilities (including these two).
-
-[^61]: For the same reason, Benson is wrong to suggest that expressions of knowledge which fall outside his expertise sense are “loose” or “in the manner of the vulgar” (236, 238). He worries about cases where disavowals of definitional knowledge are juxtaposed closely with avowals of non-expert knowledge. (He appears—from p. 236 with n. 34—to be thinking of *Apology* 29a–b and 37b, and to a lesser extent of *Euthydemus* 296e–297a and *Hippias Minor* 304e.) He concludes that “we can either take these passages as evidence for another sense of knowledge that Socrates periodically makes use of—although not nearly so frequently as we have been led to suppose—or we can take them as misstatements made in the heat of the moment or in the manner of the vulgar. In either case the account of Socratic knowledge offered in this examination escapes unscathed” (238).
-
-[^62]: This point will be missed if it is not realized that the impossibility of *akrasia* and the strength of knowledge are two totally different theses and that neither implies the other.
-
-[^63]: Socrates is actually indifferent here between ‘*episteme*’ (352b), ‘*phronesis*’ (352c), ‘*sophia*’ (352d), and ‘*gignoskein*’ (352d).
-
-[^64]: @lyons1972ssa, chapter 7. Lyons’ discussion concerns the Platonic corpus as a whole.
-
-[^65]: Lyons pp. 179, 199 ff.
-
-[^66]: Lyons pp. 160–1 ff. *Charmides* 159a may be an exception—Socrates observes that Charmides knows Greek, employing ‘*epistasthai*,’ but from the *Protagoras* I do not think Socrates would speak of a *techne* of Greek. (Lyons is also of the opinion that Socrates would not consider Greek a *techne*: see pp. 184–5, 221.)
-
-[^67]: Lyons himself discusses a similar case in the *Ion* (at 540e) where ‘*gignoskein*’ is used in connection with ‘*techne*’ as part of an *argument* connecting good judgment in a particular field with an appropriate *techne*: pp. 188–198.
-
-[^68]: trans. Woodruff with ‘craft’ substituted for his ‘profession.’
-
-[^69]: Cf. @allen1989dpe [326].
-
-[^70]: Though such *technai* as arithmetic and measurement show up plenty as well, and *take on* practical forms. We might also remember Aristotle’s somewhat disparaging remarks about history, on account of its dealing only with particular facts: *Poetics* 1451a36-b11.
-
-[^71]: Interestingly, Isocrates, in “Against the Sophists,” wants to deny that oratory is a *techne* but *also* to claim that it’s worth teaching. In this he is more tolerant than Socrates, and yet it is clear that he is *struggling* to characterize this knowledge. Whereas contrast the various forms of knowledge Aristotle tabulates at the start of *NE* VI.3.
-
-[^72]: Cf. @asmith1998 [157–161].
-
-[^73]: @woodruff1990pse [81].
-
-[^74]: Woodruff himself allows that the *Meno* is not consistent on the teachability question, and says that the suggestion that there might be knowledge without teachers “is resisted in the balance of the dialogue” (83). The teachability criterion is important as part of the *Meno’*s guiding hypothesis that if virtue is knowledge then it will be teachable.
-
-[^75]: In fact a number of familiar features of *techne* reappear in the *Meno*. The completeness requirement seems to show up in Socrates’ insistence that the slave would have to go through many proofs repeatedly before he would have knowledge. The explanatory condition shows up at 98a, as does reliability.
-
-[^76]: cf. @nehamas1999mps [10–12].
-
-[^77]: This sort of question about expertise is reasonable. It’s no surprise that similar questions show up in contemporary discussions as well. See for instance @goldman2001experts.
-
-[^78]: Unless we are to understand that Socrates himself is an exceptional case.
-
-[^79]: cf. also *Hippias Minor* 372d–e, *Euthyphro* 11b–c, *Meno* 97c–98b.
-
-[^80]: in Grube’s translation.
-
-[^81]: At 82b or 84a. Or perhaps properly speaking recollection is what the slave might go on to do, as Nehamas says—@nehamas1999mps, p. 18.
-
-[^82]: The notion of ‘explanation’ in Gail Fine’s proposal that knowledge in the *Meno* is justified (roughly: explained) true belief seems to me so expansive as to encourage just this conclusion—that (atomic) knowledge is true belief plus knowledge. [CITE?]
-
-[^83]: Julia @annas1981ips, p. 192. Annas also mentions the flute example in *Republic* X and the the jury example in the *Theaetetus*. See also Gail @fine2004ktb, p. 43.
-
-[^84]: Interestingly, Plato also uses the road example to illustrate the difference between knowledge and belief at *Republic* 506c, and there the example is deployed in an even more off-hand fashion, and is equally out of keeping with the general discussion.
-
-[^85]: In fact the Meno example illustrates a point already familiar from earlier dialogues.
-
-[^86]: Fine does indeed mention this example too.
-
-[^87]: Annas and Fine are looking ahead to disputes about the nature of Plato’s middle-period metaphysics and epistemology. They want to resist too firm a distinction between the intelligible objects of knowledge on the one hand and the sensible objects of belief on the other.
