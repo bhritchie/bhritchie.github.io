@@ -35,11 +35,17 @@
     </div>
 
     <ul class="social">
+      <li><a id="em" href=""><i class="fa fa-envelope-square"></i></a></li>
       <li><a href="https://github.com/bhritchie"><i class="fa fa-github"></i></a></li>
       <li><a href="https://twitter.com/bhritchie"><i class="fa fa-twitter"></i></a></li>
       <li><a href="http://ca.linkedin.com/in/brendanhughritchie/"><i class="fa fa-linkedin"></i></a></li>
       <!-- Note could use fa-graduation-cap for academia.edu -->
     </ul>
+
+    <script>
+      var em = document.getElementById("em");
+      em.href="mailto:" + "bhritchie" + "@" + "me" + "." + "com";
+    </script>
 
     <!-- <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p> -->
   </div>
