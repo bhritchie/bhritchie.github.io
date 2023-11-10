@@ -41,7 +41,7 @@ body {
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
   color: #268bd2;
-  text-decoration: none;
+  /*text-decoration: none;*/
 }
 
 /*a strong {
@@ -49,10 +49,11 @@ a {
 }*/
 /* `:focus` is linked to `:hover` for basic accessibility */
 
-/*a:hover,
+a:hover,
 a:focus {
-  text-decoration: underline;
-}*/
+  /*text-decoration: underline;*/
+  filter:brightness(0.5)
+}
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
