@@ -1,1 +1,1 @@
-This is the source for for my personal website [(bhritchie.github.io)](https://bhritchie.github.io/).
+This is the source for [bhritchie.com](bhritchie.com), my personal site.
