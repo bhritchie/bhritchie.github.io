@@ -1,7 +1,5 @@
 /* Poole */
 
-
-
 /*
  * Body resets
  *
@@ -21,10 +19,12 @@ body {
 }
 
 html {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  /*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
+  font-family: "Gentium Plus", "Times New Roman", serif;
   font-size: 16px;
   line-height: 1.5;
 }
+
 @media (min-width: 38em) {
   html {
     font-size: 20px;
@@ -62,7 +62,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.25;
   color: #313131;
   text-rendering: optimizeLegibility;
-  /*font-family: "Gentium Basic", serif;*/
+  /*font-family: "Gentium Plus", serif;*/
 }
 h1 {
   font-size: 2rem;
@@ -348,8 +348,8 @@ tbody tr:nth-child(odd) th {
  */
 
 html {
-  /*font-family: "Gentium Basic", "PT Sans", Helvetica, Arial, sans-serif;*/
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  /*font-family: "PT Sans", Helvetica, Arial, sans-serif;*/
+  font-family: "Gentium Plus", "Times New Roman", serif;
 }
 @media (min-width: 48em) {
   html {
@@ -396,7 +396,7 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "PT Sans", sans-serif;
+  font-family: "Gentium Plus", "Times New Roman", serif;
   font-size: 2rem;
 }
 
@@ -438,6 +438,7 @@ a.sidebar-nav-item:focus {
  * with a 25%-wide `.sidebar`.
  */
 
+/* should be maybe 1rem on mobile but might want to up the font size */
 .content {
   padding-top:    4rem;
   padding-bottom: 4rem;
@@ -525,7 +526,11 @@ a.sidebar-nav-item:focus {
 h1.post-title  {
   /*text-align: right*/
   color: #800000;
+}
 
+h2.post-title  {
+  /*text-align: right*/
+  color: #800000;
 }
 
 .sidebar-about h1 {
